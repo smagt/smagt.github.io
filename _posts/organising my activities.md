@@ -1,5 +1,5 @@
 ---
-date: 2024-05-22T17:41:39
+date: 2024-05-24 22:17:21 +0200
 tags: 1-projects 
 layout: post
 title: organising my activities
