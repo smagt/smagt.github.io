@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a blog by Patrick van der Smagt.  In this, he is just talking for himself.  If there are opinions, then these are his own.  He does not intend to speak negatively or such for any one person or organisation.  In fact, he does not intend to speak for any other person, or for any organisation, at all.  And if you think he does, please reach out to him, and he will mend his ways.  And, where appropriate, this blog.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
