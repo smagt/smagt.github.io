@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+Some stuff I need to share:
+
+This is a simple test at [[test]]
+
+This is a real input, about how I use Obsidian: [[organising my activities]]
+
