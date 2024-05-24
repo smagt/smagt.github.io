@@ -1,10 +1,8 @@
 ---
-share: true
 date: 2024-05-22T17:41:39
 tags: 1-projects 
 layout: page
 title: organising my activities
-permalink: /2024-05-24 organising my activities/
 ---
 
 # 1: organising my activities
