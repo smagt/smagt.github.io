@@ -1,11 +1,10 @@
 ---
 date: 2024-05-24 22:17:21 +0200
-tags: 1-projects 
 layout: post
 title: organising my activities
 ---
 
-# 1: organising my activities
+# vault 1: organising my activities
 It's all about the setup. I have been struggling with note taking, lab communication, and document solutions for decades. Really. Far from having solved the second (but Slack is good in some cases) or third (but google suite or 365 do have merits in a few instances), at least now I feel solid on the first. And that already for a year. Let me explain.
 
 My professional life consists of meetings and discussions. Many meetings are come-and-go: you talk about something which is only on the periphery of your interest, you try to put in your thoughts, and off to the next. One "meets" many people, often only once, but there is nothing close to a personal exchange.
@@ -16,7 +15,7 @@ Finally, I try to do content work: write papers, run experiments, create initiat
 
 Finally? not finally at all. Since there is also a personal life. Family issues; sports; literature; arts; music. Perhaps it'd better been the other way around -- those being work issues, and computer stuff personal -- but that's how it is.
 
-And then I am a very procrastinating person. And someone who loves to start things, but is not so keen on finishing things. Ideally, I start something, and someone else picks up the leftovers and makes it into something nice. Yes, I drive life partners to insanity, and I apologise for that. Work partners are easier, since such a relationship can be defined from the beginning.
+And then I am a very procrastinating person. And someone who loves to start things, but is not so keen on finishing things. Ideally, I start something, and someone else picks up vault the leftovers and makes it into something nice. Yes, I drive life partners to insanity, and I apologise for that. Work partners are easier, since such a relationship can be defined from the beginning.
 
 Enough of an intro. Let me explain to you how I try to have obsidian help me with this.
 
@@ -207,7 +206,7 @@ And then, essentially, I use Obsidian sync. It works very, very stably, and clos
 
 I started off with my ecosystem sync mechanism, and it's erroneous.  
 
-# 2: my documents
+# vault 2: my documents
 That's not all though. I have a second vault.
 
 This second vault I use to carry my digital documents around. Invoices, insurance documents, registration forms, travel itineraries... any of that stuff that is, used to be, basically paper based.
@@ -252,4 +251,4 @@ To solve this, I use git-crypt with gpg. This can be made completely transparent
 ### final
 If, like me, you came from Evernote, you can use `yarle-evernote-to-md.app`.  
 
-And a final thing: the text search in image-based PDFs doesn't work very well, sadly. I must be doing something wrong which I still have to figure out.
+And a final thing: the text search in image-based PDFs doesn't work very well, sadly. It appears that the text extractor plugin does not work on all PDFs. A newer plugin, called OCR, is promising but buggy as I write this. A tool like [https://docs.paperless-ngx.com](https://docs.paperless-ngx.com/) is probably more powerful than my approach. But I do not like to put my documents on a server with public 
