@@ -43,16 +43,16 @@ Still... it's only daily notes. Going on to the second problem.
 As explained, my daily notes are only a part of my life. And indeed a small part, from a mental point of view.
 
 Looking at what I've set up in Obsidian, my life consists of not more than 10 parts, and de facto only six:  
-![Pasted image 20240515132726.png](../_resources/Pasted%20image%2020240515132726.png)
+![Pasted image 20240515132726.png](Pasted%20image%2020240515132726.png)
 
 The order is somewhat weird, I agree. The numbers are based on the [Dewey decimal system](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification). Remember libraries? Or ever been in one? There book spines often have this 3-digit number. That number is a topic categorisation, devised by Dewey, over a century ago. In my vault I didn't follow Dewey's classification, of course, since I am not a library; but I used the gist of it. The idea being, you can easily (and will automatically) memorise such numbers, and that allows you to find back topics and files in a directory. Yes, the above list correspond to directories on my file system.
 
 In my taxonomy, sometimes the distinction between "science" and "work" is difficult. But for the rest, it's been solid for a year now and works well for me.
 
 Within each of the above I have subdirectories, of course. Sometimes neatly organised:  
-![Pasted image 20240515133332.png](../_resources/Pasted%20image%2020240515133332.png)
+![Pasted image 20240515133332.png](Pasted%20image%2020240515133332.png)
 with a bit of useless playfulness with icons; and sometimes less so:  
-![Pasted image 20240515133441.png](../_resources/Pasted%20image%2020240515133441.png)
+![Pasted image 20240515133441.png](Pasted%20image%2020240515133441.png)
 Works for me.
 
 Note, at the top level, I have a directory called "daily". It is, in fact, a copy of my Logseq notes, which are automatically synched both ways through git. More about my use of git later.
@@ -91,7 +91,7 @@ And now comes in more power of Obsidian, through its plugins. Without the datavi
 Dataview is basically a tool to access the metadata (like the stuff in the yaml preamble) of your repository. And since it uses those data that are already prepared by obsidian, it's fast.
 
 I thus create an overview of my four categories:  
-![Screenshot 2024-05-15 at 14.00 copy.png](../_resources/Screenshot%202024-05-15%20at%2014.00%20copy.png)
+![Screenshot 2024-05-15 at 14.00 copy.png](Screenshot%202024-05-15%20at%2014.00%20copy.png)
 
 using somewhat involved Dataview/Javascript pieces of code. (The above picture is not real and complete. Sorry but... it's only my business what's in my notes!)
 
@@ -126,9 +126,9 @@ But with two twists. First, I do collaborate on some of the contents. I share th
 Second: I use git to synchronise between Logseq and Obsidian. There are other ways, but this one works perfectly 999 out of 1000 times. (Sometimes I need to help solve some git hiccups, if I cause it to misbehave.) Basically, I just use again a submodule in Obsidian, and the normal Logseq git sync, to keep the two in agreement. It works both ways, but of course the sync is not instantaneous. That does not bother me.
 
 One major use for this is keeping track of my habits. My sport, arts, and whatnot. For this, in Logseq I put entries like `go:: 22:30`, note the double double column. These are then easily parsable in Obsidian Dataview, and can be used to make graphs, plots, and such. Six of these, each with different output, are in my vault, and they create life plots like this:
-![Pasted image 20240516222231.png](../_resources/Pasted%20image%2020240516222231.png)
+![Pasted image 20240516222231.png](Pasted%20image%2020240516222231.png)
 or this: 
-![Pasted image 20240516222422.png](../_resources/Pasted%20image%2020240516222422.png)
+![Pasted image 20240516222422.png](Pasted%20image%2020240516222422.png)
 
 I'm not divulging what those plots indicate, but believe me, I use them frequently to congratulate myself on my progress. It helps me.
 
@@ -146,7 +146,7 @@ Canvases are nice. But one problem: they do not have yaml stuff in there. So the
 
 ### plugins
 - **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this: 
-![Pasted image 20240517082942.png](../_resources/Pasted%20image%2020240517082942.png)
+![Pasted image 20240517082942.png](Pasted%20image%2020240517082942.png)
 - **Advanced Paste**: allows for some more freedom in pasting text from, e.g., websites, or weird editors. I don't use its powers often, but I use it.
 - **Advanced Tables**: very useful (in fact, necessary) when you write a document in Markdown with a table.
 - **Attachment Management**: moves my attachments with my notes, as explained in the git section above.
