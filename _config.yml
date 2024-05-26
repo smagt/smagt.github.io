@@ -30,7 +30,6 @@ github_username:  padsmagt
 linkedin_username:  smagt
 
 # Build settings
-<<<<<<< HEAD
 # remote_theme: pages-themes/modernist@v0.2.0
 # plugins:
 # - jekyll-remote-theme
@@ -38,15 +37,6 @@ linkedin_username:  smagt
 theme: minima
 plugins:
 - jekyll-feed
-=======
-#remote_theme: pages-themes/modernist@v0.2.0
-#plugins:
-#- jekyll-remote-theme
-plugins:
-- jekyll-feed
-theme: minima
-# theme: jekyll-theme-modernist
->>>>>>> 1fac82b5046365c503d7f9805e4dd6a6246151a2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
