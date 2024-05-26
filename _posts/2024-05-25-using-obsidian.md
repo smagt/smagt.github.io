@@ -5,8 +5,7 @@ layout: post
 filename: _posts/2024-05-25-using-obsidian
 title: organising my activities
 ---
-
-here it comes v4
+This is a short piece describing how I use Obsidian for organising my non-work-related data. 
 # vault 1: organising my activities
 It's all about the setup. I have been struggling with note taking, lab communication, and document solutions for decades. Really. Far from having solved the second (but Slack is good in some cases) or third (but google suite or 365 do have merits in a few instances), at least now I feel solid on the first. And that already for a year. Let me explain.
 
@@ -95,7 +94,7 @@ Dataview is basically a tool to access the metadata (like the stuff in the yaml 
 I thus create an overview of my four categories:  
 ![2024-05-25-img4.png](/assets/2024-05-25-img4.png)
 
-using somewhat involved Dataview/Javascript pieces of code. (The above picture is not real and complete. Sorry but... it's only my business what's in my notes!)
+using somewhat involved Dataview/Javascript pieces of code. (The above picture is not real and complete. Sorry but... it's only my business what's in my notes!)  I'm not ready yet to make this public, but contact me and I'll share.
 
 The look-and-feel of the whole is a key thing. On top, my deadline-based projects. (And you see I'm not consistent there, even; the top two are new but without a real deadline.) It lists the topics, sorts them by deadline, and shows a colour-coded reminder of how long I did not touch them. I typically have 5-ish projects in parallel, so this list is short.
 
@@ -171,6 +170,7 @@ Canvases are nice. But one problem: they do not have yaml stuff in there. So the
 - **Frontmatter tag suggest**: I never remember if it's called `1-projects` or something else; but I remember the `1-`. This plugin then auto-completes. Perfect.
 - **Fullscreen mode plugin**: good when I'm writing.
 - **Git**: explained above.
+- **Github publisher**: for publishing this blog from obsidian. Works after extreme hand tuning.  I explain elsewhere how I did that.
 - **Heatmap calendar**: makes those heatmaps I showed above.
 - **Hide sidebars on window resize**: does what it says, for small screens.
 - **Homepage**: displays my Dashboard, always.
