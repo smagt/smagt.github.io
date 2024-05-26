@@ -43,7 +43,7 @@ Still... it's only daily notes. Going on to the second problem.
 As explained, my daily notes are only a part of my life. And indeed a small part, from a mental point of view.
 
 Looking at what I've set up in Obsidian, my life consists of not more than 10 parts, and de facto only six:  
-![../assets/2024-05-25-img1.png](../assets/2024-05-25-img1.png)
+![2024-05-25-img1.png](/assets/2024-05-25-img1.png)
 
 The order is somewhat weird, I agree. The numbers are based on the [Dewey decimal system](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification). Remember libraries? Or ever been in one? There book spines often have this 3-digit number. That number is a topic categorisation, devised by Dewey, over a century ago. In my vault I didn't follow Dewey's classification, of course, since I am not a library; but I used the gist of it. The idea being, you can easily (and will automatically) memorise such numbers, and that allows you to find back topics and files in a directory. Yes, the above list correspond to directories on my file system.
 
