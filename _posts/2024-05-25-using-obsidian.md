@@ -1,8 +1,8 @@
 ---
 blog: true
 date: 2024-05-25 22:17:21 +0200
-layout: post
 filename: _posts/2024-05-25-using-obsidian
+layout: post
 title: organising my activities
 ---
 This is a short piece describing how I use Obsidian for organising my non-work-related data. 
