@@ -51,8 +51,10 @@ In my taxonomy, sometimes the distinction between "science" and "work" is diffic
 
 Within each of the above I have subdirectories, of course. Sometimes neatly organised:  
 ![2024-05-25-img2.png](/assets/2024-05-25-img2.png)
+
 with a bit of useless playfulness with icons; and sometimes less so:  
 ![2024-05-25-img5.png](/assets/2024-05-25-img5.png)
+
 Works for me.
 
 Note, at the top level, I have a directory called "daily". It is, in fact, a copy of my Logseq notes, which are automatically synched both ways through git. More about my use of git later.
@@ -126,8 +128,11 @@ But with two twists. First, I do collaborate on some of the contents. I share th
 Second: I use git to synchronise between Logseq and Obsidian. There are other ways, but this one works perfectly 999 out of 1000 times. (Sometimes I need to help solve some git hiccups, if I cause it to misbehave.) Basically, I just use again a submodule in Obsidian, and the normal Logseq git sync, to keep the two in agreement. It works both ways, but of course the sync is not instantaneous. That does not bother me.
 
 One major use for this is keeping track of my habits. My sport, arts, and whatnot. For this, in Logseq I put entries like `go:: 22:30`, note the double double column. These are then easily parsable in Obsidian Dataview, and can be used to make graphs, plots, and such. Six of these, each with different output, are in my vault, and they create life plots like this:
+
 ![2024-05-25-img6.png](/assets/2024-05-25-img6.png)
+
 or this: 
+
 ![2024-05-25-img7.png](/assets/2024-05-25-img7.png)
 
 I'm not divulging what those plots indicate, but believe me, I use them frequently to congratulate myself on my progress. It helps me.
@@ -145,7 +150,8 @@ For this I use the _Attachment Management_ plugin. I have set it up so that atta
 Canvases are nice. But one problem: they do not have yaml stuff in there. So they don't work with Dataview. And therefore, I don't use them for anything serious.
 
 ### plugins
-- **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this: 
+- **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this:
+
 ![2024-05-25-img8.png](/assets/2024-05-25-img8.png)
 - **Advanced Paste**: allows for some more freedom in pasting text from, e.g., websites, or weird editors. I don't use its powers often, but I use it.
 - **Advanced Tables**: very useful (in fact, necessary) when you write a document in Markdown with a table.
