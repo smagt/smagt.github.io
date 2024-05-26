@@ -30,7 +30,7 @@ github_username:  padsmagt
 linkedin_username:  smagt
 
 # Build settings
-theme: modernist
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
