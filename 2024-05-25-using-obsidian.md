@@ -1,7 +1,6 @@
 ---
 blog: true
 date: 2024-05-25 22:17:21 +0200
-layout: post
 title: how I use Obsidian
 ---
 Published on **2024-05-25**.
