@@ -5,7 +5,9 @@ layout: post
 filename: _posts/2024-05-25-using-obsidian
 title: organising my activities
 ---
-This is a short piece describing how I use Obsidian for organising my non-work-related data. 
+Published on **2024-05-25**.
+
+This is a short piece describing how I use Obsidian for organising my non-work-related data.  
 # vault 1: organising my activities
 It's all about the setup. I have been struggling with note taking, lab communication, and document solutions for decades. Really. Far from having solved the second (but Slack is good in some cases) or third (but google suite or 365 do have merits in a few instances), at least now I feel solid on the first. And that already for a year. Let me explain.
 
@@ -26,7 +28,7 @@ So to keep abreast of these many meetings, and knowing that you always meet twic
 
 I tried notebooks and pens. I have a nice collection of ink pens with different colours I love. Orange, green, black -- the ink, I mean. I like touching the pens, I love writing with them. But then... it is a bit like a brain-dump, albeit short and non-lasting. I have no good way of getting back to the notes. I tried doing daily summaries, recaps. I tried drawing todo checkboxes. I tried scanning and OCR, and even special OCR-included ink pens. But... well, if the search function is not perfect, it doesn't work for me. The nice thing about paper notes is that they automatically get more distant as time progresses, and that aligns with the importance of a note. And that playing with colours and drawings is totally intuitive.
 
-So following up on these ideas, I tried writing notes electronically. Notes; Goodnotes; Paper; Vittle; Sprite; all of these I tried writing in. Even tried Evernote. And then more. Goodnote sticked the longest. Perhaps because I paid for it? And I still use it a bit, for the more art-centric stuff, quick drawings, and the like. But... for daily notes it completely failed for me. First since it's bound to a device -- it doesn't work well on laptop, or on phone. It doesn't have the advantage of paper (quick search; automatic forgetting). It gets messy. And... there is no search in hand-written text that works (for me).
+So following up on these ideas, I tried writing notes electronically. For instance in Notes; Goodnotes; Paper; Vittle; Sprite; all of these I tried writing in. Even tried Evernote. And then more. Goodnotes sticked the longest. Perhaps because I paid for it? And I still use it a bit, for the more art-centric stuff, quick drawings, and the like. But... for daily notes it completely failed for me. First since it's bound to a device -- it doesn't work well on laptop, or on phone. It doesn't have the advantage of paper (quick search; automatic forgetting). It gets messy. And... there is no search in hand-written text that works (for me).
 
 And a major thing, I realised I really do not like to write with a plastic pen on a glass screen. I may be old-fashioned, but I'm used to that Coulomb friction; the immediateness; the permanence. (But miss the eraser; or is that a feature?)
 
