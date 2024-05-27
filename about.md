@@ -5,7 +5,7 @@ title: About
 permalink: /about/
 ---
 
-# about, cq. print
+# about, cq. imprint
 
 This is a simple blog by Patrick van der Smagt.  It contains things he wants to get out but did not find a scientific or other venue to do so.
 
