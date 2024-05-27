@@ -1,8 +1,7 @@
 ---
 blog: true
-layout: page
 title: About
-permalink: /about/
+nav_order: 999
 ---
 
 # about, cq. imprint
