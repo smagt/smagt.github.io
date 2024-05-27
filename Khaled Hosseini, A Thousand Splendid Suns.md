@@ -2,7 +2,7 @@
 nav_order: 2
 parent: book I've read
 blog: true
-title: A Thousand Splendid Suns
+title: Hosseini, Khaled / A Thousand Splendid Suns
 subtitle: 
 author: Hosseini, Khaled
 publisher: Bloomsbury Publishing
