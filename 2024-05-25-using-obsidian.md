@@ -2,8 +2,7 @@
 blog: true
 date: 2024-05-25 22:17:21 +0200
 layout: post
-filename: _posts/2024-05-25-using-obsidian
-title: organising my activities
+title: how I use Obsidian
 ---
 Published on **2024-05-25**.
 
@@ -135,12 +134,12 @@ Second: I use git to synchronise between Logseq and Obsidian. There are other wa
 
 One major use for this is keeping track of my habits. My sport, arts, and whatnot. For this, in Logseq I put entries like `go:: 22:30`, note the double double column. These are then easily parsable in Obsidian Dataview, and can be used to make graphs, plots, and such. Six of these, each with different output, are in my vault, and they create life plots like this:
 
-![assets/2024-05-25/2024-05-25-img6.png](./assets/2024-05-25/2024-05-25-img6.png)
+![assets/2024-05-25/2024-05-25-img5.png](./assets/2024-05-25/2024-05-25-img5.png)
 
 
 or this: 
 
-![assets/2024-05-25/2024-05-25-img7.png](./assets/2024-05-25/2024-05-25-img7.png)
+![assets/2024-05-25/2024-05-25-img6.png](./assets/2024-05-25/2024-05-25-img6.png)
 
 I'm not divulging what those plots indicate, but believe me, I use them frequently to congratulate myself on my progress. It helps me.
 
@@ -159,7 +158,7 @@ Canvases are nice. But one problem: they do not have yaml stuff in there. So the
 ### plugins
 - **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this:
 
-![assets/2024-05-25/2024-05-25-img8.png](./assets/2024-05-25/2024-05-25-img8.png)
+![assets/2024-05-25/2024-05-25-img7.png](./assets/2024-05-25/2024-05-25-img7.png)
 - **Advanced Paste**: allows for some more freedom in pasting text from, e.g., websites, or weird editors. I don't use its powers often, but I use it.
 - **Advanced Tables**: very useful (in fact, necessary) when you write a document in Markdown with a table.
 - **Attachment Management**: moves my attachments with my notes, as explained in the git section above.
