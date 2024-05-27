@@ -14,8 +14,12 @@ previewLink: http://books.google.de/books?id=k7hIAw5WmmwC&pg=PT291&dq=a+thousand
 isbn13: 9781408803738
 isbn10: 1408803739
 ---
-rating:: 8
-read:: 2024-01
+title: A Thousand Splendid Suns  
+author: Hosseini, Khaled  
+publishDate: 2009-02-24  
+publisher: Bloomsbury Publishing  
+rating:: 8  
+read:: 2024-01  
 
 Two stories intertwine.  And if you're a slow reader, you may be confused about Mariam just disappearing from the sad story until then.  Mariam grows up with her mum in something like a shed, her father having made her in his "fling with the maid" or such. He takes care of the maid, afterwards, in a remote, detached way, and of the child, making sure she is not neglected, and making sure she does not come too close.
 
