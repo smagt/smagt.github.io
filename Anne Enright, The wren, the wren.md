@@ -57,13 +57,13 @@ And then, some female power (-less) I recognise, it got and gets thrown at me al
 
 _Felim does the same thing around my room, in the morning there are always leftovers for me to clear. What is that? Is it a power play, a hoarding impulse? ADHD? Is it male entitlement? I have seen him try to finish something, decide against finishing it, set it down and walk away._
 
-While I myself think, Apologies, partners of past and present, it was not meant that way, Nell thinks, *I think, I am his leavings. I am the thing he can not finish or throw away.
+While I myself think, Apologies, partners of past and present, it was not meant that way, Nell thinks, *I think, I am his leavings. I am the thing he can not finish or throw away.*
 
 The story continues, with Carmel, how then she gets pregnant.  And we know where that went: Nell.
 
 The book continues in the fashion, and even has an interlude in a chapter called Phil.  The name of Nell's grandfather, Carmel's father, the poet.  And suddenly things start coming together.  Yes, he left Carmel's mother, went to Greece for a girlfriend, then went to the US for a wife, and happily – or not – lived his life ever after.  We start to understand his leaving, seen by Carmel, as he mentioned it in an interview while he lived in the US:
 
-_Phil spoke about bluebells, the difference of the American woods to the spongy bogs of Offaly, and how he missed the wren here, he missed the smallness of Irish birds, and the wren especially who was the king of them all. He mentioned courting his wife, who had walked with him though bluebell woods when he was a young man. She was from Dublin and unfamiliar with the countryside, and that, in a way, was what his early poetry was for. It was his gift to her. A posy. No, What was the word? A nosegay. They lived together in Dublin for some time he said, but she got sick, unfortunately, and the marriage did not survive. Carmel pressed pause. Went back. ‘tunately, and the marriage …’ he looked sadly down. ‘Did not survive.’ ‘Unfortunately,’ she said. 
+_Phil spoke about bluebells, the difference of the American woods to the spongy bogs of Offaly, and how he missed the wren here, he missed the smallness of Irish birds, and the wren especially who was the king of them all. He mentioned courting his wife, who had walked with him though bluebell woods when he was a young man. She was from Dublin and unfamiliar with the countryside, and that, in a way, was what his early poetry was for. It was his gift to her. A posy. No, What was the word? A nosegay. They lived together in Dublin for some time he said, but she got sick, unfortunately, and the marriage did not survive. Carmel pressed pause. Went back. ‘tunately, and the marriage …’ he looked sadly down. ‘Did not survive.’ ‘Unfortunately,’ she said._
 
 "She got sick."  Dear reader, observations all differ.  Memories all differ.  It doesn't mean much.  You try to puzzle history together, even if it is just your own life.  And try to understand, why did I take that decision in that moment?  Why did I hurt that person?  Was I right, or were they?  Am I right, or are they?
 
