@@ -2,10 +2,14 @@
 blog: true
 date: 2024-05-25 22:17:21 +0200
 filename: _posts/2024-05-25-using-obsidian
-layout: post
+layout: default
+nav_order: 1
 title: organising my activities
 ---
+**2024-05-25**
+
 This is a short piece describing how I use Obsidian for organising my non-work-related data. 
+
 # vault 1: organising my activities
 It's all about the setup. I have been struggling with note taking, lab communication, and document solutions for decades. Really. Far from having solved the second (but Slack is good in some cases) or third (but google suite or 365 do have merits in a few instances), at least now I feel solid on the first. And that already for a year. Let me explain.
 
