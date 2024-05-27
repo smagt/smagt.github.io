@@ -45,7 +45,7 @@ As explained, my daily notes are only a part of my life. And indeed a small part
 
 Looking at what I've set up in Obsidian, my life consists of not more than 10 parts, and de facto only six:  
 
-![2024-05-25-img1.png](assets/2024-05-25/2024-05-25-img1.png)
+![assets/2024-05-25/2024-05-25-img1.png](./assets/2024-05-25/2024-05-25-img1.png)
 
 The order is somewhat weird, I agree. The numbers are based on the [Dewey decimal system](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification). Remember libraries? Or ever been in one? There book spines often have this 3-digit number. That number is a topic categorisation, devised by Dewey, over a century ago. In my vault I didn't follow Dewey's classification, of course, since I am not a library; but I used the gist of it. The idea being, you can easily (and will automatically) memorise such numbers, and that allows you to find back topics and files in a directory. Yes, the above list correspond to directories on my file system.
 
@@ -53,11 +53,11 @@ In my taxonomy, sometimes the distinction between "science" and "work" is diffic
 
 Within each of the above I have subdirectories, of course. Sometimes neatly organised:  
 
-![2024-05-25-img2.png](assets/2024-05-25/2024-05-25-img2.png)
+![assets/2024-05-25/2024-05-25-img2.png](./assets/2024-05-25/2024-05-25-img2.png)
 
 with a bit of useless playfulness with icons; and sometimes less so:  
 
-![2024-05-25-img3.png](assets/2024-05-25/2024-05-25-img3.png)
+![assets/2024-05-25/2024-05-25-img3.png](./assets/2024-05-25/2024-05-25-img3.png)
 
 
 Works for me.
@@ -99,7 +99,7 @@ Dataview is basically a tool to access the metadata (like the stuff in the yaml 
 
 I thus create an overview of my four categories:  
 
-![2024-05-25-img4.png](assets/2024-05-25/2024-05-25-img4.png)
+![assets/2024-05-25/2024-05-25-img4.png](./assets/2024-05-25/2024-05-25-img4.png)
 
 using somewhat involved Dataview/Javascript pieces of code. (The above picture is not real and complete. Sorry but... it's only my business what's in my notes!)  I'm not ready yet to make this public, but contact me and I'll share.
 
@@ -135,12 +135,12 @@ Second: I use git to synchronise between Logseq and Obsidian. There are other wa
 
 One major use for this is keeping track of my habits. My sport, arts, and whatnot. For this, in Logseq I put entries like `go:: 22:30`, note the double double column. These are then easily parsable in Obsidian Dataview, and can be used to make graphs, plots, and such. Six of these, each with different output, are in my vault, and they create life plots like this:
 
-![2024-05-25-img6.png](assets/2024-05-25/2024-05-25-img6.png)
+![assets/2024-05-25/2024-05-25-img6.png](./assets/2024-05-25/2024-05-25-img6.png)
 
 
 or this: 
 
-![2024-05-25-img7.png](assets/2024-05-25/2024-05-25-img7.png)
+![assets/2024-05-25/2024-05-25-img7.png](./assets/2024-05-25/2024-05-25-img7.png)
 
 I'm not divulging what those plots indicate, but believe me, I use them frequently to congratulate myself on my progress. It helps me.
 
@@ -159,7 +159,7 @@ Canvases are nice. But one problem: they do not have yaml stuff in there. So the
 ### plugins
 - **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this:
 
-![2024-05-25-img8.png](assets/2024-05-25/2024-05-25-img8.png)
+![assets/2024-05-25/2024-05-25-img8.png](./assets/2024-05-25/2024-05-25-img8.png)
 - **Advanced Paste**: allows for some more freedom in pasting text from, e.g., websites, or weird editors. I don't use its powers often, but I use it.
 - **Advanced Tables**: very useful (in fact, necessary) when you write a document in Markdown with a table.
 - **Attachment Management**: moves my attachments with my notes, as explained in the git section above.
