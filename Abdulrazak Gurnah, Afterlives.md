@@ -1,5 +1,4 @@
 ---
-nav_order: 2
 parent: book I've read
 blog: true
 title: Gurnah, Abdulrazak / Afterlives
@@ -16,7 +15,7 @@ isbn10: 1526649756
 title: Afterlives  
 author: Gurnah, Abdulrazak  
 publishDate: 2021-09-02  
-rating:: 9
+rating:: 9  
 read:: 2023-12
 
 A beautiful book, and hard to retell as it is a complex one.  Hamza comes back, after the war, to the area in Ethiopia or Kenya where he grew up. The war is lost by the Germans, but he is far away enough from his service in that war that it does not haunt him.
