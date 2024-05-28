@@ -2,11 +2,13 @@
 blog: true
 date: 2024-05-25 22:17:21 +0200
 title: how I use Obsidian
+nav_order: 1
 ---
 Published on **2024-05-25**.
 
+# using obsidian
 This is a short piece describing how I use Obsidian for organising my non-work-related data.  
-# vault 1: organising my activities
+## vault 1: organising my activities
 It's all about the setup. I have been struggling with note taking, lab communication, and document solutions for decades. Really. Far from having solved the second (but Slack is good in some cases) or third (but google suite or 365 do have merits in a few instances), at least now I feel solid on the first. And that already for a year. Let me explain.
 
 My professional life consists of meetings and discussions. Many meetings are come-and-go: you talk about something which is only on the periphery of your interest, you try to put in your thoughts, and off to the next. One "meets" many people, often only once, but there is nothing close to a personal exchange.
@@ -21,7 +23,7 @@ And then I am a very procrastinating person. And someone who loves to start thin
 
 Enough of an intro. Let me explain to you how I try to have obsidian help me with this.
 
-## my daily notes
+### my daily notes
 So to keep abreast of these many meetings, and knowing that you always meet twice, I need to jot down people's names, the things we discussed, and so on. And on a good day I want to reread those notes to prepare for the next meeting. The intention is there, at least.
 
 I tried notebooks and pens. I have a nice collection of ink pens with different colours I love. Orange, green, black -- the ink, I mean. I like touching the pens, I love writing with them. But then... it is a bit like a brain-dump, albeit short and non-lasting. I have no good way of getting back to the notes. I tried doing daily summaries, recaps. I tried drawing todo checkboxes. I tried scanning and OCR, and even special OCR-included ink pens. But... well, if the search function is not perfect, it doesn't work for me. The nice thing about paper notes is that they automatically get more distant as time progresses, and that aligns with the importance of a note. And that playing with colours and drawings is totally intuitive.
@@ -38,7 +40,7 @@ So, Logseq can sync over my device sync mechanism, it runs on all my platforms, 
 
 Still... it's only daily notes. Going on to the second problem.
 
-## my life
+### my life
 As explained, my daily notes are only a part of my life. And indeed a small part, from a mental point of view.
 
 Looking at what I've set up in Obsidian, my life consists of not more than 10 parts, and de facto only six:  
@@ -62,7 +64,7 @@ Works for me.
 
 Note, at the top level, I have a directory called "daily". It is, in fact, a copy of my Logseq notes, which are automatically synched both ways through git. More about my use of git later.
 
-### procrastination
+#### procrastination
 The above makes a structure, which I need to maintain manually. The manual maintenance has a disadvantage -- it can get messy -- and an advantage -- it requires attention and care, and therefore helps me memorising what's what. So the theory, at least.
 
 But the above does not solve my procrastination problem, nor the problem that I have too many loose ends. And for that I do something else.
@@ -90,7 +92,7 @@ So a simple process: I create a Markdown file, I have Linter create it a yaml pr
 - putting it at root level will ensure I will easily find it back;
 - _giving it the correct tag will ensure I will easily find it back_.
 
-### creating an index of files
+#### creating an index of files
 And now comes in more power of Obsidian, through its plugins. Without the dataview plugin, obsidian would be lost for me.
 
 Dataview is basically a tool to access the metadata (like the stuff in the yaml preamble) of your repository. And since it uses those data that are already prepared by obsidian, it's fast.
@@ -109,7 +111,7 @@ And then follows the same for resources, archive. The last is not so important, 
 
 I have two different scripts for creating the above, of course. The first script for section 1, and the second script for all other sections. They run fast enough; even my 5-year-old phone needs less than a second to display this.  
 
-### MOCs
+#### MOCs
 And the third piece of structure is placed in Maps of Content or [MOCs](https://obsidian.rocks/quick-tip-quickly-organize-notes-in-obsidian/). While I do not completely consistently use them, they are often useful to set up a collection of more-or-less random notes, ideas, etc.
 
 It works like this. Create this map file, and I like to add MOC to its name.  
@@ -124,7 +126,7 @@ This piece of cryptic code does the following: it creates a list of all files wh
 
 So you simply add a link to this MOC from a new Markdown file, and it gets included in the list of related-but-not-linked files.
 
-### git
+#### git
 OK, now things get a bit complex. Besides using obsidian sync, I like to use git to backup my data. The corresponding git plugin does it all for me.
 
 But with two twists. First, I do collaborate on some of the contents. I share these contents via github, but of course I do not share my whole repo with these collaborators. For this I use git submodules, and once that is set up this is completely smooth and opaque. One caveat: renaming or even only moving a submodule is manual labour, and involves a few steps which, if you mess them up, creates git havoc. Naturally, I have a note in `10 admin/12 obsidian` reminding me these 5 steps.  Luckiyl, setting up a submodule is quite trivial with `git submodule add git@github.com:...` 
@@ -151,7 +153,7 @@ This means that, putting attachments in a global `_resources` directory does not
 
 For this I use the _Attachment Management_ plugin. I have set it up so that attachments always are in a local subdirectory, and that the attachment names are kept unchanged. It works stably.
 
-### canvases
+#### canvases
 Canvases are nice. But one problem: they do not have yaml stuff in there. So they don't work with Dataview. And therefore, I don't use them for anything serious.
 
 ### plugins
@@ -217,12 +219,12 @@ In `Appearance`, apart from having chosen a different look, I have activated a n
 
 Most important for me, in the `Sync` settings, I sync everything except for the list of active core and active community plugins. Some plugins I do not want active on some mobile devices, to save time (e.g. the Excalidraw plugin), space, or chaos (e.g. the git plugin).
 
-## Obsidian services
+### Obsidian services
 And then, essentially, I use Obsidian sync. It works very, very stably, and close-to-fast-enough. No, not fast enough; I sometimes enjoy watching the files come in for a few seconds-- on my mobile devices. Luckily there's an interface for that. But it's fine.
 
 I started off with my ecosystem sync mechanism, and it's erroneous.  
 
-# vault 2: my documents
+## vault 2: my documents
 That's not all though. I have a second vault.
 
 This second vault I use to carry my digital documents around. Invoices, insurance documents, registration forms, travel itineraries... any of that stuff that is, used to be, basically paper based.
