@@ -1,5 +1,4 @@
 ---
-nav_order: 2
 parent: book I've read
 blog: true
 title: Hosseini, Khaled / A Thousand Splendid Suns
