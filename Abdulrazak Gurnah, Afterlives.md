@@ -1,7 +1,5 @@
 ---
-parent: book I've read
-blog: true
-title: Gurnah, Abdulrazak / Afterlives
+title: Afterlives
 author: Gurnah, Abdulrazak
 publisher: Bloomsbury Publishing
 totalPage: 288
@@ -11,12 +9,12 @@ link: https://play.google.com/store/books/details?id=xyBIEAAAQBAJ
 previewLink: http://books.google.de/books?id=xyBIEAAAQBAJ&printsec=frontcover&dq=gurnah&hl=&as_pt=BOOKS&cd=10&source=gbs_api
 isbn13: 9781526649751
 isbn10: 1526649756
+blog: true
+parent: book I've read
+layout: book
+rating: 9
+read: 2023-12
 ---
-title: Afterlives  
-author: Gurnah, Abdulrazak  
-publishDate: 2021-09-02  
-rating:: 9  
-read:: 2023-12
 
 A beautiful book, and hard to retell as it is a complex one.  Hamza comes back, after the war, to the area in Ethiopia or Kenya where he grew up. The war is lost by the Germans, but he is far away enough from his service in that war that it does not haunt him.
 
