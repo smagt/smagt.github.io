@@ -2,6 +2,7 @@
 parent: book I've read
 blog: true
 title: Enright, Anne / The Wren, the Wren
+layout: book
 author: Enright, Anne
 publishDate: 2023-08-31
 description: "Carmel had been alone all her life. The baby knew this. They looked at each other, and all of time was there. The baby knew how vast her mother's loneliness had been. A generational saga of daughterhood and motherhood, from the Booker Prize-winning Irish author 'The Wren, The Wren is a magnificent novel' SALLY ROONEY, author of NORMAL PEOPLE 'One of our greatest living novelists' THE TIMES 'Might just be her best yet' LOUISE KENNEDY, author of TRESPASSES 'The unofficial rock star of literary fiction' IRISH TIMES Nell - funny, brave and so much loved - is a young woman with adventure on her mind. As she sets out into the world, she finds her family history hard to escape. For her mother, Carmel, Nell's leaving home opens a space in her heart, where the turmoil of a lifetime begins to churn. And across the generations falls the long shadow of Carmel's famous father, an Irish poet of beautiful words and brutal actions. This is a meditation on love: spiritual, romantic, darkly sexual or genetic. A generational saga that traces the inheritance not just of trauma but also of wonder, it is a testament to the glorious resilience of women in the face of promises false and true. Above all, it is an exploration of the love between mother and daughter - sometimes fierce, often painful, but always transcendent."
