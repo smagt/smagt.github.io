@@ -1,7 +1,5 @@
 ---
-parent: book I've read
-blog: true
-title: Burns, Anna / Milkman
+title: Milkman
 author: Burns, Anna
 totalPage: 456
 publishDate: 2019
@@ -11,12 +9,13 @@ isbn10: 8899911509
 isbn13: 9788899911508
 created: 2023-07-31T21:38
 updated: 2023-10-21T21:21:14+02:00
+blog: true
+parent: book I've read
+layout: book
+read: 2023-03
+rating: 10
 ---
-title: Milkman  
-author: Burns, Anna  
-publishDate: 2019  
-read::2023-03  
-rating::10  
+
 
 if you check the reviews of this book, you find extremes.  Many people being upset and irritated by Burns' way of describing her heroes, of which "Milkman" is one.  So no one in this book has a name (except for Milkman, one discovers somewhere in the middle), but are called, "oldest sister", or "maybe-boyfriend", etc.  Well, here I am, a person with short attention spans and bad memory, and I LOVE IT.  I don't need to remember five or 10 different names of different characters who, when I first encounter them, have no face and are hence hard to remember.  "Maybe-boyfriend" (later: ex-maybe-boyfriend) is simple, I can understand it, it's clear.
 
