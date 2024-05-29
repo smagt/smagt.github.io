@@ -1,7 +1,6 @@
 ---
-parent: book I've read
-blog: true
-title: Ezemi, Akwaeke / You Made a Fool of Death with Your Beauty
+title: You Made a Fool of Death with Your Beauty
+subtitle: A Novel
 author: Ezemi, Akwaeke
 publisher: Simon and Schuster
 totalPage: 288
@@ -13,13 +12,11 @@ isbn13: 9781982188702
 isbn10: 1982188707
 created: 2023-08-27T13:29
 updated: 2023-10-21T21:18:36+02:00
+blog: true
+parent: book I've read
+layout: book
+read: 2022-10
+rating: 6
 ---
-title: You Made a Fool of Death with Your Beauty  
-author: Ezemi, Akwaeke  
-publisher: Simon and Schuster  
-totalPage: 288  
-publishDate: 2022-05-24  
-read ::2022-10  
-rating::6   
 
 **You made a fool of death with your beauty** by Akwaeke Emezi is a Sunday Times bestseller.  Not sure why.  Yes, it's a happy-go-easy book, a woman who lost her lover in a car accident rediscovers love and sex through several men, until she lands with one.  I quickly read it, I even faster forgot it.  Something like, a holiday evening-in-a-tent read or so.  At least that's how I used it.
