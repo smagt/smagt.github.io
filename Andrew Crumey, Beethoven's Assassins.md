@@ -1,7 +1,7 @@
 ---
 parent: book I've read
 blog: true
-title: Beethoven's Assassins
+title: Crumey, Andrew / Beethoven's Assassins
 author: Crumey, Andrew
 publishDate: 2023-03-17
 link: https://books.google.com/books/about/Beethoven_s_Assassins.html?hl=&id=z0mMzwEACAAJ
