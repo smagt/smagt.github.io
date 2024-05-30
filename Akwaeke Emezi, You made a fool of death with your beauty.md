@@ -1,6 +1,6 @@
 ---
 title: You Made a Fool of Death with Your Beauty
-subtitle: A Novel
+nav_order: Ezemi, Akwaeke You
 author: Ezemi, Akwaeke
 publisher: Simon and Schuster
 totalPage: 288
