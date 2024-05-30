@@ -1,7 +1,7 @@
 ---
 parent: book I've read
 blog: true
-title: Enright, Anne / The Wren, the Wren
+title: The Wren, the Wren
 layout: book
 author: Enright, Anne
 publishDate: 2023-08-31
@@ -12,12 +12,9 @@ isbn10: 1787334619
 isbn13: 9781787334618
 created: 2023-09-04T06:21
 updated: 2023-12-24T18:50:19+01:00
+read: 2023-09  
+rating: 9  
 ---
-title: The Wren, the Wren  
-author: Anne Enright  
-publishDate: 2023-08-31  
-read::2023-09  
-rating:: 9  
 
 I am a lost cause for poetry. It is not my thing. OK, I like and know the Jabberwocky, but that's about it.
 
