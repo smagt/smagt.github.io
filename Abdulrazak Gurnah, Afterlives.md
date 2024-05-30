@@ -1,6 +1,7 @@
 ---
 title: Afterlives
 author: Gurnah, Abdulrazak
+nav_order: Gurnah, Abdulrazak Afterlives
 publisher: Bloomsbury Publishing
 totalPage: 288
 publishDate: 2021-09-02

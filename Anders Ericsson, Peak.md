@@ -1,7 +1,8 @@
 ---
 title: Peak
 subtitle: Secrets from the New Science of Expertise
-author: Ericsson, Anders; Robert Pool
+author: Ericsson, Anders
+authors: Ericsson, Anders; Robert Pool
 totalPage: 336
 coverUrl: http://books.google.com/books/content?id=GmcpCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 publishDate: 2016-04-05

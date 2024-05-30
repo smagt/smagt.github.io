@@ -1,6 +1,7 @@
 ---
 title: Celestial Bodies
 author: Jokha, Alharthi
+nav_order: Jokha, Alharthi Celestial Bodies
 publisher: Sandstone Press Limited
 totalPage: 260
 publishDate: 2018
