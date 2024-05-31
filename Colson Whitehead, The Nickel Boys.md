@@ -13,7 +13,7 @@ blog: true
 parent: book I've read
 layout: book
 "read:": 2020-07
-"rating:": 8
+rating: 8
 ---
 
 Colson Whitehead wrote two Pulitzer Prize novels: [Colson Whitehead, The Underground Railroad](./Colson%20Whitehead,%20The%20Underground%20Railroad.md), and this one.
