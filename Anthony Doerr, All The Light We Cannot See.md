@@ -27,7 +27,7 @@ It's also about Werner, a German boy who is good with 1940's radios and other el
 
 Spoiler: Marie-Laure and Werner will later meet, helping each other.
 
-Ladida, Marie-Laure flees Paris with her father, to Saint-Malo (Bretagne, at the sea), and they take refuge at an aunt and uncle who live there. And take _the diamond_, a huge stone called "The Sea of Flames". It is cursed, first recorded in India; and legend has it that it basically kills everyone except for its bearer or owner. Until it is returned to the sea. This part of the story is reminiscent of a real diamond, The Delhi Sapphire. A bit like [Wilkie Collins, The Moonstone](./Wilkie%20Collins,%20The%20Moonstone.md) in a way; are they related stories?
+Ladida, Marie-Laure flees Paris with her father, to Saint-Malo (Bretagne, at the sea), and they take refuge at an aunt and uncle who live there. And take _the diamond_, a huge stone called "The Sea of Flames". It is cursed, first recorded in India; and legend has it that it basically kills everyone except for its bearer or owner. Until it is returned to the sea. This part of the story is reminiscent of a real diamond, The Delhi Sapphire. A bit like [[./Wilkie Collins, The Moonstone|Wilkie Collins, The Moonstone]] in a way; are they related stories?
 
 Anyway.  Marie-Laure and her dad flee, as said. She slowly becomes accustomed to her surroundings; her dad rebuilds the new city for her (a mockup, I mean). She learns her new surroundings. And they have the diamond – without knowing it, since, as in an execution squad, four people were sent out with the diamond, of which three were excellent copies, and only one is real.
 

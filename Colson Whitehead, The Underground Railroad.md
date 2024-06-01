@@ -18,7 +18,7 @@ created: 2023-12-25T07:40:39
 updated: 2024-05-30T22:24:44
 ---
 
-Colson Whitehead won the Pulitzer Prize twice. Once for this book; once for [Colson Whitehead, The Nickel Boys](./Colson%20Whitehead,%20The%20Nickel%20Boys.md).
+Colson Whitehead won the Pulitzer Prize twice. Once for this book; once for [[./Colson Whitehead, The Nickel Boys|Colson Whitehead, The Nickel Boys]].
 
 This book describes the beginning of the end of slavery in the US, but before the Civil Wa
 r.  It describes a black slave girl, and her incredible trail into freedom.  The Underground Railroad describes a system of people that collaborated to bring escaped slaves to the northern states; confusingly, Whitehead sometimes uses the term literally, and depicts trains driving underground, as if they were.
