@@ -39,6 +39,7 @@ repository: smagt/smagt.github.io
 theme: just-the-docs
 plugins:
 - jekyll-feed
+plugins_dir: _plugins
 color_scheme: pvds
 
 
