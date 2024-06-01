@@ -17,7 +17,7 @@ read: 2023-08
 rating: 10
 ---
 
-Silly me. It is the prequel of [Pat Barker, The Women of Troy](./Pat%20Barker,%20The%20Women%20of%20Troy.md), written a few years earlier. And I discovered it afterwards.
+Silly me. It is the prequel of [[./Pat Barker, The Women of Troy|Pat Barker, The Women of Troy]], written a few years earlier. And I discovered it afterwards.
 
 Not that it matters. Perhaps on the contrary. I was so happy when I found another, same book. Since I loved Women of Troy.
 
