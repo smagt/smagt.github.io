@@ -1,5 +1,6 @@
 ---  
 blog: true  
+layout: page  
 title: About  
 nav_order: 999  
 ---  
