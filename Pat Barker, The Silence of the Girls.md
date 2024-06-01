@@ -1,5 +1,5 @@
 ---  
-title: Pat Barker, The Silence of the Girls  
+title: The Silence of the Girls  
 author: Barker, Pat  
 totalPage: 336  
 publishDate: 2018-08-30  
