@@ -172,13 +172,13 @@ Canvases are nice. But one problem: they do not have yaml stuff in there. So the
 - **Custom file explorer sorting**: now this may sound silly, but I searched for a plugin doing this and am happy I found it. It allows me to sort directories differently, and in my case that means, reverse order. I use it in my Logseq list of files. When I want to edit the last file (i.e., something from today or yesterday) in Obsidian, before I'd have to scroll through years of notes, one file per day. This reverse sort solves that trivially. But come to think of it, I could also have used the Calendar plugin above.
 - **Dataview**: the one plugin without which Obsidian would be just any other note taking tool for me.
 - **Editor syntax highlight**: does that, for code blocks in md files. I have code blocks, and it's nice for that.
+- **Enveloppe**: for publishing this blog from obsidian. Works after extreme hand tuning.  I explain elsewhere how I did that.
 - **Excalidraw**: just that. For drawing. I don't use it much, but do. The one plugin with the most frequent updates.
 - **Find orphaned files and broken links**: it does that, and well enough. Auto-deleting plugins exist as well but don't work for me, as not every file in my vault is referenced to. I run this manually, infrequently, when I'm bored.
 - **Force note view mode**: it uses yaml frontmatter to allow you to specify if a file is to be shown in view rather than edit mode, by default. I use it for my dashboard. Can't really do well without this plugin.
 - **Frontmatter tag suggest**: I never remember if it's called `1-projects` or something else; but I remember the `1-`. This plugin then auto-completes. Perfect.
 - **Fullscreen mode plugin**: good when I'm writing.
 - **Git**: explained above.
-- **Github publisher**: for publishing this blog from obsidian. Works after extreme hand tuning.  I explain elsewhere how I did that.
 - **Heatmap calendar**: makes those heatmaps I showed above.
 - **Hide sidebars on window resize**: does what it says, for small screens.
 - **Homepage**: displays my Dashboard, always.
