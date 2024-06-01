@@ -26,7 +26,7 @@ Perhaps I should read it again.  I fear I never will.  Don't get me wrong; it'
 
 **Reread: 2023-08**
 
-After reading [Pat Barker, The Silence of the Girls](./Pat%20Barker,%20The%20Silence%20of%20the%20Girls.md), which a dear friend pointed out to me recently, I decided to go on with the fun ride and reread this book.
+After reading [[./Pat Barker, The Silence of the Girls|Pat Barker, The Silence of the Girls]], which a dear friend pointed out to me recently, I decided to go on with the fun ride and reread this book.
 
 And it's still beautiful. Even more so, since I could place the whole story and characters much, much better now.
 
