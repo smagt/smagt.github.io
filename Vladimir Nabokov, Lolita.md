@@ -1,6 +1,6 @@
 ---  
 title: Lolita  
-author: Nabokov, Vladimir Vladimirovič  
+author: Nabokov, Vladimir Vladimirovich  
 totalPage: 336  
 publishDate: 1955  
 link: https://books.google.com/books/about/Lolita.html?hl=&id=OB1bAAAAMAAJ  
