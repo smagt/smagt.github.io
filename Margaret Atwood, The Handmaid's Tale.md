@@ -23,6 +23,8 @@ Offred's goal is an escape to Canada. She remembers her life before Gilead, and 
   
 _The bathroom is beside the bedroom. It’s papered in small blue flowers, forget-me-nots, with curtains to match. There’s a blue bath-mat, a blue fake-fur cover on the toilet seat; all this bathroom lacks from the time before is a doll whose skirt conceals the extra roll of toilet paper. Except that the mirror over the sink has been taken out and replaced by an oblong of tin, and the door has no lock, and there are no razors, of course. There were incidents in bathrooms at first; there were cuttings, drownings. Before they got all the bugs ironed out._  
   
+  
+  
 The narrative is immersive, descriptive and introspective, and is told from Offred's perspective. The book jumps back and forth with frequent flashbacks and interjections of Offred's thoughts and feelings. Atwood uses irony and dark humour in her imagery, symbolism, and metaphors to let you feel the grim reality of this oppressive world. It's clear the patriarchal norms in the story are outdated... but still the commander can be nice, too, if it suits him:  
   
 _I felt the Commander watching me as I turned the pages. I knew I was doing something I shouldn’t have been doing, and that he found pleasure in seeing me do it. I should have felt evil; by Aunt Lydia’s lights, I was evil. But I didn’t feel evil. Instead I felt like an old Edwardian seaside postcard: naughty. What was he going to give me next? A girdle?_  
