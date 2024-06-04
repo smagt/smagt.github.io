@@ -20,7 +20,7 @@ One of the most entertaining books by Crystal that I know is "The Story of Engli
   
 In this unique history of the world's most ubiquitous language, Crystal draws on one hundred words that best illustrate the huge variety of sources, influences, and events that have helped to shape our vernacular since the first definitively English word was written down in the fifth century.   
   
-The book features ancient words such as "roe" and "loaf," cutting-edge terms that reflect our world such as "twittersphere," indispensable words that shape our tongue such as "and" and "what," fanciful words such as "fopdoodle," and even focuses on the "c word" – which, by the way, also gets ample attention in [Kate Lister, A curious history of sex](Kate%20Lister,%20A%20curious%20history%20of%20sex.md) for a good reason: it's the preferred, since most correct, description.  
+The book features ancient words such as "roe" and "loaf," cutting-edge terms that reflect our world such as "twittersphere," indispensable words that shape our tongue such as "and" and "what," fanciful words such as "fopdoodle," and even focuses on the "c word" – which, by the way, also gets ample attention in [+Kate Lister, A curious history of sex](+Kate%20Lister,%20A%20curious%20history%20of%20sex.md) for a good reason: it's the preferred, since most correct, description.  
   
 Crystal takes readers on a tour of English via the rude, the obscure, and the downright surprising. Through the 100 example words, it entertains and informs on the English language and its history.  
   
