@@ -17,21 +17,19 @@ read: 2023-08
 rating: 10  
 ---  
   
-Silly me. It is the prequel of [Pat Barker, The Women of Troy](Pat%20Barker,%20The%20Women%20of%20Troy.md), written a few years earlier. And I discovered it afterwards.  
+This is, in various ways, the prequel of [Pat Barker, The Women of Troy](./Pat%20Barker,%20The%20Women%20of%20Troy.md).  
   
-Not that it matters. Perhaps on the contrary. I was so happy when I found another, same book. Since I loved Women of Troy.  
-  
-Again, the story of the Iliad (Ilium = Troy) by Homer. Written by Homer in the 8th century BC, so 3000 years ago give or take a few centuries. (Copying from wikipedia now) _Set towards the end of the [Trojan War](https://en.wikipedia.org/wiki/Trojan_War "Trojan War"), a ten-year [siege](https://en.wikipedia.org/wiki/Siege "Siege") of the city of [Troy](https://en.wikipedia.org/wiki/Troy "Troy") by a coalition of [Mycenaean Greek](https://en.wikipedia.org/wiki/Mycenaean_Greece "Mycenaean Greece")states, the poem depicts significant events in the siege's final weeks. In particular, it depicts a fierce quarrel between King [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon "Agamemnon") and a celebrated warrior, [Achilles](https://en.wikipedia.org/wiki/Achilles "Achilles")._  
+Again, the story of the Iliad (Ilium = Troy) by Homer. Written by "Homer" in the 8th century BC, so 3000 years ago give or take a few centuries. (Quoting from Wikipedia, copied in October 2023) _Set towards the end of the [Trojan War](https://en.wikipedia.org/wiki/Trojan_War "Trojan War"), a ten-year [siege](https://en.wikipedia.org/wiki/Siege "Siege") of the city of [Troy](https://en.wikipedia.org/wiki/Troy "Troy") by a coalition of [Mycenaean Greek](https://en.wikipedia.org/wiki/Mycenaean_Greece "Mycenaean Greece") states, the poem depicts significant events in the siege's final weeks. In particular, it depicts a fierce quarrel between King [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon "Agamemnon") and a celebrated warrior, [Achilles](https://en.wikipedia.org/wiki/Achilles "Achilles")._  
   
 Well, indeed. And so does this book. It is written from Briseis' view, and mostly describes her thoughts -- she hardly speaks. With, now and then, an interlude of Achilles talking or thinking. Briseis is the cause of the quarrel described above. She's Achilles' prize after he was key in sacking the city of Lyrnessus. Briseis, wife of the son of the king of Lyrnessus, is 19 and given to Achilles. The king, Agamemnon, is given Chryseis (daughter of the Trojan priest Chryses). Well, Apollo forces Agamemnon to give Chryseis back, and Agamemnon then requires Briseis as compensation.  
   
-This pisses Achilles off, of course. Who would not be upset. And refuses to fight on against Troy, which almost leads to the downfall of the Greeks against the Trojans.  
+This pisses Achilles off, of course. And hence he refuses to fight on against Troy, which almost leads to the downfall of the Greeks against the Trojans.  
   
-Luckily, Agamemnon only has sex with Briseis once, using his favourite "back gate", and peace between Achilles and Agamemnon is slowly restored. But first, Achilles' intimate friend Patroclus takes his place in the battle, and dies. The beginning of the end.  
+Luckily, Agamemnon only has sex with Briseis once, using his favourite "back gate", and peace between Achilles and Agamemnon is slowly restored. But first, Achilles' intimate friend Patroclus takes his place in the battle, and dies. This event marks the beginning of the end.  
   
 _'Here, try the helmet.' Staring at his reflection, Patroclus lowered the helmet gingerly on to his head, adjusted the cheek irons and only then turned away from the mirror to face Achilles. Now, with the bronze crest and horsehair plumes tossing around his head, he looked suddenly a foot taller. With forehead and nose covered and the cheek irons jutting out along the line of his jaw, his face had almost vanished. 'Well? Do you think they'll believe it's you?' 'God, yes, even I believe it.' Achilles laughed as he said it, but he knew his voice sounded shaky._  
   
-Well, things go as they go, read this book or the Iliad. Briseis lives on, that's the main thing. And goes off to the next book, then being the wife of Achilles' friend.  
+Well, things go as they go, read this book or the [Iliad](Homer,%2520The%2520Iliad.md#). Briseis lives on, that's the main thing. And goes off to the next book, then being the wife of Achilles' friend.  
   
 The book has been criticised by its modern use of language, expressions, idioms, etc. Maybe that's why I like it so much. But also it gives a totally different view on such wars, as one could hear from a point of view of the war and the warriors, e.g. <https://www.dancarlin.com/product/hardcore-history-56-kings-kings/>. Yes, Briseis starts as slave when the Greek sack her city, kill all men, and enslave all women. She knows her role, and learns how to survive in that role.   
   

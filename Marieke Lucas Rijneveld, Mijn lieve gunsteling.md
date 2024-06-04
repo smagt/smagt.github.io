@@ -19,7 +19,7 @@ Lucas Rijneveld (then known as Marieke Rijneveld) wrote one of the most me-influ
   
 And she, just like her parents, fails.  
   
-This second book is more of the same, but with a different topic. Again a farmer's family, again a daughter, again a loss in the family. But this time the book, in a different writing style from the previous, revisits the Lolita topic: the vet, who is the main storyteller in the book, repeatedly has sex with the adolescent girl.  
+This second book is more of the same, but with a different topic. Again a farmer's family, again a daughter, again a loss in the family. But this time the book, in a different writing style from the previous, revisits the [Lolita](./Vladimir%2520Nabokov,%2520Lolita.md#) topic: the vet, who is the main storyteller in the book, repeatedly has sex with the adolescent girl.  
   
 An obsessive relationship follows, which can only end in disaster. And, true to the original, it sort of does.  
   
