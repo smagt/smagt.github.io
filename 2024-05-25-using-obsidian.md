@@ -174,7 +174,7 @@ status:
 MOC:: [[32 papers MOC]]  
 ```  
   
-after which I use a bit of DataviewJS (see [here](paper_dataviewjs.md)) to create a table.  It works beautifully.  
+after which I use a bit of DataviewJS (see [here](./paper_dataviewjs.md)) to create a table.  It works beautifully.  
   
 ### plugins  
 - **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this:  
