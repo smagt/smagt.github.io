@@ -120,7 +120,7 @@ It works like this. Create this map file, and I like to add MOC to its name.
   
 Then, dump lines in there with links to PDFs etc., notes, whatever. And then add the following dataview code:  
   
-```  
+```js  
 list from [[]] and !outgoing([[]])  
 ```  
   
