@@ -157,6 +157,24 @@ For this I use the _Attachment Management_ plugin. I have set it up so that atta
 #### canvases  
 Canvases are nice. But one problem: they do not have yaml stuff in there. So they don't work with Dataview. And therefore, I don't use them for anything serious.  
   
+### tracking my papers  
+I have asked co-authors to help me in tracking paper writing.  We set up various tools to do so, but each and every time people forgot, or deprioritised, and always I lost track of which paper was submitted, rejected, to be written, etc.  
+  
+DIYS therefore.  So now for each paper, I have a markdown file describing what's going on as to that paper.  This file has the following template:  
+```yaml  
+---  
+tags: paper   
+firstauthor:   
+title:   
+source:  
+venue:  
+status:  
+---  
+MOC:: [[32 papers MOC]]  
+```  
+  
+after which I use a bit of DataviewJS (see [here](paper%20dataviewjs.md)) to create a table.  It works beautifully.  
+  
 ### plugins  
 - **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this:  
   
