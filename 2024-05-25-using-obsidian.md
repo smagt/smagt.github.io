@@ -5,7 +5,8 @@ date: 2024-05-25 22:17:21 +0200
 title: how I use Obsidian  
 nav_order: 1  
 ---  
-Published on **2024-05-25**.  
+First published on **2024-05-25**.  
+Extended on **2024-06-30**.  
   
 # using obsidian  
 This is a short piece describing how I use Obsidian for organising my non-work-related data.    
@@ -173,7 +174,7 @@ status:
 MOC:: [[32 papers MOC]]  
 ```  
   
-after which I use a bit of DataviewJS (see [here](paper%20dataviewjs.md)) to create a table.  It works beautifully.  
+after which I use a bit of DataviewJS (see [here](paper_dataviewjs.md)) to create a table.  It works beautifully.  
   
 ### plugins  
 - **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this:  
