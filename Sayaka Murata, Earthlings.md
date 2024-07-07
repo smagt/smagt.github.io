@@ -17,7 +17,7 @@ read: 2022-10
 rating: 7  
 ---  
   
-After [+Sayaka Murata, Convenience Store Woman](+Sayaka%20Murata,%20Convenience%20Store%20Woman.md), I had to get her other translated book.  And it's quite similar, in a way, but perhaps less gripping for me.  At the same time, it's a nightmare sequel to the previous one, from a dystopian society point of view.    
+After [Sayaka Murata, Convenience Store Woman](./Sayaka%20Murata,%20Convenience%20Store%20Woman.md), I had to get her other translated book.  And it's quite similar, in a way, but perhaps less gripping for me.  At the same time, it's a nightmare sequel to the previous one, from a dystopian society point of view.    
   
 Earthlings is about a woman who cannot find a normal road in life.  Being a victim of child sexual abuse and the whole nightmare life that followed after that, she cannot cope with society's desires and requirements for a normal life.  That makes her set up a dysfunctional marriage -- dysfunctional by the definitions of society.  But not by hers, and as reader I was more willing to follow her definition of function.    
   
