@@ -34,7 +34,7 @@ _As she walked through the automatic sliding doors of the grocery store to the p
   
 _Sally—single, cute, young, happy, blonde Sal—waved and nearly skipped toward her with glee._  
   
-_Hey, how’s it going!? she asked, hugging the mother and ruffling the boy’s hair. I haven’t seen you in _forever_. Do you love being home with this guy? I bet it’s so fun._  
+_Hey, how’s it going!? she asked, hugging the mother and ruffling the boy’s hair. I haven’t seen you in _forever. Do you love being home with this guy? I bet it’s so fun._  
   
 _Sal worked at the community gallery where she had been director before she stepped down. It had been the right choice. It had. Being at work while her infant lolled on the day care’s linoleum floor had been agony, but being at home was also agony, just of a different sort._  
   
