@@ -4,6 +4,8 @@ title: Hard Like Water
 author: Lianke, Yan  
 totalPage: 432  
 publishDate: 2022-06-21  
+coverUrl: http://books.google.com/books/content?id=bqWQzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=bqWQzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 description: From a visionary, world-class writer, dubbed "China's most controversial novelist" by the New Yorker, a gripping and biting story of ambition and betrayal, following two young communist revolutionaries whose forbidden love sets them apart from their traditionally minded village, as the Cultural Revolution sweeps the nation  
 link: https://books.google.com/books/about/Hard_Like_Water.html?hl=&id=bqWQzgEACAAJ  
 previewLink: http://books.google.de/books?id=bqWQzgEACAAJ&dq=Yan+Lianke,+Hard+Like+Water&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
