@@ -73,7 +73,7 @@ I saved my settings for Enveloppe in [[enveloppe.json]]. You can load this in th
 None of the standard jekyll github themes were to my liking; I quickly found just-the-docs, and decided that to be my theme.  With some adjustments, of course.  
   
 And that lead to an adapted setup, which I realised as follows:  
-1) create a number of files to specify the theme, as well as Jekyll scripts. I gathered these files in [[repo.tgz]]. In particular, these contain:  
+1) create a number of files to specify the theme, as well as Jekyll scripts. I gathered these files in [repo.tgz](repo.tgz). In particular, these contain:  
 		- [`.gitignore`](repo/.gitignore)  
 		- the scripts in [`.github/workflows/ci.yml`](repo/.github/workflows/ci.yml) and [`.github/workflows/pages.yml`](repo/.github/workflows/pages.yml`)  
 		- the html navigation in [`_includes/components/`](repo/_includes/components/) and the sorting, including extra code for books sorting, in [`_includes/sorted_pages.html`](repo/_includes/sorted_pages.html)  
