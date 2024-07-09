@@ -5,6 +5,8 @@ author: Crystal, David
 publisher: Profile Books  
 totalPage: 283  
 publishDate: 2011-10-13  
+coverUrl: http://books.google.com/books/content?id=4djICT7zgGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=4djICT7zgGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Featuring Latinate and Celtic words, weasel words and nonce-words, ancient words ('loaf') to cutting edge ('twittersphere') and spanning the indispensable words that shape our tongue ('and', 'what') to the more fanciful ('fopdoodle'), Crystal takes us along the winding byways of language via the rude, the obscure and the downright surprising. In this unique new history of the world's most ubiquitous language, linguistics expert David Crystal draws on words that best illustrate the huge variety of sources, influences and events that have helped to shape our vernacular since the first definitively English word was written down in the fifth century ('roe', in case you are wondering).  
 link: https://play.google.com/store/books/details?id=4djICT7zgGoC  
 previewLink: http://books.google.de/books?id=4djICT7zgGoC&printsec=frontcover&dq=david+crystal&hl=&as_pt=BOOKS&cd=35&source=gbs_api  
@@ -14,6 +16,8 @@ parent: book I've read
 layout: book  
 read: 2020-07  
 rating: 9  
+created: 2023-12-25T07:22:30  
+updated: 2024-07-09T14:21:45  
 ---  
   
 One of the most entertaining books by Crystal that I know is "The Story of English in 100 Words". It takes you on an entertaining and eye-opening tour of the history of the English language through the ages.  
