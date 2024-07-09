@@ -4,6 +4,8 @@ title: The White Tiger
 author: Adiga, Aravind  
 totalPage: 304  
 publishDate: 2008-04-22  
+coverUrl: http://books.google.com/books/content?id=jZREPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=jZREPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 description: SOON TO BE A MAJOR MOTION PICTURE The stunning Booker Prize–winning novel from the author of Amnesty and Selection Day that critics have likened to Richard Wright’s Native Son, The White Tiger follows a darkly comic Bangalore driver through the poverty and corruption of modern India’s caste society. “This is the authentic voice of the Third World, like you've never heard it before” (John Burdett, Bangkok 8). The white tiger of this novel is Balram Halwai, a poor Indian villager whose great ambition leads him to the zenith of Indian business culture, the world of the Bangalore entrepreneur. On the occasion of the president of China’s impending trip to Bangalore, Balram writes a letter to him describing his transformation and his experience as driver and servant to a wealthy Indian family, which he thinks exemplifies the contradictions and complications of Indian society. Recalling The Death of Vishnu and Bangkok 8 in ambition, scope, The White Tiger is narrative genius with a mischief and personality all its own. Amoral, irreverent, deeply endearing, and utterly contemporary, this novel is an international publishing sensation—and a startling, provocative debut.  
 link: https://play.google.com/store/books/details?id=m51E0wDM8JAC  
 previewLink: http://books.google.de/books?id=m51E0wDM8JAC&pg=PP1&dq=Aravind+Adiga,+The+White+Tiger&hl=&as_pt=BOOKS&cd=10&source=gbs_api  

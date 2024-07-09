@@ -5,6 +5,8 @@ author: Yuzuki, Asako
 publisher: HarperCollins UK  
 publishDate: 2024-02-29  
 totalPage: 376  
+coverUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Compelling, delightfully weird, often uncomfortable' PANDORA SYKES 'Unputdownable, breathtakingly original' ERIN KELLY 'Delicious' i-D Magazine 'Luscious ... I devoured this' IMOGEN CRIMP  
 link: https://play.google.com/store/books/details?id=pZnLEAAAQBAJ  
 previewLink: http://books.google.es/books?id=pZnLEAAAQBAJ&printsec=frontcover&dq=Asako+Yuzuki,+Butter&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
