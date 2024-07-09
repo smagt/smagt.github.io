@@ -12,7 +12,7 @@ The thought was easy, and getting it go was quick.  After finding Jekyll (as goo
   
 But then, of course, I started needing more than the vanilla version.  One main thing was, I wanted to run my blog completely out of Obsidian.  Well... there's a plugin for that, of course. And I needed design adaptations.  And more.  
   
-So there you go.  Here is what I did.  I   
+So there you go.  Here is what I did.    
   
 ### part 1: setting up github  
 For historical reasons I have this running on github, rather than any of its competitors.   
@@ -59,12 +59,12 @@ This Obsidian plugin gets your local files served on your webserver -- of course
 Enveloppe (previously known as github publisher) is a wonderful, powerful Obsidian plugin.  And I found it not easy to understand how to set it up well.  
   
 These are the settings I found working for me.  I refer to the tabs of the settings pane in italics:  
-1) under _Github Config_, set the main branch to `gh-pages` and set 'Automatically merge pull requests' on.  
-2) under _File Paths_, set auto clean up and self-cleaning of attachments on  
-3) under _Content_, define the following replacements in Text Replacer: `/<yourhandle>.github.io\/assets/` to/assets` and `/./assets/` to `/assets`.  This is needed to make figures work.  
-4) also under _Content_, switch on `[Wikilinks](Wikilinks.md) to [MDlinks](links)` and `Internal Links`  
-5) under _Attachments & Embeds_, in Override Attachment Paths, set replace text `/.*<yourhandle>.github.io\/(.*)/` to `$1`.   
-6) also under _Attachments & Embeds_, select Send linked files, Transfer attachments, Structure, and Transfer embedded notes.  
+1. under _Github Config_, set the main branch to `gh-pages` and set 'Automatically merge pull requests' on.  
+2. under _File Paths_, set auto clean up and self-cleaning of attachments on  
+3. under _Content_, define the following replacements in Text Replacer: `/<yourhandle>.github.io\/assets/` to/assets` and `/./assets/` to `/assets`.  This is needed to make figures work.  
+4. also under _Content_, switch on `[Wikilinks](Wikilinks.md) to [MDlinks](links)` and `Internal Links`  
+5. under _Attachments & Embeds_, in Override Attachment Paths, set replace text `/.*<yourhandle>.github.io\/(.*)/` to `$1`.   
+6. also under _Attachments & Embeds_, select Send linked files, Transfer attachments, Structure, and Transfer embedded notes.  
   
 I saved my settings for Enveloppe in [[enveloppe.json]]. You can load this in the plugin, and adapt from there.  
   
@@ -73,15 +73,17 @@ I saved my settings for Enveloppe in [[enveloppe.json]]. You can load this in th
 None of the standard jekyll github themes were to my liking; I quickly found just-the-docs, and decided that to be my theme.  With some adjustments, of course.  
   
 And that lead to an adapted setup, which I realised as follows:  
-1) create a number of files to specify the theme, as well as Jekyll scripts. I gathered these files in [repo.tgz](repo.tgz). In particular, these contain:  
-		- [`.gitignore`](repo/.gitignore)  
-		- the scripts in [`.github/workflows/ci.yml`](repo/.github/workflows/ci.yml) and [`.github/workflows/pages.yml`](repo/.github/workflows/pages.yml`)  
-		- the html navigation in [`_includes/components/`](repo/_includes/components/) and the sorting, including extra code for books sorting, in [`_includes/sorted_pages.html`](repo/_includes/sorted_pages.html)  
-		- a layout for books in [`_layouts/book.html`](repo/_layouts/book.html)  
-		- conversion of links in md files to html in [`_plugins/convert_links.rb`](repo/_plugins/convert_links.rb)  
-		- some personal colour suppression in [`_sass/color_schemes/greyish.scss`](repo/_sass/color_schemes/greyish.scss)  
-		- and finally, the Ruby [Gemfile](./repo/Gemfile) which controls how Jekyll runs.  
-2) put all of these in the branch `gh-pages`, and push the result  
-3) on github, under settings / pages  set the 'Build and deployment' source to 'github actions'  
+1. create a number of files to specify the theme, as well as Jekyll scripts. I gathered these files in [repo.tgz](assets/2024-07-05/repo.tgz). In particular, these contain:  
+		- `.gitignore`  
+		- the scripts in `.github/workflows/ci.yml` and `.github/workflows/pages.yml`  
+		- the html navigation in `_includes/components/` and the sorting, including extra code for books sorting, in `_includes/sorted_pages.html`  
+		- a layout for books in `_layouts/book.html`  
+		- conversion of links in md files to html in `_plugins/convert_links.rb`  
+		- some personal colour suppression in `_sass/color_schemes/greyish.scss`  
+		- and finally, the Ruby `Gemfile` which controls how Jekyll runs.  
+2. put all of these in the branch `gh-pages`, and push the result  
+3. on github, under settings / pages  set the 'Build and deployment' source to 'github actions'  
   
 Done.  
+  
+(Not nice: for this blog post, I had to manually upload the file `repo.tgz` in the `gh-pages` branch.  Looks like Enveloppe does not deal with that, with my current settings.)
