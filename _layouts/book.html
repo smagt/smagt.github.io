@@ -1,11 +1,29 @@
 ---
 layout: default
 ---
+<style>
+    table {
+        border-collapse: collapse;
+    }
+    td {
+        border: none;
+    }
+</style>
 
-<b>title:</b> {{ page.title }}<br />
-<b>by:</b> {{ page.author }}<br />
-<b>published:</b> {{ page.publishDate}} <br />
-<b>read:</b> {{ page.read }} <br />
-<b>preview:</b> {{ page.previewLink }} <br />
+
+<table cellpadding=0 cellspacing=0>
+    <tr>
+        <td valign="top">
+            <b>title:</b> {{ page.title }}<br />
+            <b>by:</b> {{ page.author }}<br />
+            <b>published:</b> {{ page.publishDate}} <br />
+            <b>read:</b> {{ page.read }} <br />
+            <a href="{{ page.previewLink }}">preview</a> <br />            
+        </td>
+        <td valign="top" align="right">
+            <img src="{{ page.coverSmallUrl }}" alt="">
+        </td>
+    </tr>
+</table>
 
 {{ content }}
