@@ -6,6 +6,8 @@ category: Biography & Autobiography
 publisher: Hachette UK  
 totalPage: 130  
 publishDate: 2022-09-01  
+coverUrl: http://books.google.com/books/content?id=ECB1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=ECB1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "A moving and thought-provoking story of loss and war *** 'Elegantly written... packed with the sharpness of moments when a death suddenly becomes real' -TLS 'If you want to understand Ukraine's determination to resist, Olesya Khromeychuk's book is essential.' -Paul Mason, author of How to Stop Fascism 'A touching and brilliantly written account about grief, and also about strength. I read it in one night.' -Olia Hercules 'If you read only one book about the war, this is the one to read.' -Henry Marsh, author of Do No Harm [A] tender and courageous book... Khromeychuk's clear-sighted prose expresses the pain that thousands, even millions, have felt, not just in Ukraine now but in every conflict, past and present. -The Literary Review Magazine WITH A FOREWORD BY PHILIPPE SANDS AND AN INTRODUCTION BY ANDREY KURKOV Killed by shrapnel as he served in the Ukrainian Armed Forces, Olesya Khromeychuk's brother Volodymyr died on the frontline in eastern Ukraine. As Olesya tries to come to terms with losing her brother, she also tries to process the Russian invasion of Ukraine: as an immigrant living far from the frontline, as a historian of war and how societies respond to them, and as a woman, a civilian, and a sister. In this timely blend of memoir and essay, Olesya Khromeychuk tells the story of her brother - the wiser older sibling, the artist and the soldier - and of his death. Deeply moving and thoughtful, The Death of a Soldier Told by His Sister picks apart the ways political violence shapes everyone and everything it touches and depicts with extraordinary intimacy the singular and complicated bond between a brother and sister. Olesya's vivid writing is a personal and powerful commitment to honesty in life, in death and in memory. 'Soon before he died, my brother said he had become a warrior. Why would a thinker, an artist, wish to become a soldier? Perhaps I didn't appreciate what it meant to be a thinker and an artist, or, maybe, what it meant to be a soldier.' 'In vivid, intimate prose and with unflinching honesty, Olesya Khromeychuk introduces us to the brother she lost in the war and found in her grief.' -Dr Rory Finnin, University of Cambridge 'I admire a book that invites me to grapple with knotty questions. Olesya Khromeychuk has written such a book - beautifully.' - Professor Cynthia Enloe, author of Nimo's War 'Moving, intelligent, and brilliantly written.' -Anna Reid, author of Borderland: A Journey Through the History of Ukraine"  
 link: https://play.google.com/store/books/details?id=ECB1EAAAQBAJ  
 previewLink: http://books.google.de/books?id=ECB1EAAAQBAJ&printsec=frontcover&dq=Khromeychuk&hl=&as_pt=BOOKS&cd=6&source=gbs_api  
@@ -15,6 +17,8 @@ parent: book I've read
 layout: book  
 rating: 7  
 read: 2023-10  
+created: 2024-06-02T05:52:44  
+updated: 2024-07-09T15:14:22  
 ---  
   
 A book that should not have been.  And still, it was.  I'm in the great situation of being able to observe the senselessness of war, from a large, safe distance.  And despite all the false rationalism, it baffles that, indeed, war exists.  
