@@ -6,6 +6,8 @@ totalPage: 456
 publishDate: 2019  
 link: https://books.google.com/books/about/Milkman.html?hl=&id=CgzRyQEACAAJ  
 previewLink: http://books.google.de/books?id=CgzRyQEACAAJ&dq=Anna+Burns,+Milkman&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+coverUrl: http://books.google.com/books/content?id=Ta5PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=Ta5PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 isbn10: 8899911509  
 isbn13: 9788899911508  
 created: 2023-07-31T21:38  
