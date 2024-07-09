@@ -5,6 +5,8 @@ author: Dangarembga, Tsitsi
 publisher: Faber & Faber  
 totalPage: 289  
 publishDate: 2020-10-19  
+coverUrl: http://books.google.com/books/content?id=7Z8CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=7Z8CEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: FROM THE BOOKER PRIZE SHORTLISTED AUTHOR OF THIS MOURNABLE BODY, ONE OF THE BBC'S 100 WOMEN FOR 2020 ' UNFORGETTABLE' Alice Walker 'THIS IS THE BOOK WE'VE BEEN WAITING FOR' Doris Lessing 'A UNIQUE AND VALUABLE BOOK.' Booklist 'AN ABSORBING PAGE-TURNER' Bloomsbury Review 'A MASTERPIECE' Madeleine Thien 'ARRESTING' Kwame Anthony Appiah Two decades before Zimbabwe would win independence and ended white minority rule, thirteen-year-old Tambudzai Sigauke embarks on her education. On her shoulders rest the economic hopes of her parents, siblings, and extended family, and within her burns the desire for independence. A timeless coming-of-age tale, and a powerful exploration of cultural imperialism, Nervous Conditions charts Tambu's journey to personhood in a fledgling nation. 'With its searing observations, devastating exploration of the state of "not being", wicked humour and astonishing immersion into the mind of a young woman growing up and growing old before her time, the novel is a masterpiece.' Madelein Thien  
 link: https://play.google.com/store/books/details?id=7Z8CEAAAQBAJ  
 previewLink: http://books.google.de/books?id=7Z8CEAAAQBAJ&printsec=frontcover&dq=Tsitsi+Dangarembga,+Nervous+Conditions&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
