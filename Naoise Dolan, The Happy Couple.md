@@ -5,6 +5,8 @@ author: Dolan, Naoise
 publisher: Hachette UK  
 totalPage: 213  
 publishDate: 2023-05-25  
+coverUrl: http://books.google.com/books/content?id=8nebEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=8nebEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "'I am fully in awe of Dolan's talent' DOUGLAS STUART 'A dazzling follow-up to Exciting Times' KATHERINE HEINY 'Beautiful' PANDORA SYKES Meet the wedding party: THE BRIDE AND GROOM Celine and Luke are meant to get married and live happily ever after. But Celine's more interested in playing the piano, and Luke's a serial cheater. THE BRIDESMAID Phoebe, Celine's sister, is meant to finish college and get a real job. Instead she pulls pints, lives with six flatmates, and has no long-term aspirations beyond smoking her millionth cigarette. THE BEST MAN Archie, Luke's best friend and ex-boyfriend, is meant to move up the corporate ladder and on from Luke. Yet he stands where he is, admiring the view. THE GUEST Vivian, Luke's other best friend and other ex, was meant to put up with Luke's bullshit when they dated. But she didn't. And now she is contented, methodically observing her friends like ants. As the wedding approaches and these five lives intersect, each character will find themselves looking for a path to their happily ever after - but does it lie at the end of an aisle?"  
 link: https://play.google.com/store/books/details?id=8nebEAAAQBAJ  
 previewLink: http://books.google.de/books?id=8nebEAAAQBAJ&printsec=frontcover&dq=Naoise+Dolan,+The+Happy+Couple&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
