@@ -10,7 +10,7 @@ publishDate: 1986
 totalPage: 342  
 coverUrl: http://books.google.com/books/content?id=95s7AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
 coverSmallUrl: http://books.google.com/books/content?id=95s7AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-description: For use in schools and libraries only. The Nobel Prize-winning theoretical physicist talks about his adventure-filled life in a series of transcribed taped discussions  
+description: The Nobel Prize-winning theoretical physicist talks about his adventure-filled life in a series of transcribed taped discussions.  
 link: https://books.google.com/books/about/Surely_You_re_Joking_Mr_Feynman.html?hl=&id=95s7AQAAIAAJ  
 previewLink: http://books.google.ch/books?id=95s7AQAAIAAJ&q=surely+you%27re+joking&dq=surely+you%27re+joking&hl=&as_pt=BOOKS&cd=4&source=gbs_api  
 isbn13: UCSC:32106012776404  
