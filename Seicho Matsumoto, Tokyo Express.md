@@ -5,7 +5,9 @@ author: Matsumoto, Seicho
 authors: Seicho Matsumoto, Jesse Kirkwood  
 publisher: Penguin UK  
 totalPage: 155  
-publishDate: 2022-06-30  
+publishDate: 2018  
+coverUrl: http://books.google.com/books/content?id=qcektAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=qcektAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 description: "'An irresistible Hitchcockian gem: a fiendishly-plotted crime novel told in crisp, elegant prose' Paula Hawkins, author of The Girl on the Train 'Matsumoto was Japan's Agatha Christie' Laura Hackett, The Sunday Times 'It was a puzzle with no solution. But he did not lose heart.' In a rocky cove in the bay of Hakata, the bodies of a young and beautiful couple are discovered. Stood in the coast's wind and cold, the police see nothing to investigate: the flush of the couple's cheeks speaks clearly of cyanide, of a lovers' suicide. But in the eyes of two men, Torigai Jutaro, a senior detective, and Kiichi Mihara, a young gun from Tokyo, something is not quite right. Together, they begin to pick at the knot of a unique and calculated crime... Now widely available in English for the first time, Tokyo Express is celebrated around the world as Seicho Matsumoto's masterpiece - and as one of the most fiendish puzzles ever written."  
 link: https://play.google.com/store/books/details?id=0A5HEAAAQBAJ  
 previewLink: http://books.google.de/books?id=0A5HEAAAQBAJ&printsec=frontcover&dq=tokyo+express&hl=&as_pt=BOOKS&cd=2&source=gbs_api  

@@ -3,6 +3,8 @@ blog: true
 title: The Women of Troy  
 author: Barker, Pat  
 publishDate: 2021-08-24  
+coverUrl: http://books.google.com/books/content?id=ezKOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=ezKOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 description: A daring and timely feminist retelling of The Iliad from the perspective of the women of Troy who endured it—an extraordinary follow up to The Silence of the Girls from the Booker Prize-winning author of The Regeneration Trilogy and “one of contemporary literature’s most thoughtful and compelling writers" (The Washington Post). Troy has fallen and the victorious Greeks are eager to return home with the spoils of an endless war—including the women of Troy themselves. They await a fair wind for the Aegean. It does not come, because the gods are offended. The body of King Priam lies unburied and desecrated, and so the victors remain in suspension, camped in the shadows of the city they destroyed as the coalition that held them together begins to unravel. Old feuds resurface and new suspicions and rivalries begin to fester. Largely unnoticed by her captors, the one time Trojan queen Briseis, formerly Achilles's slave, now belonging to his companion Alcimus, quietly takes in these developments. She forges alliances when she can, with Priam's aged wife the defiant Hecuba and with the disgraced soothsayer Calchas, all the while shrewdly seeking her path to revenge.  
 link: https://books.google.com/books/about/The_Women_of_Troy.html?hl=&id=2EGNEAAAQBAJ  
 previewLink: http://books.google.de/books?id=2EGNEAAAQBAJ&dq=Pat+Barker,+The+Women+of+Troy&hl=&as_pt=BOOKS&cd=2&source=gbs_api  

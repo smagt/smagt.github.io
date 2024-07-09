@@ -4,6 +4,8 @@ author: Auster, Paul
 publisher: Faber & Faber  
 totalPage: 172  
 publishDate: 2023-11-07  
+coverUrl: http://books.google.com/books/content?id=jS62EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=jS62EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "A tender masterpiece of love, memory and loss from one of the world's great writers. The life of Sy Baumgartner - noted author, and soon-to-be retired philosophy professor - has been defined by his deep, abiding love for his wife, Anna. Now Anna is gone, and Baumgartner is embarking on his seventies whilst trying to live with her absence. But Anna's voice is everywhere still, in every spiral of memory and reminiscence, in each recalled episode of the passionate forty years they shared. Rich with compassion, wit and an eye for beauty in the smallest, most transient episodes of ordinary life, Baumgartner is one of Auster's most luminous works - a tender late masterpiece of the ache of memory. What readers are saying: ***** Perfect, subtle, charming, funny and sad. **** Well-written and compelling but also comforting, like catching up with an old friend. **** This is a concise, beautifully-written and intelligent piece of understated introspective fiction from Auster."  
 link: https://play.google.com/store/books/details?id=jS62EAAAQBAJ  
 previewLink: http://books.google.de/books?id=jS62EAAAQBAJ&printsec=frontcover&dq=Paul+Auster,+Baumgartner&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
