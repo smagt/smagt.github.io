@@ -5,6 +5,8 @@ author: Wolf, Naomi
 publisher: Harper Collins  
 publishDate: 2012-09-11  
 totalPage: 416  
+coverUrl: http://books.google.com/books/content?id=l6oxJYl1N0QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=l6oxJYl1N0QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: One of our bestselling and most respected cultural critics, Naomi Wolf, acclaimed author of The Beauty Myth and The End of America, brings us an astonishing work of cutting-edge science and cultural history that radically reframes how we understand the vagina—and, consequently, how we understand women. A “New Biography,” Vagina is at once serious, provocative, and immensely entertaining—a radical and endlessly fascinating exploration of the gateway to female consciousness from a remarkable writer and thinker at the forefront of the new feminism.  
 link: https://play.google.com/store/books/details?id=UY0Lf65bm5wC  
 previewLink: http://books.google.de/books?id=UY0Lf65bm5wC&printsec=frontcover&dq=vagina&hl=&as_pt=BOOKS&cd=18&source=gbs_api  
