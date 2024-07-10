@@ -289,4 +289,4 @@ To solve this, I use git-crypt with gpg. This can be made completely transparent
 ### final  
 If, like me, you came from Evernote, you can use `yarle-evernote-to-md.app`.    
   
-And a final thing: the text search in image-based PDFs doesn't work very well, sadly. It appears that the text extractor plugin does not work on all PDFs. A newer plugin, called OCR, is promising but buggy as I write this. A tool like [https://docs.paperless-ngx.com](https://docs.paperless-ngx.com/) is probably more powerful than my approach. But I do not like to put my documents on a server with public 
+And a final thing: the text search in image-based PDFs doesn't work very well, sadly. It appears that the text extractor plugin does not work on all PDFs. A newer plugin, called OCR, is promising but buggy as I write this. A tool like [https://docs.paperless-ngx.com](https://docs.paperless-ngx.com/) is probably more powerful than my approach. But I do not like to put my documents on a server owned by someone else, especially when my data are not encrypted.
