@@ -22,10 +22,10 @@ Colson Whitehead wrote two Pulitzer Prize novels: [Colson Whitehead, The Undergr
   
 This is a story about a black boy who's unlucky in the US of the 1950s--1970s.   A book with a surprising, beautiful and sad, ending.  In which all's right and all's wrong at the same time. Based on the true (and gruesome) story of the Nickel school, where boys were abused and killed.  
   
-We read the story of Elwood Curtis, a young black boy living in Eleanor, Florida, during the time of the Civil Rights Movement. After receiving a record album of speeches by Martin Luther King Jr., Elwood becomes more immersed in the Civil Rights Movement and has high ideals for himself and his community. However, after being arrested for riding in a stolen car, he is sentenced to a reform school called Nickel Academy, where he is subjected to brutal treatment and abuse.  
+Main character is Elwood Curtis, a young black boy living in Eleanor, Florida, during the time of the Civil Rights Movement. It inspires him but, after being arrested for riding in a stolen car, he is sentenced to a reform school called Nickel Academy: brutal treatment and abuse.  
   
 In the prologue, we meet a man named Elwood Curtis who is living in New York City. As a teenager, he attended the Nickel Academy, a reform school in Florida that is now being demolished. He reads in the newspaper that a secret graveyard has been discovered on the grounds and realises that he needs to return to the school and tell his story.  
   
-The book is remarkable for having a dual timeline, switching between Elwood's experiences at Nickel and the present-day repercussions of his time there. This works not just to keep you in suspense, but also somehow accentuates the long-lasting effects of trauma. The eventual reveal of Turner's fate is shocking, forcing readers to confront the legacy of such institutions.  
+Whitehead plays with the narrative going back and forth, switching between Elwood's experiences at Nickel and the present-day narrative, cleaning up what went on back than at the "academy".  The eventual reveal of Turner's fate is shocking, and haven't we heard many of such stories in Europe and the Americas.  
   
-_The Nickel Boys_ is more than a historical novel; it deals with America's racist past and a reminder of the work that still has to be done. The novel's tragic ending urges us to remember and act.  
+_The Nickel Boys_ is not just a historical novel; it deals with America's racist past and reminds us that no, the work is not finished yet.   
