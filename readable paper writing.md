@@ -2,8 +2,8 @@
 blog: true  
 title: readable paper writing  
 number headings: auto  
-nav_order: 1  
-has_children: true  
+layout: post  
+date: 2024-07-30 22:06:21 +0200  
 ---  
   
 # 1 technical writing  
