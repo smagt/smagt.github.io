@@ -80,28 +80,34 @@ Ah, the 'except where needed'?  Well.  There's no such thing as a synonym.  Many
 - Cambridge: to use something in an effective way  
 - Collins: to make practical or worthwhile use of (and they add the clarification: If you utilise something, you use it.  Note that that is not bidirectional!)  
 - Merriam-Webster: turn to practical use or account  
+  
 So, one may claim that 'utilise' is stronger than 'use'.  Like, really go for it!  Exploit it.  Personally, I think this is baloney. And if you want to decide for yourself, consider yourself a _reader_ rather than a _writer_ and see if use could be used instead.  If it can, go for it.  
   
 ### 2.2.2 avoid the irritating use of superfluous, useless words  
 Then, there is a tendency to add adjectives and adverbs which do not improve things.  Take this example:  
 - before: _In the framework of hand prosthetics, one usually operates the distinction between passive and active hand prostheses._  
+  
 I'm happy that's a long time ago.  I need three goes to understand its meaning.  And after getting it, I would now reformulate it as follows:  
 - after: _In hand prosthetics, there are two main types: passive and active._  
+  
 I got rid of 'the framework', 'usually', 'operates', 'distinction'.  And then what remained was simplified.  
   
 Here's another example:  
 - before: _In modern data analysis probabilistic graphical models have emerged as a powerful and intuitive tool to capture and reveal hidden structures present in the data._  
+  
 A bit of a monstrosity, with many needless words: 'modern', 'powerful', 'intuitive'... a lot of simplification is possible.  What about this simplification:  
 - after: _Probabilistic graphical models can reveal hidden structures present in data._  
   
 Third example:  
 - before: _Advanced data analysis and visualization methodologies have played an important role in making surface electromyography both a valuable diagnostic methodology of neuromuscular disorders and a robust brain-machine interface, usable as a simple interface for prosthesis control, arm movement analysis, stiffness control, gait analysis, etc._  
+  
 This sentence is too long, contains many superfluous words, and says very little.   I would, if I had to write that paper again, now write it as, for instance,  
 - after: _Surface EMG is often used to diagnose neuromuscular disorders as well as brain-machine interface._  
   
 And a last one, this time another suggestion from Jan Peters:  
 - before: _in $E=mc^2$ where $E$ denotes energy, $m$ is mass and $c$ is the speed of light_   
 - after: _in $E=mc^2$ with energy $E$, mass $m$ and speed of light $c$_  
+  
 I agree with him that this improves readability a lot.  
   
 And this section's title?  Perhaps it should better be: 'Avoid useless words'.  
