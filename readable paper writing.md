@@ -57,19 +57,96 @@ except where needed.
   
 When writing technical or scientific texts, there is a tendency to use words that make language more precise.  But it really makes it look stilted.  Difficult to read.  It almost always makes sense to use the simpler, more colloquial version of the word.  Here are some examples, but of course the list is incomplete:  
   
-| **rather than...**                | **say:**         |  
-| --------------------------------- | ---------------- |  
-| approximately                     | about            |  
-| prior to                          | before           |  
-| implement                         | carry out; start |  
-| terminate                         | end              |  
-| ascertain                         | find out         |  
-| acquire                           | get              |  
-| facilitate                        | help             |  
-| subsequently                      | later; after     |  
-| require                           | need             |  
-| demonstrate                       | show             |  
-| utilise, employ, deploy, leverage | use              |  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Word Alternatives</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            margin: 20px;  
+        }  
+        table {  
+            width: 100%;  
+            border-collapse: collapse;  
+            margin-bottom: 20px;  
+        }  
+        th, td {  
+            border: 1px solid #ddd;  
+            padding: 8px;  
+            text-align: left;  
+        }  
+        th {  
+            background-color: #f2f2f2;  
+        }  
+        tr:hover {  
+            background-color: #f5f5f5;  
+        }  
+    </style>  
+</head>  
+<body>  
+  
+<h2>Word Alternatives</h2>  
+  
+<table>  
+    <thead>  
+        <tr>  
+            <th>Rather than...</th>  
+            <th>Say:</th>  
+        </tr>  
+    </thead>  
+    <tbody>  
+        <tr>  
+            <td>approximately</td>  
+            <td>about</td>  
+        </tr>  
+        <tr>  
+            <td>prior to</td>  
+            <td>before</td>  
+        </tr>  
+        <tr>  
+            <td>implement</td>  
+            <td>carry out; start</td>  
+        </tr>  
+        <tr>  
+            <td>terminate</td>  
+            <td>end</td>  
+        </tr>  
+        <tr>  
+            <td>ascertain</td>  
+            <td>find out</td>  
+        </tr>  
+        <tr>  
+            <td>acquire</td>  
+            <td>get</td>  
+        </tr>  
+        <tr>  
+            <td>facilitate</td>  
+            <td>help</td>  
+        </tr>  
+        <tr>  
+            <td>subsequently</td>  
+            <td>later; after</td>  
+        </tr>  
+        <tr>  
+            <td>require</td>  
+            <td>need</td>  
+        </tr>  
+        <tr>  
+            <td>demonstrate</td>  
+            <td>show</td>  
+        </tr>  
+        <tr>  
+            <td>utilise, employ, deploy, leverage</td>  
+            <td>use</td>  
+        </tr>  
+    </tbody>  
+</table>  
+  
+</body>  
+</html>  
+  
 Using 'normal' words really makes your text more readable.  And helps your reader.  
   
 And the title of this section?  Should have been, 'don't use these words'.  
