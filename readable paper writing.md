@@ -165,7 +165,7 @@ Then, there is a tendency to add adjectives and adverbs which do not improve thi
 - before: _In the framework of hand prosthetics, one usually operates the distinction between passive and active hand prostheses._  
   
 I'm happy that's a long time ago.  I need three goes to understand its meaning.  And after getting it, I would now reformulate it as follows:  
-- after: _In hand prosthetics, there are two main types: passive and active._  
+- after: _There are two main types of hand prostheses: passive and active._  
   
 I got rid of 'the framework', 'usually', 'operates', 'distinction'.  And then what remained was simplified.  
   
