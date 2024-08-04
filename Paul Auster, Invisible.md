@@ -30,4 +30,4 @@ The third part is a memoir written by Walker years later, reflecting on the even
   
 The final part returns to the present, with Jim visiting Gwyn to learn more about Walker's later years and his unresolved feelings about Born and Margot. This conclusion ties together the various parts of the story, showing the lasting influence of past events on the characters' lives.  
   
-How do you create your identity? How do your choices affect your life? Riveting, magic story. Good read. Note to self, I must reread this.  
+How do _you_ create your identity? How do _your_ choices affect your life? A riveting, magic story. And an Auster great read. Note to self, I must reread this.  
