@@ -11,7 +11,7 @@ updated: 2023-10-21T21:31:08+02:00
 blog: true  
 parent: book I've read  
 layout: book  
-"read:": 2021-03  
+read: 2021-03  
 "rating:": 8  
 ---  
   

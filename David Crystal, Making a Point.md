@@ -21,7 +21,7 @@ read: 2020-06
 rating: 8  
 ---  
   
-I am slowly ploughing my way through David Crystal's work, since he's now my favourite linguist.  I wish I'd known about these 20 years ago, or rather: that he'd written them 20 years ago.  Previously I read his "Making a point", an important book in my opinion, an entertaining book.  Right now I've just started [Spell it out](./David%20Crystal,%20Spell%20it%20out.md) and [Making sense](+David%20Crystal,%20Making%20Sense.md).  
+I am slowly ploughing my way through David Crystal's work, since he's now my favourite linguist.  I wish I'd known about these 20 years ago, or rather: that he'd written them 20 years ago.  Previously I read his "Making a point", an important book in my opinion, an entertaining book.  Right now I've just started [Spell it out](./David%20Crystal,%20Spell%20it%20out.md) and [Making sense](./David%20Crystal,%20Making%20Sense.md).  
   
 *Making a Point* by David Crystal dives into the weird history and everyday use of English punctuation. Each chapter tackles a different punctuation mark, explaining where it came from and how it's changed over time.  
   
