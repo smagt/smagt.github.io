@@ -202,7 +202,8 @@ We also saved 14 words from the original 39.
   
 Here's a beautiful example which I got from Jan Peters:   
 - rather than write _This is an example of property X …_   
-- you'd better write _This example exhibits property X…_.  
+- you'd better write _This example shows property X…_  
+Jan uses 'exhibits', one may use 'demonstrates'; I prefer 'shows. Thanks to Maximilian Soelch for pointing that out. He even suggested, _This exemplifies..._ but is that really KiSS?  
   
 ### 2.2.4 tools  
 There are many tools out there helping you with writing style.  Many of them are good.  Still, developing your own style pays off for two reasons: first, you can give your papers a personal touch, rather than a style which is the same for everyone . Second, writing becomes easier, more natural, as time progresses.  
