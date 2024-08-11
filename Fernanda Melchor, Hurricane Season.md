@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=hbbDDwAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=hbbDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "Shortlisted for the 2020 International Booker Prize Now in paperback, Fernanda Melchor’s Hurricane Season is “a bilious, profane, blood-spattered tempest of rage” (The Wall Street Journal), that casts “a powerful spell” (NPR): “a narrative that not only decries an atrocity but embodies the beauty and vitality it perverts” (The New York Times) The Witch is dead. And the discovery of her corpse has the whole village investigating the murder. As the novel unfolds in a dazzling linguistic torrent, with each unreliable narrator lingering on new details, new acts of depravity or brutality, Melchor extracts some tiny shred of humanity from these characters—inners whom most people would write off as irredeemable—forming a lasting portrait of a damned Mexican village. Like Roberto Bolano’s 2666 or Faulkner’s novels, Hurricane Season takes place in a world saturated with mythology and violence—real violence, the kind that seeps into the soil, poisoning everything around: it’s a world that becomes more and more terrifying the deeper you explore it."  
 link: https://books.google.com/books/about/Hurricane_Season.html?hl=&id=hbbDDwAAQBAJ  
-previewLink: http://books.google.de/books?id=hbbDDwAAQBAJ&printsec=frontcover&dq=Fernanda+Melchor,+Hurricane+Season&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=hbbDDwAAQBAJ&printsec=frontcover&dq=Fernanda+Melchor,+Hurricane+Season&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9780811228046  
 isbn10: 811228045  
 created: 2023-07-31T20:53  
