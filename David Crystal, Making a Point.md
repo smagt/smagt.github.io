@@ -9,7 +9,7 @@ coverUrl: http://books.google.com/books/content?id=CX6lBwAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=CX6lBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: This 'engaging history of punctuation' (Wall Street Journal) is not only the first history of its kind, but a complete guide on how to use English punctuation. Behind every punctuation mark lies a thousand stories. The punctuation of English, marked with occasional rationality, is founded on arbitrariness and littered with oddities. For a system of a few dozen marks it generates a disproportionate degree of uncertainty and passion, inspiring organisations like the Apostrophe Protection Society and sending enthusiasts, correction-pens in hand, in a crusade against error. Professor Crystal leads us through this minefield with characteristic wit, clarity and commonsense. He gives a fascinating account of the origin and progress of every kind of punctuation mark over one and a half millennia, and he offers sound advice on how punctuation may be used to meet the needs of every occasion and context.  
 link: https://play.google.com/store/books/details?id=CX6lBwAAQBAJ  
-previewLink: http://books.google.de/books?id=CX6lBwAAQBAJ&printsec=frontcover&dq=David+Crystal,+Making+a+Point&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=CX6lBwAAQBAJ&printsec=frontcover&dq=David+Crystal,+Making+a+Point&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9781782831082  
 isbn10: 1782831088  
 created: 2023-07-31T20:48  
