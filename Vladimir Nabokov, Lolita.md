@@ -5,7 +5,7 @@ author: Nabokov, Vladimir
 totalPage: 336  
 publishDate: 1955  
 link: https://books.google.com/books/about/Lolita.html?hl=&id=OB1bAAAAMAAJ  
-previewLink: http://books.google.de/books?id=OB1bAAAAMAAJ&q=lolita&dq=lolita&hl=&as_pt=BOOKS&cd=18&source=gbs_api  
+previewLink: http://books.google.com/books?id=OB1bAAAAMAAJ&q=lolita&dq=lolita&hl=&as_pt=BOOKS&cd=18&source=gbs_api  
 created: 2023-09-12T20:37  
 updated: 2023-10-21T22:25:25+02:00  
 parent: book I've read  
