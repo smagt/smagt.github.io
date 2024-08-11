@@ -2,7 +2,7 @@
 title: The Last Man Alive  
 subtitle: A Story for Children from the Age of Seven to Seventy  
 author: Neill, Alexander Sutherland  
-publishDate: 1969  
+publishDate: 1938  
 totalPage: 268  
 coverUrl: http://books.google.com/books/content?id=0ZwiAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
 coverSmallUrl: http://books.google.com/books/content?id=0ZwiAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
@@ -39,9 +39,10 @@ And so they come down, as the last people alive.  The last?  Well, almost.  Whil
   
 Each chapter is concluded with a discussion of that chapter, where the children criticise (mostly) or praise (rarely) the story that Neill tells them.  Thus making it a lively, interactive happening.  
   
+The book is wonderfully topical, too, living in the days just before the second world war started for Britain; and when Bolshevism was en vogue[^1].  
+  
 Story telling at its best.  I never understood why this book received so little attention.  I read it, as a teenager, in a translated version, and since I could no longer get my hands on it, I re-translated it myself, for the younger under us who are not fluent in English.  
   
 The original is, of course, much better.  And you can go and read it at https://thelastmanalive.tripod.com/.  Please do so.  
   
-The book is wonderfully topical, too, living in the days just before the second world war started for Britain; and when Bolshevism was en vogue[^1].  
 [^1]: Just to explain: Marxism provides the foundational theory that all these movements draw upon; communism is the broader ideological goal that Marxism envisions; Bolshevism is a specific interpretation of Marxism, adapted by Lenin for the Russian context, and it led to the establishment of the Soviet Union, and Trotskyism is a variant of Marxism that emerged in opposition to Stalin’s policies, advocating for continuous revolution and internationalism.   There are more isms, but let's leave it at that, as its relevance is only to explain some of the political interpretations the book may or may not have.  No, it's not a ~~communist~~ Bolshevist book!
