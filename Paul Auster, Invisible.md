@@ -8,7 +8,7 @@ coverUrl: http://books.google.com/books/content?id=hH4GJeyZPTkC&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=hH4GJeyZPTkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Sinuously constructed in four interlocking parts, Paul Auster's fifteenth novel opens in New York City in the spring of 1967, when twenty-year-old Adam Walker, an aspiring poet and student at Columbia University, meets the enigmatic Frenchman Rudolf Born and his silent and seductive girfriend, Margot. Before long, Walker finds himself caught in a perverse triangle that leads to a sudden, shocking act of violence that will alter the course of his life. Three different narrators tell the story of Invisible, a novel that travels in time from 1967 to 2007 and moves from Morningside Heights, to the Left Bank of Paris, to a remote island in the Caribbean. It is a book of youthful rage, unbridled sexual hunger, and a relentless quest for justice. With uncompromising insight, Auster takes us into the shadowy borderland between truth and memory, between authorship and identity, to produce a work of unforgettable power that confirms his reputation as "one of America's most spectacularly inventive writers."  
 link: https://play.google.com/store/books/details?id=hH4GJeyZPTkC  
-previewLink: http://books.google.de/books?id=hH4GJeyZPTkC&printsec=frontcover&dq=Paul+Auster,+Invisible&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=hH4GJeyZPTkC&printsec=frontcover&dq=Paul+Auster,+Invisible&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn10: 1429982462  
 isbn13: 9781429982467  
 created: 2023-07-31T21:00:00  
