@@ -5,7 +5,7 @@ totalPage: 311
 publishDate: 2005  
 description: I was looking for a quiet place to die. Someone recommended Brooklyn, and so the next morning I travelled down there from Westchester to scope out the terrain . . .' So begins Paul Auster's remarkable new novel, The Brooklyn Follies. Set against the backdrop of the contested US election of 2000, it tells the story of Nathan and Tom, an uncle and nephew double-act. One in remission from lung cancer, divorced, and estranged from his only daughter, the other hiding away from his once-promising academic career, and, indeed, from life in general. Having accidentally ended up in the same Brooklyn neighbourhood, they discover a community teeming with life and passion. When Lucy, a little girl who refuses to speak, comes into their lives, there is suddenly a bridge from their pasts that offers them the possibility of redemption. Infused with character, mystery and humour, these lives intertwine and become bound together as Auster brilliantly explores the wider terrain of contemporary America - a crucible of broken dreams and of human folly. 'Auster at the top of his game. This superb novel about human folly turns out to be tremendously wise.' New Statesman  
 link: https://books.google.com/books/about/Brooklyn_follies.html?hl=&id=s_nkQwAACAAJ  
-previewLink: http://books.google.de/books?id=s_nkQwAACAAJ&dq=Paul+Auster,+The+Brooklyn+Follies&hl=&as_pt=BOOKS&cd=14&source=gbs_api  
+previewLink: http://books.google.com/books?id=s_nkQwAACAAJ&dq=Paul+Auster,+The+Brooklyn+Follies&hl=&as_pt=BOOKS&cd=14&source=gbs_api  
 isbn10: 2286016909  
 isbn13: 9782286016906  
 created: 2023-07-31T21:01  
