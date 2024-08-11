@@ -9,7 +9,7 @@ coverUrl: http://books.google.com/books/content?id=4djICT7zgGoC&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=4djICT7zgGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Featuring Latinate and Celtic words, weasel words and nonce-words, ancient words ('loaf') to cutting edge ('twittersphere') and spanning the indispensable words that shape our tongue ('and', 'what') to the more fanciful ('fopdoodle'), Crystal takes us along the winding byways of language via the rude, the obscure and the downright surprising. In this unique new history of the world's most ubiquitous language, linguistics expert David Crystal draws on words that best illustrate the huge variety of sources, influences and events that have helped to shape our vernacular since the first definitively English word was written down in the fifth century ('roe', in case you are wondering).  
 link: https://play.google.com/store/books/details?id=4djICT7zgGoC  
-previewLink: http://books.google.de/books?id=4djICT7zgGoC&printsec=frontcover&dq=david+crystal&hl=&as_pt=BOOKS&cd=35&source=gbs_api  
+previewLink: http://books.google.com/books?id=4djICT7zgGoC&printsec=frontcover&dq=david+crystal&hl=&as_pt=BOOKS&cd=35&source=gbs_api  
 isbn13: 9781847654595  
 isbn10: 1847654592  
 parent: book I've read  
