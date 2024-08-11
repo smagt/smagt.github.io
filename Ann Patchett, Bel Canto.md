@@ -5,7 +5,7 @@ totalPage: 336
 publishDate: 2020-02-27  
 description: Winner of The Women’s Prize for Fiction and the PEN/Faulkner Award for Fiction. The poignant – and at times very funny – novel from the author of The Dutch House and Commonwealth.  
 link: https://play.google.com/store/books/details?id=NOPODwAAQBAJ  
-previewLink: http://books.google.de/books?id=NOPODwAAQBAJ&printsec=frontcover&dq=Ann+Patchett,+Bel+Canto&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=NOPODwAAQBAJ&printsec=frontcover&dq=Ann+Patchett,+Bel+Canto&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9780007381791  
 isbn10: 7381794  
 created: 2023-07-31T20:54  
