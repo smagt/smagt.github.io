@@ -6,7 +6,7 @@ coverUrl: http://books.google.com/books/content?id=uS85EAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=uS85EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: A story of queer love and working-class families, Young Mungo is the brilliant second novel from the Booker Prize-winning author of Shuggie Bain Acclaimed as one of the best books of the year by NPR, Kirkus Reviews, Time, and Amazon, and named a Top 10 Book of the Year by the Washington Post, Young Mungo is a brilliantly constructed and deeply moving story of queer love and working-class families by the Booker Prize-winning author of Shuggie Bain. Growing up in a housing estate in Glasgow, Mungo and James are born under different stars--Mungo a Protestant and James a Catholic--and they should be sworn enemies. Yet against all odds, they fall in love as they find sanctuary and dream of escape in the pigeon dovecote that James has built for his prize racing birds. But when Mungo's mother sends him on a fishing trip to a remote loch with two strange men, he will need all his strength and courage to find his way back to a place where he and James might still have a future.  
 link: https://books.google.com/books/about/Young_Mungo.html?hl=&id=qj1NzwEACAAJ  
-previewLink: http://books.google.de/books?id=qj1NzwEACAAJ&dq=Douglas+Stuart,+Young+Mungo&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=qj1NzwEACAAJ&dq=Douglas+Stuart,+Young+Mungo&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn10: 802162126  
 isbn13: 9780802162120  
 created: 2023-07-30T21:38  
