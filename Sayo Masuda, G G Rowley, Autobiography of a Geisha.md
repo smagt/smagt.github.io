@@ -5,7 +5,7 @@ totalPage: 185
 publishDate: 2005  
 description: A geisha describes her sale to a geisha house at the age of six, her traditional training, her debut in 1940 at the age of sixteen, and her work at a hot-springs resort, where the realities of everyday life were far removed from the more recognized glamorous geisha quarter of Japan.  
 link: https://books.google.com/books/about/Autobiography_of_a_Geisha.html?hl=&id=ulfawAEACAAJ  
-previewLink: http://books.google.de/books?id=ulfawAEACAAJ&dq=autobiography+of+a+geisha&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=ulfawAEACAAJ&dq=autobiography+of+a+geisha&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn10: 231129513  
 isbn13: 9780231129510  
 created: 2023-08-27T11:20  
