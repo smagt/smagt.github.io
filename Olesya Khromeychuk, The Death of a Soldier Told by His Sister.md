@@ -27,14 +27,14 @@ And still, looking at history, war settles things. At least, sometimes. WW1 for 
   
 But back to this book. Despite the huge consequences wars can have, this war feels utterly useless, and built on the ego of a single individual. That oversimplifies things, and questions close to this, about the senselessness of war, and of why people choose to fight, govern this book. But then, as you already know, written by the sister of a fallen soldier.  
   
-_The list of army supplies I bought for my brother to help him with his life in the warzone was still lying on my desk when a new shopping list appeared next to it. This made my online order inventories pretty eclectic:   
-tartan paper napkins (3 packs of 20)   
-emergency burn care dressing (pack of 5)  
-yellow/blue satin ribbon (5 metres)   
-Tasmanian tiger khaki backpack (1)   
-table confetti (20 packs)   
-advanced blood clotting sponge (25g x 2)   
-favours for wedding guests (miniature whiskey bottles x 50)   
+_The list of army supplies I bought for my brother to help him with his life in the warzone was still lying on my desk when a new shopping list appeared next to it. This made my online order inventories pretty eclectic:_  
+_tartan paper napkins (3 packs of 20)_  
+_emergency burn care dressing (pack of 5)_  
+_yellow/blue satin ribbon (5 metres)_  
+_Tasmanian tiger khaki backpack (1)_  
+_table confetti (20 packs)_  
+_advanced blood clotting sponge (25g x 2)_  
+_favours for wedding guests (miniature whiskey bottles x 50)_  
   
 _If anyone saw this list, they would think I was either having a war-themed wedding or that I was getting married in the trenches. This wasn’t far from reality: my wedding was to take place just under a year after my brother had gone to the front. And while I was looking for a wedding venue in London, my mind was in the trenches in eastern Ukraine._  
   
