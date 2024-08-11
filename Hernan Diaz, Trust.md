@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Longlisted for the Booker Prize 2022 Can one person change the course of history? 'Genius' Lauren Groff A sweeping, breathtakingly ambitious novel about power, wealth and truth, told by four unique, interlocking voices and set against the backdrop of turbulent 1920s New York. The legendary Wall Street tycoon whose immense wealth gives him the power to do almost anything. The second-generation Italian immigrant tasked with recording his life story. The reclusive, aristocratic wife. And the writer who observes them from afar. In a city devoted to making money and making stories like no other, where wealth means power, who gets to tell the truth? And to rise to the top of a glittering, destructive world, what - and who - do you have to sacrifice?  
 link: https://books.google.com/books/about/Trust.html?hl=&id=IEi8zgEACAAJ  
-previewLink: http://books.google.de/books?id=IEi8zgEACAAJ&dq=diaz+trust&hl=&as_pt=BOOKS&cd=4&source=gbs_api  
+previewLink: http://books.google.com/books?id=IEi8zgEACAAJ&dq=diaz+trust&hl=&as_pt=BOOKS&cd=4&source=gbs_api  
 isbn10: 1529074495  
 isbn13: 9781529074499  
 created: 2023-09-01T18:37:40  
