@@ -6,7 +6,7 @@ publishDate: 1985
 coverUrl: http://books.google.com/books/content?id=9ZeFzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
 coverSmallUrl: http://books.google.com/books/content?id=9ZeFzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 link: https://books.google.com/books/about/The_Handmaid_s_Tale.html?hl=&id=LT2NEAAAQBAJ  
-previewLink: http://books.google.de/books?id=LT2NEAAAQBAJ&dq=Margaret+Atwood,+The+Handmaid%27s+Tale&hl=&as_pt=BOOKS&cd=10&source=gbs_api  
+previewLink: http://books.google.com/books?id=LT2NEAAAQBAJ&dq=Margaret+Atwood,+The+Handmaid%27s+Tale&hl=&as_pt=BOOKS&cd=10&source=gbs_api  
 isbn13: 9780385490818  
 isbn10: 038549081X  
 created: 2023-08-26T16:39  
