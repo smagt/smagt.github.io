@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=MOPMDwAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=MOPMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "*NOW AN LA TIMES BESTSELLER* *OVER ONE MILLION COPIES SOLD* *AN INTERNATIONAL BESTSELLER* If you could go back in time, who would you want to meet? In a small back alley of Tokyo, there is a café that has been serving carefully brewed coffee for more than one hundred years. Local legend says that this shop offers something else besides coffee—the chance to travel back in time. Over the course of one summer, four customers visit the café in the hopes of making that journey. But time travel isn’t so simple, and there are rules that must be followed. Most important, the trip can last only as long as it takes for the coffee to get cold. Heartwarming, wistful, mysterious and delightfully quirky, Toshikazu Kawaguchi’s internationally bestselling novel explores the age-old question: What would you change if you could travel back in time? Meet more wonderful characters in the sequel to Before the Coffee Gets Cold, Tales from the Café, and the third book in the series, Before Your Memory Fades, releasing November 15, 2022!"  
 link: https://play.google.com/store/books/details?id=MOPMDwAAQBAJ  
-previewLink: http://books.google.de/books?id=MOPMDwAAQBAJ&printsec=frontcover&dq=Toshikazu+Kawaguchi,+Before+the+coffee+gets+cold&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=MOPMDwAAQBAJ&printsec=frontcover&dq=Toshikazu+Kawaguchi,+Before+the+coffee+gets+cold&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9781488077210  
 isbn10: 1488077215  
 created: 2023-07-31T21:30  
