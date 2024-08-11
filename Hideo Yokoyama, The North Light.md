@@ -10,7 +10,7 @@ coverUrl: http://books.google.com/books/content?id=n4uXEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=n4uXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Translated from the Japanese by Louise Heal Kawai Minoru Aose is an architect whose greatest achievement is to have designed the Yoshino house, a prizewinning and much discussed private residence built in the shadow of Mount Asama. Aose has never been able to replicate this triumph and his career seems to have hit a barrier, while his marriage has failed. He is shocked to learn that the Yoshino House is empty apart from a single chair, stood facing the north light of nearby Mount Asama. How can he live with the rejection of the work he had put his heart and soul into, the dream house he would have loved to own himself? Aose determines that he must discover the truth behind this cruel and inexplicable dismissal of the Yoshino house and in doing so will find out a truth that goes back to the core of who he is. Plotted with the subtlety of his bestselling masterpiece Six Four, The North Light is Yokoyama at his elusive, tantalising and surprising best.  
 link: https://play.google.com/store/books/details?id=n4uXEAAAQBAJ  
-previewLink: http://books.google.de/books?id=n4uXEAAAQBAJ&printsec=frontcover&dq=hideo+yokoyama&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
+previewLink: http://books.google.com/books?id=n4uXEAAAQBAJ&printsec=frontcover&dq=hideo+yokoyama&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
 isbn13: 9781529411157  
 isbn10: 1529411157  
 parent: book I've read  
