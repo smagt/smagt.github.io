@@ -3,7 +3,7 @@ title: Moon Palace
 author: Auster, Paul  
 publishDate: 1989  
 link: https://books.google.com/books/about/Paul_Auster_Moon_Palace.html?hl=&id=RB-WjwEACAAJ  
-previewLink: http://books.google.de/books?id=RB-WjwEACAAJ&dq=Paul+Auster,+The+Moon+Palace&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=RB-WjwEACAAJ&dq=Paul+Auster,+The+Moon+Palace&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 created: 2023-07-31T20:46  
 updated: 2023-12-24T21:54:15+01:00  
 blog: true  
