@@ -6,7 +6,7 @@ totalPage: 213
 publishDate: 2014-07-17  
 description: By the time Nashe understood what was happening to him, he was past the point of wanting it to end... Paul Auster fuses Samuel Beckett, Franz Kafka and The Brothers Grimm in this brilliant and unsettling parable. Following the death of his father, Jim Nashe takes to the open road in pursuit of a life of freedom. But as the money runs out he finds that his sense of disillusionment has only been compounded by his year on the road. However, after picking up Pozzi, a hitchhiking gambler, Nashe finds himself drawn into a dangerous game of high-stakes poker with two eccentric and reclusive millionaires.  
 link: https://play.google.com/store/books/details?id=lRI3BAAAQBAJ  
-previewLink: http://books.google.de/books?id=lRI3BAAAQBAJ&printsec=frontcover&dq=Paul+Auster,+The+Music+of+Chance&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=lRI3BAAAQBAJ&printsec=frontcover&dq=Paul+Auster,+The+Music+of+Chance&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9780571266791  
 isbn10: 571266797  
 created: 2023-07-31T21:05  
