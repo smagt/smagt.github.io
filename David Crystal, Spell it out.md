@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=XBZKMSX8MggC&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=XBZKMSX8MggC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "Why is there an 'h' in ghost? William Caxton, inventor of the printing press and his Flemish employees are to blame: without a dictionary or style guide to hand in fifteenth century Bruges, the typesetters simply spelled it the way it sounded to their foreign ears, and it stuck. Seventy-five per cent of English spelling is regular but twenty-five per cent is complicated, and in Spell It Out our foremost linguistics expert David Crystal extends a helping hand to the confused and curious alike. He unearths the stories behind the rogue words that confound us, and explains why these peculiarities entered the mainstream, in an epic journey taking in sixth century monks, French and Latin upstarts, the Industrial Revolution and the internet. By learning the history and the principles, Crystal shows how the spellings that break all the rules become easier to get right."  
 link: https://play.google.com/store/books/details?id=XBZKMSX8MggC  
-previewLink: http://books.google.de/books?id=XBZKMSX8MggC&printsec=frontcover&dq=David+Crystal,+Spell+it+out&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=XBZKMSX8MggC&printsec=frontcover&dq=David+Crystal,+Spell+it+out&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 totalPage: ‎336  
 isbn10: ‎1846685680  
 isbn13: ‎9781846685682  
