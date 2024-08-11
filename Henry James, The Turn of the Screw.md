@@ -5,7 +5,7 @@ totalPage: 169
 publishDate: 1898  
 description: The Turn of the Screw is an 1898 Horrornovella by Henry James that first appeared in serial format in Collier's Weekly magazine (January 27 - April 16, 1898). In October 1898 it appeared in The Two Magics, a book published by Macmillan in New York City and Heinemann in London. Classified as both gothic fiction and a ghost story, the novella focuses on a governess who, caring for two children at a remote estate, becomes convinced that the grounds are haunted.  
 link: https://books.google.com/books/about/The_Turn_of_the_Screw_Illustrated.html?hl=&id=qkXezgEACAAJ  
-previewLink: http://books.google.de/books?id=qkXezgEACAAJ&dq=Henry+James,+The+Turn+of+the+Screw&hl=&as_pt=BOOKS&cd=40&source=gbs_api  
+previewLink: http://books.google.com/books?id=qkXezgEACAAJ&dq=Henry+James,+The+Turn+of+the+Screw&hl=&as_pt=BOOKS&cd=40&source=gbs_api  
 isbn13: 9798785198197  
 created: 2023-09-01T19:18:56  
 updated: 2024-08-03T20:35:31  
