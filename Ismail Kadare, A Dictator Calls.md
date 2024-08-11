@@ -7,7 +7,7 @@ publishDate: 2023-09-19
 coverUrl: http://books.google.com/books/content?id=eOGZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
 coverSmallUrl: http://books.google.com/books/content?id=eOGZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 link: https://books.google.com/books/about/A_Dictator_Calls.html?hl=&id=lDGqEAAAQBAJ  
-previewLink: http://books.google.de/books?id=lDGqEAAAQBAJ&dq=a+dictator+calls&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=lDGqEAAAQBAJ&dq=a+dictator+calls&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9781640096080  
 isbn10: 1640096086  
 created: 2023-09-10T16:47  

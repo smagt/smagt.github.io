@@ -3,7 +3,7 @@ title: Daisy Miller
 author: James, Henry  
 totalPage: 222  
 publishDate: 1887  
-previewLink: http://books.google.de/books?id=ntvQByNTRzwC&printsec=frontcover&dq=Henry+James,+Daisy+Miller&hl=&as_pt=BOOKS&cd=5&source=gbs_api  
+previewLink: http://books.google.com/books?id=ntvQByNTRzwC&printsec=frontcover&dq=Henry+James,+Daisy+Miller&hl=&as_pt=BOOKS&cd=5&source=gbs_api  
 created: 2023-09-01T19:17:18  
 updated: 2023-10-21T21:39:59  
 blog: true  

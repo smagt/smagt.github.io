@@ -8,7 +8,7 @@ coverUrl: http://books.google.com/books/content?id=gGG-zQEACAAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=gGG-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 description: "A New Statesman Book of the Year 2021A Metro Book of the Year 2021A Washington Post '10 Best Thriller and Mystery Books of 2021''Gripping.' FINANCIAL TIMES'A classy page-turner.' MAIL ON SUNDAY'A taut, subtle, postmodern literary thriller.' SUNDAY TIMESWhen two men meet in a bookshop in Berlin they begin an uneasy friendship. Patrick has a sensational story to tell: a ghostwriter for a Russian oligarch recently found hanged, he says the people who killed his boss are now following him...A twist on the cat-and-mouse narrative, A Lonely Man is about the search for identity and the elastic nature of truth. As the two men's association hurtles towards tragedy, Robert is forced to confront whether actual events are the only things that give a story life, and if some stories are too dangerous to tell.'A remarkable debut; an accomplished and intricately plotted story.'-JON McGREGOR'A Lonely Man is a delicate snare of a novel.'-BRANDON TAYLOR'A thrilling, unnerving novel. a page-turner with exacting syntax and emotional heft.'-CATHERINE LACEY"  
 link: https://play.google.com/store/books/details?id=GSf9DwAAQBAJ  
-previewLink: http://books.google.de/books?id=GSf9DwAAQBAJ&pg=PT5&dq=Chris+Power,+A+Lonely+Man&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
+previewLink: http://books.google.com/books?id=GSf9DwAAQBAJ&pg=PT5&dq=Chris+Power,+A+Lonely+Man&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
 isbn13: 9780571341238  
 isbn10: 571341233  
 created: 2023-07-31T21:09  

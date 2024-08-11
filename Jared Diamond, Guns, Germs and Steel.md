@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=6eBSvgEACAAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=6eBSvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 description: "This book answers the most obvious, the most important, yet the most difficult question about human history: why history unfolded so differently on different continents. Geography and biography, not race, moulded the contrasting fates of Europeans, Asians"  
 link: https://books.google.com/books/about/Guns_Germs_and_Steel.html?hl=&id=OwVrSMQPPowC  
-previewLink: http://books.google.de/books?id=OwVrSMQPPowC&dq=Jared+Diamond,+Guns,+Germs+and+Steel&hl=&as_pt=BOOKS&cd=14&source=gbs_api  
+previewLink: http://books.google.com/books?id=OwVrSMQPPowC&dq=Jared+Diamond,+Guns,+Germs+and+Steel&hl=&as_pt=BOOKS&cd=14&source=gbs_api  
 isbn13: 9780099302780  
 isbn10: 99302780  
 created: 2023-07-31T13:29  

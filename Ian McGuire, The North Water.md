@@ -5,7 +5,7 @@ totalPage: 315
 publishDate: 2016-02-11  
 description: "NOW A MAJOR BBC TV SERIES STARRING COLIN FARRELL, JACK O'CONNELL AND STEPHEN GRAHAM A ship sets sail with a killer on board . . . 1859. A man joins a whaling ship bound for the Arctic Circle. Having left the British Army with his reputation in tatters, Patrick Sumner has little option but to accept the position of ship's surgeon on this ill-fated voyage. But when, deep into the journey, a cabin boy is discovered brutally killed, Sumner finds himself forced to act. Soon he will face an evil even greater than he had encountered at the siege of Delhi, in the shape of Henry Drax: harpooner, murderer, monster . . . 'A tour de force' Hilary Mantel 'Riveting and darkly brilliant' Colm Tóibín 'One of my favourite books ever' Richard Osman"  
 link: https://play.google.com/store/books/details?id=Zvn8CAAAQBAJ  
-previewLink: http://books.google.de/books?id=Zvn8CAAAQBAJ&printsec=frontcover&dq=Ian+McGuire,+The+North+Water&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=Zvn8CAAAQBAJ&printsec=frontcover&dq=Ian+McGuire,+The+North+Water&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9781471151279  
 isbn10: 1471151271  
 created: 2023-09-01T19:22:52  

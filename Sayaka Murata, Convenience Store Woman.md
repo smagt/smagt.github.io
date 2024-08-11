@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=5oFjDwAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=5oFjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Meet Keiko. Keiko is 36 years old. She's never had a boyfriend, and she's been working in the same supermarket for eighteen years. Keiko's family wishes she'd get a proper job. Her friends wonder why she won't get married. But Keiko knows what makes her happy, and she's not going to let anyone come between her and her convenience store... *Convenience Store Woman comes in three different colours; the colour you receive will be chosen at random*  
 link: https://play.google.com/store/books/details?id=5oFjDwAAQBAJ  
-previewLink: http://books.google.de/books?id=5oFjDwAAQBAJ&printsec=frontcover&dq=Sayaka+Murata,+Convenience+Store+Woman&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
+previewLink: http://books.google.com/books?id=5oFjDwAAQBAJ&printsec=frontcover&dq=Sayaka+Murata,+Convenience+Store+Woman&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
 isbn13: 9781846276859  
 isbn10: 1846276853  
 created: 2023-07-31T21:22  

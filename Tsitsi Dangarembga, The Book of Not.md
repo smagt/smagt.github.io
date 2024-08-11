@@ -8,7 +8,7 @@ coverUrl: http://books.google.com/books/content?id=7iEIEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=7iEIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: As Zimbabwe emerges into independence, Tambudzai Sigauke embarks on her second year at the Young Ladies' College of the Sacred Heart. Determined to excel, Tambu exhausts herself with her efforts to climb to the top of the school's honour rolls. The further she pushes herself, however, the farther she feels from any reward; and the roots of colonialism threaten to trip her at every step. The sequel to Nervous Conditions is as moving, darkly witty, and riveting as its predecessor.  
 link: https://play.google.com/store/books/details?id=7iEIEAAAQBAJ  
-previewLink: http://books.google.de/books?id=7iEIEAAAQBAJ&printsec=frontcover&dq=Tsitsi+Dangarembga,+The+Book+of+Not&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
+previewLink: http://books.google.com/books?id=7iEIEAAAQBAJ&printsec=frontcover&dq=Tsitsi+Dangarembga,+The+Book+of+Not&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
 isbn13: 9780571368150  
 isbn10: 571368158  
 created: 2023-07-31T21:00:00  

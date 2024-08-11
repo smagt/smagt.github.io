@@ -6,7 +6,7 @@ coverUrl: http://books.google.com/books/content?id=J3gZEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=J3gZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Helen Grant is a mystery to her daughter. An extrovert with few friends who has sought intimacy in the wrong places; a twice-divorced mother-of-two now living alone surrounded by her memories, Helen (known to her acquaintances as 'Hen') has always haunted Bridget. Now, Bridget is an academic in her forties. She sees Helen once a year, and considers the problem to be contained. As she looks back on their tumultuous relationship - the performances and small deceptions - she tries to reckon with the cruelties inflicted on both sides. But when Helen makes it clear that she wants more, it seems an old struggle will have to be replayed. From the prize-winning author of First Love, My Phantoms is a bold, heart-stopping portrayal of a failed familial bond, which brings humour, subtlety and new life to the difficult terrain of mothers and daughters.  
 link: https://play.google.com/store/books/details?id=J3gZEAAAQBAJ  
-previewLink: http://books.google.de/books?id=J3gZEAAAQBAJ&printsec=frontcover&dq=Gwendoline+Riley,+My+Phantoms&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=J3gZEAAAQBAJ&printsec=frontcover&dq=Gwendoline+Riley,+My+Phantoms&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9781783783281  
 isbn10: 1783783281  
 created: 2023-09-01T19:11:32  

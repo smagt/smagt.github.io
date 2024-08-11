@@ -6,7 +6,7 @@ totalPage: 290
 publishDate: 2011-02-03  
 description: When Euan and Ruth set off with their young daughter to live in Bahrain, it is meant to be an experience and adventure they will cherish. But on the night they arrive, Ruth discovers the truth behind the missionary work Euan has planned and feels her world start to crumble. Far from home, and with events spiralling towards war in nearby Iraq, she starts to question her faith - in Euan, in their marriage and in all she has held dear. With Euan so often away, she is confined to their guarded compound with her neighbours and, in particular, Noor, a troubled teenager recently returned to Bahrain to live with her father. Confronted by temptations and doubt, each must make choices that could change all of their lives for ever. Compelling, passionate and deeply resonant, The Meeting Point is a novel about idealism and innocence, about the unexpected turns life can take and the dangers and chances that await us.  
 link: https://play.google.com/store/books/details?id=Ut-QxHGNWOkC  
-previewLink: http://books.google.de/books?id=Ut-QxHGNWOkC&printsec=frontcover&dq=Lucy+Caldwell,+The+Meeting+Point&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=Ut-QxHGNWOkC&printsec=frontcover&dq=Lucy+Caldwell,+The+Meeting+Point&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9780571270545  
 isbn10: 571270549  
 created: 2023-07-31T21:29  

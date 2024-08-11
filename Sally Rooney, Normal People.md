@@ -8,7 +8,7 @@ coverUrl: http://books.google.com/books/content?id=x3tgDwAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=x3tgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "***BEAUTIFUL WORLD, WHERE ARE YOU IS OUT NOW***'The best young novelist - indeed one of the best novelists - I've read in years.' Olivia Laing'Superb . . . a tremendous read, full of insight and sweetness.' Anne Enright'One the best novels I have read in years.' Sheila HetiConnell and Marianne grow up in the same small town in the west of Ireland, but the similarities end there. In school, Connell is popular and well-liked, while Marianne is a loner. But when the two strike up a conversation - awkward but electrifying - something life-changing begins.Normal People is a story of mutual fascination, friendship and love. It takes us from that first conversation to the years beyond, in the company of two people who try to stay apart but find they can't.THE BBC ADAPTATION OF NORMAL PEOPLE IS NOW AVAILABLE ON BBC IPLAYER AND BBC 1"  
 link: https://play.google.com/store/books/details?id=x3tgDwAAQBAJ  
-previewLink: http://books.google.de/books?id=x3tgDwAAQBAJ&printsec=frontcover&dq=Sally+Rooney,+Normal+People&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
+previewLink: http://books.google.com/books?id=x3tgDwAAQBAJ&printsec=frontcover&dq=Sally+Rooney,+Normal+People&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
 isbn13: 9780571334667  
 isbn10: 571334660  
 created: 2023-07-31T20:53  

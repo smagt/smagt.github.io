@@ -5,7 +5,7 @@ totalPage: 136
 publishDate: 1938  
 description: The Enchanter is the Ur-Lolita, the precursor to Nabokov's classic novel. At once hilarious and chilling, it tells the story of an outwardly respectable man and his fatal obsession with certain pubescent girls, whose coltish grace and subconscious coquetry reveal, to his mind, a special bud on the verge of bloom.  
 link: https://books.google.com/books/about/The_Enchanter.html?hl=&id=6wx8AAAAIAAJ  
-previewLink: http://books.google.de/books?id=6wx8AAAAIAAJ&q=Vladimir+Nabokov,+The+Enchanter&dq=Vladimir+Nabokov,+The+Enchanter&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+previewLink: http://books.google.com/books?id=6wx8AAAAIAAJ&q=Vladimir+Nabokov,+The+Enchanter&dq=Vladimir+Nabokov,+The+Enchanter&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
 created: 2023-07-31T21:04  
 updated: 2023-10-21T22:25:37+02:00  
 blog: true  

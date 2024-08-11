@@ -5,7 +5,7 @@ author: Rijneveld, Marieke Lucas
 publishDate: 2018-01-31  
 description: De avond is ongemak is het schrijnende verhaal van een religieus boerengezin dat wordt getroffen door de dood van een kind. Matthies komt op een dag niet meer terug van het schaatsen en laat zijn zusje Jas in totale verwarring achter. Door de ogen van de tienjarige Jas zien we hoe de familieleden elk op hun eigen manier omgaan met het verlies. Vader en moeder zijn volledig verlamd door verdriet en zien niet hoe Jas en haar zusje Hanna en haar broer Obbe ondertussen langzaam ontsporen. Onder leiding van Obbe ondernemen ze morbide experimenten met dieren en Hanna en Jas dromen hartstochtelijk van een Redder, een man als Boudewijn de Groot, een man die hen mee kan nemen naar de Overkant en hen in kan wijden in de geheimen van hun seksualiteit.  
 link: https://play.google.com/store/books/details?id=z5ZIDwAAQBAJ  
-previewLink: http://books.google.de/books?id=z5ZIDwAAQBAJ&printsec=frontcover&dq=Marieke+Rijneveld,+De+Avond+is+Ongemak&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+previewLink: http://books.google.com/books?id=z5ZIDwAAQBAJ&printsec=frontcover&dq=Marieke+Rijneveld,+De+Avond+is+Ongemak&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
 isbn13: 9789025451578  
 isbn10: 9025451578  
 created: 2023-08-27T13:29  

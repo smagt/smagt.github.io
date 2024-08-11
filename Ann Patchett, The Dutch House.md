@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=FUMIEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=FUMIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Lose yourself in the story of a lifetime – the unforgettable Sunday Times bestseller 'Patchett leads us to a truth that feels like life rather than literature' Guardian Longlisted for the Women's Prize 2020 A STORY OF TWO SIBLINGS, THEIR CHILDHOOD HOME, AND A PAST THAT THEY CAN'T LET GO. Like swallows, like salmon, we were the helpless captives of our migratory patterns. We pretended that what we had lost was the house, not our mother, not our father. We pretended that what we had lost had been taken from us by the person who still lived inside. 'The best book I've read in years' Rosamund Lupton 'Her finest novel yet' Sunday Times 'The buzz around The Dutch House is totally justified. Her best yet, which is saying something' John Boyne 'A masterpiece' Cathy Rentzenbrink 'Bliss' Nigella Lawson  
 link: https://play.google.com/store/books/details?id=FUMIEAAAQBAJ  
-previewLink: http://books.google.de/books?id=FUMIEAAAQBAJ&printsec=frontcover&dq=Ann+Patchett,+The+Dutch+House&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=FUMIEAAAQBAJ&printsec=frontcover&dq=Ann+Patchett,+The+Dutch+House&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9781526633934  
 isbn10: 1526633930  
 created: 2023-07-31T20:00:00  

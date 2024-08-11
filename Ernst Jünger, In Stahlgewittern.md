@@ -6,7 +6,7 @@ totalPage: 224
 publishDate: 1920  
 description: "Die Erlebnisse Ernst Jüngers vom Januar 1915 bis zum August 1918 an der Westfront spiegeln sich in den »Stahlgewittern« wieder: vom Grabenkrieg in der Champagne und der Schlacht bei Cambrai bis hin zu den Stoßtruppunternehmen in Flandern und zuletzt der Verleihung des Ordens Pour le mérite nach seiner Verwundung. »›In Stahlgewittern‹ machte ihn zum Helden einer Generation junger Offiziere, die alles gegeben hatten und am Ende bestenfalls das Eiserne Kreuz davontrugen. Gide pries es als ›das schönste Kriegsbuch, das ich je las.‹ Tatsächlich ähnelt es keinem anderen Buch der damaligen Zeit – keine Spur von den pastoralen Meditationen eines Siegfried Sassoon oder Edmund Blunden, kein Anflug von Feigheit wie bei Hemingway, kein Masochismus wie bei T. E. Lawrence und kein Mitleid wie bei Remarque.« Bruce Chatwin"  
 link: https://play.google.com/store/books/details?id=LwXMAgAAQBAJ  
-previewLink: http://books.google.de/books?id=LwXMAgAAQBAJ&pg=PT211&dq=stahlgewitter&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
+previewLink: http://books.google.com/books?id=LwXMAgAAQBAJ&pg=PT211&dq=stahlgewitter&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
 isbn13: 9783608106961  
 isbn10: 3608106960  
 created: 2023-10-05T12:43:17  

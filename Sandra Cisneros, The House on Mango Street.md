@@ -4,7 +4,7 @@ author: Cisneros, Sandra
 publishDate: 1984  
 description: A collection of essays exploring various aspects of Sandra Cisneros' novel "The House on Mango Street."  
 link: https://books.google.com/books/about/The_House_on_Mango_Street.html?hl=&id=5TZewAEACAAJ  
-previewLink: http://books.google.de/books?id=5TZewAEACAAJ&dq=Sandra+Cisneros,+The+House+on+Mango+Street&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
+previewLink: http://books.google.com/books?id=5TZewAEACAAJ&dq=Sandra+Cisneros,+The+House+on+Mango+Street&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
 created: 2023-07-31T20:00:00  
 updated: 2024-08-10T08:34:45  
 blog: true  

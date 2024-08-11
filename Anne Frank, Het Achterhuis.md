@@ -4,7 +4,7 @@ author: Frank, Anne
 totalPage: 224  
 publishDate: 1960  
 link: https://books.google.com/books/about/Het_Achterhuis_The_Diary_of_Anne_Frank.html?hl=&id=sTbTMgEACAAJ  
-previewLink: http://books.google.de/books?id=sTbTMgEACAAJ&dq=anne+frank,+het+achterhuis&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=sTbTMgEACAAJ&dq=anne+frank,+het+achterhuis&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 created: 2023-08-27T21:47  
 updated: 2023-10-21T21:21:45+02:00  
 blog: true  

@@ -9,7 +9,7 @@ coverUrl: http://books.google.com/books/content?id=EohLEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=EohLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: An elegantly structured story of the history and people of modern Oman told through one family's losses and loves.  
 link: https://books.google.com/books/about/Celestial_Bodies.html?hl=&id=TIXiSJzvhIAC  
-previewLink: http://books.google.de/books?id=TIXiSJzvhIAC&q=Alharthi+Jokha,+Celestial+Bodies&dq=Alharthi+Jokha,+Celestial+Bodies&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=TIXiSJzvhIAC&q=Alharthi+Jokha,+Celestial+Bodies&dq=Alharthi+Jokha,+Celestial+Bodies&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 created: 2023-07-31T21:01  
 updated: 2023-10-21T22:26:22+02:00  
 blog: true  

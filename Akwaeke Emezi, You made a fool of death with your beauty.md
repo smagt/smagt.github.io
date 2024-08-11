@@ -9,7 +9,7 @@ coverUrl: http://books.google.com/books/content?id=Ot5sEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=Ot5sEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: Feyi Adekola feels every time she locks eyes with the one person in the house who is most definitely off-limits. Who is she ready to become? Can she release her past and honor her grief while still embracing her future? And, of course, there's the biggest question of all-how far is she willing to go for a second chance at love?  
 link: https://books.google.com/books/about/You_Made_a_Fool_of_Death_with_Your_Beaut.html?hl=&id=Ot5sEAAAQBAJ  
-previewLink: http://books.google.de/books?id=Ot5sEAAAQBAJ&printsec=frontcover&dq=Akwaeke+Emezi,+You+made+a+fool+of+death+with+your+beauty&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
+previewLink: http://books.google.com/books?id=Ot5sEAAAQBAJ&printsec=frontcover&dq=Akwaeke+Emezi,+You+made+a+fool+of+death+with+your+beauty&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
 isbn13: 9781982188702  
 isbn10: 1982188707  
 created: 2023-08-27T13:29  

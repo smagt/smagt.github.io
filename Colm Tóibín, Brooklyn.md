@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=-7AdjgEACAAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=-7AdjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 description:   
 link: https://books.google.com/books/about/Brooklyn.html?hl=&id=-7AdjgEACAAJ  
-previewLink: http://books.google.de/books?id=-7AdjgEACAAJ&dq=brooklyn&hl=&as_pt=BOOKS&cd=19&source=gbs_api  
+previewLink: http://books.google.com/books?id=-7AdjgEACAAJ&dq=brooklyn&hl=&as_pt=BOOKS&cd=19&source=gbs_api  
 isbn10: 3423086491  
 isbn13: 9783423086493  
 read: 2024-05  

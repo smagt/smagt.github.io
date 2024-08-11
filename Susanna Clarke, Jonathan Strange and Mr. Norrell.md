@@ -4,7 +4,7 @@ author: Clarke, Susanna
 totalPage: 1006  
 publishDate: 2005-09  
 link: https://books.google.com/books/about/Jonathan_Strange_Mr_Norrell.html?hl=&id=-xU9NwAACAAJ  
-previewLink: http://books.google.de/books?id=-xU9NwAACAAJ&dq=Susanna+Clarke,+Jonathan+Strange+and+Mr.+Norrell&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
+previewLink: http://books.google.com/books?id=-xU9NwAACAAJ&dq=Susanna+Clarke,+Jonathan+Strange+and+Mr.+Norrell&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
 isbn10: 1596910534  
 isbn13: 9781596910539  
 created: 2023-07-31T21:00:00  

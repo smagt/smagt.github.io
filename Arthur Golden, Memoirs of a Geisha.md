@@ -6,7 +6,7 @@ publishDate: 1997
 coverUrl: http://books.google.com/books/content?id=o9dQAygC_aIC&printsec=frontcover&img=1&zoom=1&source=gbs_api  
 coverSmallUrl: http://books.google.com/books/content?id=o9dQAygC_aIC&printsec=frontcover&img=1&zoom=5&source=gbs_api  
 link: https://books.google.com/books/about/Memoirs_of_a_Geisha.html?hl=&id=nhmjYyUjCOsC  
-previewLink: http://books.google.de/books?id=nhmjYyUjCOsC&q=Arthur+Golden,+Memoirs+of+a+Geisha&dq=Arthur+Golden,+Memoirs+of+a+Geisha&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+previewLink: http://books.google.com/books?id=nhmjYyUjCOsC&q=Arthur+Golden,+Memoirs+of+a+Geisha&dq=Arthur+Golden,+Memoirs+of+a+Geisha&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
 isbn10: 770429963  
 isbn13: 9780770429966  
 created: 2023-08-26T18:11  

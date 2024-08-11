@@ -8,7 +8,7 @@ coverSmallUrl: http://books.google.com/books/content?id=K0MIEAAAQBAJ&printsec=fr
 publishDate: 2009-02-24  
 description: Mariam is only fifteen when she is sent to Kabul to marry Rasheed. Nearly two decades later, a friendship grows between Mariam and a local teenager, Laila, as strong as the ties between mother and daughter. When the Taliban take over, life becomes a desperate struggle against starvation, brutality and fear. Yet love can move a person to act in unexpected ways, and lead them to overcome the most daunting obstacles with a startling heroism.  
 link: https://play.google.com/store/books/details?id=k7hIAw5WmmwC  
-previewLink: http://books.google.de/books?id=k7hIAw5WmmwC&pg=PT291&dq=a+thousand+splendid+suns&hl=&as_pt=BOOKS&cd=14&source=gbs_api  
+previewLink: http://books.google.com/books?id=k7hIAw5WmmwC&pg=PT291&dq=a+thousand+splendid+suns&hl=&as_pt=BOOKS&cd=14&source=gbs_api  
 isbn13: 9781408803738  
 isbn10: 1408803739  
 blog: true  
