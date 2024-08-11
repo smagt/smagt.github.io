@@ -7,7 +7,7 @@ coverUrl: http://books.google.com/books/content?id=8yJhEAAAQBAJ&printsec=frontco
 coverSmallUrl: http://books.google.com/books/content?id=8yJhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
 description: "From the award-winning, internationally best-selling author, a beguiling romp of a novel, at once intimate and panoramic, about the adventures and misadventures of a nineteenth-century everyman: Picaresque, big-hearted and moving, this is Boyd at the top of his game. —The Guardian One man, many livesx Cashel Greville Ross experiences more of everything than most, from the rapturous to the devastating, from surprising good luck to unexpected loss. Born in 1799, Cashel seeks his fortune across the turbulence of multiple continents, from County Cork to rural Massachusetts, from Waterloo to Zanzibar, embedded with the East Indian Army in Sri Lanka, sunning himself alongside the Romantic poets in Pisa. He travels the world as a soldier, a farmer, a felon, a writer, even a father. And he experiences all the vicissitudes of existence, including a once-in-a-lifetime love that will haunt the rest of his days. In the end, his great accomplishment is to discover who he truly is—which is the romance of life itself, and the beating heart of The Romantic."  
 link: https://books.google.com/books/about/The_Romantic.html?hl=&id=xNOcEAAAQBAJ  
-previewLink: http://books.google.de/books?id=xNOcEAAAQBAJ&dq=William+Boyd,+The+Romantic&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+previewLink: http://books.google.com/books?id=xNOcEAAAQBAJ&dq=William+Boyd,+The+Romantic&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
 isbn13: 9780593536797  
 isbn10: 593536797  
 created: 2023-07-30T21:00:00  
