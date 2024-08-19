@@ -23,12 +23,12 @@ rate: 8
   
 It took me only two days to read this.  A simple, beautiful story, in which you just want to know what happens next. That was not the reason I got it; the reason was, I encountered an offer for a free book, one which seemed reasonably nice.  Despite my  backlog of 6 titles I urgently want to read, I plunged quickly into this one.  After all, one doesn't pass on a free book.  
   
-Mabel, 86, lives lovingly with Arthur, until he dies, early in the book.  Heart failure, and he saw it coming.  Mabel didn't, but is, sort of, freed.  Aren't women, when their men die?    
+Mabel, 86, lives lovingly with Arthur, until he dies, early in the book.  Heart failure, and he saw it coming.  Mabel didn't, but is, sort of, freed.  Aren't women always, when their men die?    
   
-Anyway, nothing but good about Arthur.  And she was more the problem in making their relationship of 62 years as loving as it could have been.  But, all good, and now Mabel's free.  
+Anyway, nothing but good about Arthur.  And she was more the one blocking making their relationship of 62 years as loving as it could have been.  But, all good, and now Mabel's free.  
   
-And this freedom, starting with boredom, develops into many friendships, with Julie, Erin, Patricia, Kirsty.  And Dot.  Loving relationships between all of them, each bearing some cross, some problem, some loss, some challenge, and by and by they open up to each other and jointly address their challenges.  
+And this freedom, starting with boredom, develops into many friendships, with Julie, Erin, Patricia, Kirsty.  And Dot.  Loving relationships between all of them, each bearing some cross, some problem, some loss, some challenge, and by and by they open up to each other and jointly address their challenges.  And we get to know each of the characters, including Mabel, better and better.  As they start knowing each other better.  
   
-Well, nothing but love in this book.  Mabel is charmingly fit and, of course, central to the book.  
+Well, nothing but love and reconciliation in this book.  Mabel is charmingly fit and, of course, central to the book.  
   
 And I just read it's a bestseller, because of the soft soap? but that's unfair, it's really a loving story.  I would not be surprised if the film rights have already been purchased.  
