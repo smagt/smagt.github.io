@@ -1,22 +1,22 @@
----  
-blog: true  
-title: The Women of Troy  
-author: Barker, Pat  
-publishDate: 2021-08-24  
-coverUrl: http://books.google.com/books/content?id=ezKOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=ezKOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-description: A daring and timely feminist retelling of The Iliad from the perspective of the women of Troy who endured it—an extraordinary follow up to The Silence of the Girls from the Booker Prize-winning author of The Regeneration Trilogy and “one of contemporary literature’s most thoughtful and compelling writers" (The Washington Post). Troy has fallen and the victorious Greeks are eager to return home with the spoils of an endless war—including the women of Troy themselves. They await a fair wind for the Aegean. It does not come, because the gods are offended. The body of King Priam lies unburied and desecrated, and so the victors remain in suspension, camped in the shadows of the city they destroyed as the coalition that held them together begins to unravel. Old feuds resurface and new suspicions and rivalries begin to fester. Largely unnoticed by her captors, the one time Trojan queen Briseis, formerly Achilles's slave, now belonging to his companion Alcimus, quietly takes in these developments. She forges alliances when she can, with Priam's aged wife the defiant Hecuba and with the disgraced soothsayer Calchas, all the while shrewdly seeking her path to revenge.  
-link: https://books.google.com/books/about/The_Women_of_Troy.html?hl=&id=2EGNEAAAQBAJ  
-previewLink: http://books.google.com/books?id=2EGNEAAAQBAJ&dq=Pat+Barker,+The+Women+of+Troy&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
-isbn13: 9780385546690  
-isbn10: 385546696  
-created: 2023-07-31T21:36  
-updated: 2023-10-21T22:20:36+02:00  
-parent: book I've read  
-layout: book  
-read: 2023-02  
-rating: 10  
----  
+---
+blog: true
+title: The Women of Troy
+author: Barker, Pat
+publishDate: 2021-08-24
+coverUrl: http://books.google.com/books/content?id=ezKOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=ezKOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
+description: A daring and timely feminist retelling of The Iliad from the perspective of the women of Troy who endured it—an extraordinary follow up to The Silence of the Girls from the Booker Prize-winning author of The Regeneration Trilogy and “one of contemporary literature’s most thoughtful and compelling writers" (The Washington Post). Troy has fallen and the victorious Greeks are eager to return home with the spoils of an endless war—including the women of Troy themselves. They await a fair wind for the Aegean. It does not come, because the gods are offended. The body of King Priam lies unburied and desecrated, and so the victors remain in suspension, camped in the shadows of the city they destroyed as the coalition that held them together begins to unravel. Old feuds resurface and new suspicions and rivalries begin to fester. Largely unnoticed by her captors, the one time Trojan queen Briseis, formerly Achilles's slave, now belonging to his companion Alcimus, quietly takes in these developments. She forges alliances when she can, with Priam's aged wife the defiant Hecuba and with the disgraced soothsayer Calchas, all the while shrewdly seeking her path to revenge.
+link: https://books.google.com/books/about/The_Women_of_Troy.html?hl=&id=2EGNEAAAQBAJ
+previewLink: http://books.google.com/books?id=2EGNEAAAQBAJ&dq=Pat+Barker,+The+Women+of+Troy&hl=&as_pt=BOOKS&cd=2&source=gbs_api
+isbn13: 9780385546690
+isbn10: 385546696
+created: 2023-07-31T21:36
+updated: 2023-10-21T22:20:36+02:00
+parent: book I've read
+layout: book
+read: 2023-02
+rating: 10
+---
   
 After reading [Pat Barker, The Silence of the Girls](./Pat%20Barker,%20The%20Silence%20of%20the%20Girls.md), which a dear friend pointed out to me recently, I decided to go on with the fun ride and reread this book.  
   
@@ -36,8 +36,8 @@ The whole story is told by Briseis, the who was married to the son of the king o
   
 Story continues, the Greeks find a way to pacify the Gods, and all's well that ends well.  
   
-The burial of Priam comes, and Briseis observes Aachilles'/Pyrrhus' fighters: *Myrmidons: ant-men. I’d always thought what a stupid name that was for men who were so sturdily independent, so ready to question authority, whose respect always had to be earned; but seeing them like this, hearing–and, in the vibration of the cart, feeling–the power and precision of those marching feet, I understood–for the first time, I think–the terror they inspired on the battlefield.*  
+The burial of Priam comes, and Briseis observes Achilles'/Pyrrhus' fighters: *Myrmidons: ant-men. I’d always thought what a stupid name that was for men who were so sturdily independent, so ready to question authority, whose respect always had to be earned; but seeing them like this, hearing–and, in the vibration of the cart, feeling–the power and precision of those marching feet, I understood–for the first time, I think–the terror they inspired on the battlefield.*  
   
-I can see a third book coming. On how the Troy women, now slaves, including Briseis return to Greece. Troy, I looked it up for you, was in the north-west of current Turkey, some 300km south of Constantinople (Istanbul).  
+I can see a third book coming. On how the Troy women, now slaves, including Briseis' return to Greece. Troy, I looked it up for you, was in the north-west of current Turkey, some 300km south of Constantinople (Istanbul).  
   
-I just hope that Pat Barker sees that third book, too. (Spoiler: after writing this sentence I checked, and indeed!  The Voyage Home, number 3 in the series, is expected in August 2024.)
+I just hope that Pat Barker sees that third book, too. (Spoiler: after writing this sentence I checked, and indeed!  [The Voyage Home](./Pat%20Barker,%20The%20Voyage%20Home.md), number 3 in the series, is expected in August 2024.)
