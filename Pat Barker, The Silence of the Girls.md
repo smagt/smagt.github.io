@@ -1,23 +1,23 @@
----  
-blog: true  
-title: The Silence of the Girls  
-author: Barker, Pat  
-totalPage: 336  
-publishDate: 2018-08-30  
-coverUrl: http://books.google.com/books/content?id=YVlPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=YVlPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: A GUARDIAN BEST BOOK OF THE 21ST CENTURY 'Chilling, powerful, audacious' The Times 'Magnificent. You are in the hands of a writer at the height of her powers' Evening Standard There was a woman at the heart of the Trojan War whose voice has been silent - until now. Discover the greatest Greek myth of all - retold by the witness that history forgot . . . Briseis was a queen until her city was destroyed. Now she is a slave to the man who butchered her husband and brothers. Trapped in a world defined by men, can she survive to become the author of her own story? PERFECT FOR FANS OF MADELINE MILLER'S CIRCE AND THE SONG OF ACHILLES. *Shortlisted for the Women's Prize for Fiction and the Costa Novel Award* Pat Barker continues her extraordinary retelling of one of our greatest myths in The Women of Troy.  
-link: https://play.google.com/store/books/details?id=YVlPDwAAQBAJ  
-previewLink: http://books.google.com/books?id=YVlPDwAAQBAJ&printsec=frontcover&dq=Pat+Barker,+The+Silence+of+the+Girls&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9780241983218  
-isbn10: 241983215  
-created: 2023-08-27T13:29:43  
-updated: 2023-10-21T23:03:50+02:00  
-parent: book I've read  
-layout: book  
-read: 2023-08  
-rating: 10  
----  
+---
+blog: true
+title: The Silence of the Girls
+author: Barker, Pat
+totalPage: 336
+publishDate: 2018-08-30
+coverUrl: http://books.google.com/books/content?id=YVlPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=YVlPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: A GUARDIAN BEST BOOK OF THE 21ST CENTURY 'Chilling, powerful, audacious' The Times 'Magnificent. You are in the hands of a writer at the height of her powers' Evening Standard There was a woman at the heart of the Trojan War whose voice has been silent - until now. Discover the greatest Greek myth of all - retold by the witness that history forgot . . . Briseis was a queen until her city was destroyed. Now she is a slave to the man who butchered her husband and brothers. Trapped in a world defined by men, can she survive to become the author of her own story? PERFECT FOR FANS OF MADELINE MILLER'S CIRCE AND THE SONG OF ACHILLES. *Shortlisted for the Women's Prize for Fiction and the Costa Novel Award* Pat Barker continues her extraordinary retelling of one of our greatest myths in The Women of Troy.
+link: https://play.google.com/store/books/details?id=YVlPDwAAQBAJ
+previewLink: http://books.google.com/books?id=YVlPDwAAQBAJ&printsec=frontcover&dq=Pat+Barker,+The+Silence+of+the+Girls&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780241983218
+isbn10: 241983215
+created: 2023-08-27T13:29:43
+updated: 2023-10-21T23:03:50+02:00
+parent: book I've read
+layout: book
+read: 2023-08
+rating: 10
+---
   
 This is, in various ways, the prequel of [Pat Barker, The Women of Troy](./Pat%20Barker,%20The%20Women%20of%20Troy.md).  
   
