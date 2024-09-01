@@ -1,25 +1,25 @@
----  
-title: The Testaments  
-subtitle: A Novel  
-author: Atwood, Margaret  
-publisher: Anchor  
-totalPage: 412  
-publishDate: 2019-09-10  
-coverUrl: http://books.google.com/books/content?id=P6F7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=P6F7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: "NEW YORK TIMES BESTSELLER • WINNER OF THE BOOKER PRIZE • A modern masterpiece that &quot;reminds us of the power of truth in the face of evil” (People)—and can be read on its own or as a sequel to Margaret Atwood’s classic, The Handmaid’s Tale. “Atwood’s powers are on full display” (Los Angeles Times) in this deeply compelling Booker Prize-winning novel, now updated with additional content that explores the historical sources, ideas, and material that inspired Atwood. More than fifteen years after the events of The Handmaid's Tale, the theocratic regime of the Republic of Gilead maintains its grip on power, but there are signs it is beginning to rot from within. At this crucial moment, the lives of three radically different women converge, with potentially explosive results. Two have grown up as part of the first generation to come of age in the new order. The testimonies of these two young women are joined by a third: Aunt Lydia. Her complex past and uncertain future unfold in surprising and pivotal ways. With The Testaments, Margaret Atwood opens up the innermost workings of Gilead, as each woman is forced to come to terms with who she is, and how far she will go for what she believes."  
-link: https://books.google.com/books/about/The_Testaments.html?hl=&id=P6F7DwAAQBAJ  
-previewLink: http://books.google.com/books?id=P6F7DwAAQBAJ&printsec=frontcover&dq=atwood+the+testaments&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9780385543798  
-isbn10: 385543794  
-created: 2023-08-25T17:50  
-updated: 2023-12-24T21:25:39+01:00  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2020-02  
-rating: 9  
----  
+---
+title: The Testaments
+subtitle: A Novel
+author: Atwood, Margaret
+publisher: Anchor
+totalPage: 412
+publishDate: 2019-09-10
+coverUrl: http://books.google.com/books/content?id=P6F7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=P6F7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: "NEW YORK TIMES BESTSELLER • WINNER OF THE BOOKER PRIZE • A modern masterpiece that &quot;reminds us of the power of truth in the face of evil” (People)—and can be read on its own or as a sequel to Margaret Atwood’s classic, The Handmaid’s Tale. “Atwood’s powers are on full display” (Los Angeles Times) in this deeply compelling Booker Prize-winning novel, now updated with additional content that explores the historical sources, ideas, and material that inspired Atwood. More than fifteen years after the events of The Handmaid's Tale, the theocratic regime of the Republic of Gilead maintains its grip on power, but there are signs it is beginning to rot from within. At this crucial moment, the lives of three radically different women converge, with potentially explosive results. Two have grown up as part of the first generation to come of age in the new order. The testimonies of these two young women are joined by a third: Aunt Lydia. Her complex past and uncertain future unfold in surprising and pivotal ways. With The Testaments, Margaret Atwood opens up the innermost workings of Gilead, as each woman is forced to come to terms with who she is, and how far she will go for what she believes."
+link: https://books.google.com/books/about/The_Testaments.html?hl=&id=P6F7DwAAQBAJ
+previewLink: http://books.google.com/books?id=P6F7DwAAQBAJ&printsec=frontcover&dq=atwood+the+testaments&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780385543798
+isbn10: 385543794
+created: 2023-08-25T17:50
+updated: 2023-12-24T21:25:39+01:00
+blog: true
+parent: book I've read
+layout: book
+read: 2020-02
+rating: 9
+---
   
 [The Handmaid's Tale](./Margaret%20Atwood,%20The%20Handmaid's%20Tale.md) and The Testaments are similar, or rather, together form one story: the fall of the Gilead society. More than fifteen years after The Handmaid's Tale, the theocratic regime of the Republic of Gilead begins to rot from within. At this crucial moment, the lives of three radically different women converge, with potentially explosive results.   
   
