@@ -1,22 +1,22 @@
----  
-blog: true  
-title: Milkman  
-author: Burns, Anna  
-totalPage: 456  
-publishDate: 2019  
-link: https://books.google.com/books/about/Milkman.html?hl=&id=CgzRyQEACAAJ  
-previewLink: http://books.google.com/books?id=CgzRyQEACAAJ&dq=Anna+Burns,+Milkman&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-coverUrl: http://books.google.com/books/content?id=Ta5PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=Ta5PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-isbn10: 8899911509  
-isbn13: 9788899911508  
-created: 2023-07-31T21:38  
-updated: 2023-10-21T21:21:14+02:00  
-parent: book I've read  
-layout: book  
-read: 2023-03  
-rating: 10  
----  
+---
+blog: true
+title: Milkman
+author: Burns, Anna
+totalPage: 456
+publishDate: 2019
+link: https://books.google.com/books/about/Milkman.html?hl=&id=CgzRyQEACAAJ
+previewLink: http://books.google.com/books?id=CgzRyQEACAAJ&dq=Anna+Burns,+Milkman&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+coverUrl: http://books.google.com/books/content?id=Ta5PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=Ta5PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+isbn10: 8899911509
+isbn13: 9788899911508
+created: 2023-07-31T21:38
+updated: 2023-10-21T21:21:14+02:00
+parent: book I've read
+layout: book
+read: 2023-03
+rating: 10
+---
   
   
 if you check the reviews of this book, you find extremes.  Many people being upset and irritated by Burns' way of describing her heroes, of which "Milkman" is one.  No one in this book has a name (except for Milkman, one discovers somewhere in the middle), but are called, "oldest sister", or "maybe-boyfriend", etc.  Well, here I am, often fighting with remembering who's-who, and this approach works for me.  I don't need to remember five or 10 different names of different characters who, when I first encounter them, have no face and are hence hard to remember.  That "maybe-boyfriend" is later called "ex-maybe-boyfriend" also works for me.  
