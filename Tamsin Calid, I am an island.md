@@ -1,24 +1,24 @@
----  
-title: I Am An Island  
-author: Calidas, Tamsin  
-publisher: Random House  
-totalPage: 259  
-publishDate: 2020-05-07  
-coverUrl: http://books.google.com/books/content?id=p2yjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=p2yjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: THE SUNDAY TIMES BESTSELLER 'Memoir of the year' - Vogue 'A wondrous, sensuous memoir of salt-stung survival . . . clear-eyed and poetic prose' Sunday Times 'A fascinating memoir' - Daily Mail When Tamsin Calidas first arrives on a remote island in the Scottish Hebrides, it feels like coming home. Disenchanted by London, she and her husband left the city and high-flying careers to move the 500 miles north, despite having absolutely no experience of crofting, or of island life. It was idyllic, for a while. But as the months wear on, the children she'd longed for fail to materialise, and her marriage breaks down, Tamsin finds herself in ever-increasing isolation. Injured, ill, without money or friend she is pared right back, stripped to becoming simply a raw element of the often harsh landscape. But with that immersion in her surroundings comes the possibility of rebirth and renewal. Tamsin begins the slow journey back from the brink. Startling, raw and extremely moving, I Am An Island is a story about the incredible ability of the natural world to provide when everything else has fallen away - a stunning book about solitude, friendship, resilience and self-discovery.  
-link: https://play.google.com/store/books/details?id=p2yjDwAAQBAJ  
-previewLink: http://books.google.com/books?id=p2yjDwAAQBAJ&printsec=frontcover&dq=Tamsin+Calid,+I+am+an+island&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9781473569133  
-isbn10: 1473569133  
-created: 2023-07-31T21:25  
-updated: 2023-10-22T15:59:58+02:00  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2022-10  
-rating: 7  
----  
+---
+title: I Am An Island
+author: Calidas, Tamsin
+publisher: Random House
+totalPage: 259
+publishDate: 2020-05-07
+coverUrl: http://books.google.com/books/content?id=p2yjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=p2yjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: THE SUNDAY TIMES BESTSELLER 'Memoir of the year' - Vogue 'A wondrous, sensuous memoir of salt-stung survival . . . clear-eyed and poetic prose' Sunday Times 'A fascinating memoir' - Daily Mail When Tamsin Calidas first arrives on a remote island in the Scottish Hebrides, it feels like coming home. Disenchanted by London, she and her husband left the city and high-flying careers to move the 500 miles north, despite having absolutely no experience of crofting, or of island life. It was idyllic, for a while. But as the months wear on, the children she'd longed for fail to materialise, and her marriage breaks down, Tamsin finds herself in ever-increasing isolation. Injured, ill, without money or friend she is pared right back, stripped to becoming simply a raw element of the often harsh landscape. But with that immersion in her surroundings comes the possibility of rebirth and renewal. Tamsin begins the slow journey back from the brink. Startling, raw and extremely moving, I Am An Island is a story about the incredible ability of the natural world to provide when everything else has fallen away - a stunning book about solitude, friendship, resilience and self-discovery.
+link: https://play.google.com/store/books/details?id=p2yjDwAAQBAJ
+previewLink: http://books.google.com/books?id=p2yjDwAAQBAJ&printsec=frontcover&dq=Tamsin+Calid,+I+am+an+island&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9781473569133
+isbn10: 1473569133
+created: 2023-07-31T21:25
+updated: 2023-10-22T15:59:58+02:00
+blog: true
+parent: book I've read
+layout: book
+read: 2022-10
+rating: 7
+---
   
 **I am an island** was a bestseller in the UK.  An autobiographic story of a couple which move to the Hebrides. It is an area to have visited, on a holiday.  Remote, reachable with patience only, and extreme beauty and solitude with that.  
   
