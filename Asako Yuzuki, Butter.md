@@ -1,22 +1,22 @@
----  
-blog: true  
-title: Butter  
-author: Yuzuki, Asako  
-publisher: HarperCollins UK  
-publishDate: 2024-02-29  
-totalPage: 376  
-coverUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: Compelling, delightfully weird, often uncomfortable' PANDORA SYKES 'Unputdownable, breathtakingly original' ERIN KELLY 'Delicious' i-D Magazine 'Luscious ... I devoured this' IMOGEN CRIMP  
-link: https://play.google.com/store/books/details?id=pZnLEAAAQBAJ  
-previewLink: http://books.google.es/books?id=pZnLEAAAQBAJ&printsec=frontcover&dq=Asako+Yuzuki,+Butter&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9780008511692  
-isbn10: 8511691  
-parent: book I've read  
-layout: book  
-rating: 9  
-read: 2024-04-02  
----  
+---
+blog: true
+title: Butter
+author: Yuzuki, Asako
+publisher: HarperCollins UK
+publishDate: 2024-02-29
+totalPage: 376
+coverUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: Compelling, delightfully weird, often uncomfortable' PANDORA SYKES 'Unputdownable, breathtakingly original' ERIN KELLY 'Delicious' i-D Magazine 'Luscious ... I devoured this' IMOGEN CRIMP
+link: https://play.google.com/store/books/details?id=pZnLEAAAQBAJ
+previewLink: http://books.google.es/books?id=pZnLEAAAQBAJ&printsec=frontcover&dq=Asako+Yuzuki,+Butter&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780008511692
+isbn10: 8511691
+parent: book I've read
+layout: book
+rating: 9
+read: 2024-04-02
+---
   
 I cannot help but love surreal Japanese novels.  Another beautiful example in this one, which is a combination of food pornography and murder mystery.  Food: indeed, butter.  The main protagonist of the story, Rika, is a journalist who lives for her work.  She has a friend-with-benefits, he thinks they have a relationship.  She ignores food, until she starts getting interested in the story of a serial killer; a woman who killed various of her husbands, after lavishly cooking for them:  
   

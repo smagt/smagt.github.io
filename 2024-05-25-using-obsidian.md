@@ -1,10 +1,10 @@
----  
-blog: true  
-layout: post  
-date: 2024-05-25 22:17:21 +0200  
-title: how I use Obsidian  
-nav_order: 1  
----  
+---
+blog: true
+layout: post
+date: 2024-05-25 22:17:21 +0200
+title: how I use Obsidian
+nav_order: 1
+---
 First published on **2024-05-25**.  
 Extended on **2024-06-30**.  
   

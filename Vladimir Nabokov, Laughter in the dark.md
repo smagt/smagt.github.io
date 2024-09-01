@@ -1,21 +1,21 @@
----  
-title: Laughter in the Dark  
-author: Nabokov, Vladimir  
-totalPage: 308  
-publishDate: 1932  
-description: Tragedy of a rich and respectable Berlin art dealer and his passion for his young mistress.  
-link: https://books.google.com/books/about/Laughter_in_the_Dark.html?hl=&id=4uj1Dy_P_YQC  
-previewLink: http://books.google.ch/books?id=4uj1Dy_P_YQC&printsec=frontcover&dq=Vladimir+Nabokov,+Laughter+in+the+dark&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
-isbn10: 811216748  
-isbn13: 9780811216746  
-created: 2023-07-31T21:00:00  
-updated: 2024-07-07T16:02:02  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2023-03  
-rating: 8  
----  
+---
+title: Laughter in the Dark
+author: Nabokov, Vladimir
+totalPage: 308
+publishDate: 1932
+description: Tragedy of a rich and respectable Berlin art dealer and his passion for his young mistress.
+link: https://books.google.com/books/about/Laughter_in_the_Dark.html?hl=&id=4uj1Dy_P_YQC
+previewLink: http://books.google.ch/books?id=4uj1Dy_P_YQC&printsec=frontcover&dq=Vladimir+Nabokov,+Laughter+in+the+dark&hl=&as_pt=BOOKS&cd=2&source=gbs_api
+isbn10: 811216748
+isbn13: 9780811216746
+created: 2023-07-31T21:00:00
+updated: 2024-07-07T16:02:02
+blog: true
+parent: book I've read
+layout: book
+read: 2023-03
+rating: 8
+---
   
 Of course we all know Nabokov by his [most famous book](./Vladimir%20Nabokov,%20Lolita.md). And through this book one finds that such difficult topics as that book covers need study. This book is such a study, a prequel to Lolita, and still quite innocent. Sugar daddies, beware!  You may think twice after reading this book.  
   

@@ -1,25 +1,25 @@
----  
-title: The Factory  
-subtitle:   
-author: Oyamada, Hiroko  
-category: Fiction  
-categories: Fiction  
-publisher: Granta Books  
-publishDate: 2023-11-02  
-totalPage: 127  
-coverUrl: http://books.google.com/books/content?id=WkHUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=WkHUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: "From the award-winning author of Weasels in the Attic, a modern fable about the world of work Beyond the town, there is the factory. Beyond the factory, there is nothing. Within the sprawling industrial complex, three new employees are each assigned a department. There, each must focuses on a specific task: one shreds paper, one proofreads documents, and another studies the moss growing all over the expansive grounds. As they grow accustomed to the routine and co-workers, their lives become governed by their work--days take on a strange logic and momentum, and little by little, the margins of reality seem to be dissolving: Where does the factory end and the rest of the world begin? What's going on with the strange animals here? And after a while--it could be weeks or years--the three workers struggle to answer the most basic question: What am I doing here? With hints of Kafka and Beckett and unexpected moments of creeping humour, The Factory is a vivid, and sometimes surreal, portrait of the absurdity and meaninglessness of the modern workplace."  
-link: https://play.google.com/store/books/details?id=WkHUEAAAQBAJ  
-previewLink: http://books.google.es/books?id=WkHUEAAAQBAJ&pg=PT123&dq=Hiriko+oyamada,+The+Factory&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9781803510583  
-isbn10: 1803510587  
-blog: true  
-parent: book I've read  
-layout: book  
-rating: 9  
-read: 2024-03-12  
----  
+---
+title: The Factory
+subtitle: 
+author: Oyamada, Hiroko
+category: Fiction
+categories: Fiction
+publisher: Granta Books
+publishDate: 2023-11-02
+totalPage: 127
+coverUrl: http://books.google.com/books/content?id=WkHUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=WkHUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: "From the award-winning author of Weasels in the Attic, a modern fable about the world of work Beyond the town, there is the factory. Beyond the factory, there is nothing. Within the sprawling industrial complex, three new employees are each assigned a department. There, each must focuses on a specific task: one shreds paper, one proofreads documents, and another studies the moss growing all over the expansive grounds. As they grow accustomed to the routine and co-workers, their lives become governed by their work--days take on a strange logic and momentum, and little by little, the margins of reality seem to be dissolving: Where does the factory end and the rest of the world begin? What's going on with the strange animals here? And after a while--it could be weeks or years--the three workers struggle to answer the most basic question: What am I doing here? With hints of Kafka and Beckett and unexpected moments of creeping humour, The Factory is a vivid, and sometimes surreal, portrait of the absurdity and meaninglessness of the modern workplace."
+link: https://play.google.com/store/books/details?id=WkHUEAAAQBAJ
+previewLink: http://books.google.es/books?id=WkHUEAAAQBAJ&pg=PT123&dq=Hiriko+oyamada,+The+Factory&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9781803510583
+isbn10: 1803510587
+blog: true
+parent: book I've read
+layout: book
+rating: 9
+read: 2024-03-12
+---
   
 Magic realism at its best.  Three workers, starting in 'the factory'. One focusses on shredding documents; one is looking into green roofs; and one is a proofreader. The factory is more a small town, and indeed one of the three -- the green roof specialist -- gets to live on the premises.  
   

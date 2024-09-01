@@ -1,11 +1,11 @@
----  
-blog: true  
-layout: page  
-date: 2024-05-25 22:17:21 +0200  
-title: book I've read  
-nav_order: 1  
-has_children: true  
----  
+---
+blog: true
+layout: page
+date: 2024-05-25 22:17:21 +0200
+title: book I've read
+nav_order: 1
+has_children: true
+---
   
 Below is an incomplete list of books I have read in the last few years. I made notes of those books to aid my memory; before, it happened a few times that I unwillingly picked up a book again and then, towards the end of the book, noticed faint familiarity in its contents.   
   

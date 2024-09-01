@@ -1,21 +1,21 @@
----  
-blog: true  
-title: Whereabouts  
-author: Lahiri, Jhumpa  
-publishDate: 2021  
-coverUrl: http://books.google.com/books/content?id=Kk32DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=Kk32DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-link: https://books.google.com/books/about/WHEREABOUTS.html?hl=&id=CV62zwEACAAJ  
-previewLink: http://books.google.com/books?id=CV62zwEACAAJ&dq=Jhumpa+Lahiri,+Whereabouts&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn10: 670095419  
-isbn13: 9780670095414  
-created: 2023-08-27T13:29:43  
-updated: 2023-10-21T21:17:21+02:00  
-parent: book I've read  
-layout: book  
-read: 2021-07  
-rating: 9  
----  
+---
+blog: true
+title: Whereabouts
+author: Lahiri, Jhumpa
+publishDate: 2021
+coverUrl: http://books.google.com/books/content?id=Kk32DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=Kk32DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+link: https://books.google.com/books/about/WHEREABOUTS.html?hl=&id=CV62zwEACAAJ
+previewLink: http://books.google.com/books?id=CV62zwEACAAJ&dq=Jhumpa+Lahiri,+Whereabouts&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn10: 670095419
+isbn13: 9780670095414
+created: 2023-08-27T13:29:43
+updated: 2023-10-21T21:17:21+02:00
+parent: book I've read
+layout: book
+read: 2021-07
+rating: 9
+---
   
 So, when one writes a book, isn't it easiest to write about one's own life and experiences, add some novelists' liberties, and make a credible story? Certainly for first books? That is how I would go at it.  
   

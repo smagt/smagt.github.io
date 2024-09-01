@@ -1,22 +1,22 @@
----  
-blog: true  
-title: Trust  
-author: Diaz, Hernan  
-publishDate: 2022-08-04  
-coverUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: Longlisted for the Booker Prize 2022 Can one person change the course of history? 'Genius' Lauren Groff A sweeping, breathtakingly ambitious novel about power, wealth and truth, told by four unique, interlocking voices and set against the backdrop of turbulent 1920s New York. The legendary Wall Street tycoon whose immense wealth gives him the power to do almost anything. The second-generation Italian immigrant tasked with recording his life story. The reclusive, aristocratic wife. And the writer who observes them from afar. In a city devoted to making money and making stories like no other, where wealth means power, who gets to tell the truth? And to rise to the top of a glittering, destructive world, what - and who - do you have to sacrifice?  
-link: https://books.google.com/books/about/Trust.html?hl=&id=IEi8zgEACAAJ  
-previewLink: http://books.google.com/books?id=IEi8zgEACAAJ&dq=diaz+trust&hl=&as_pt=BOOKS&cd=4&source=gbs_api  
-isbn10: 1529074495  
-isbn13: 9781529074499  
-created: 2023-09-01T18:37:40  
-updated: 2023-10-21T21:40:14  
-parent: book I've read  
-layout: book  
-read: 2023-08  
-rating: 8  
----  
+---
+blog: true
+title: Trust
+author: Diaz, Hernan
+publishDate: 2022-08-04
+coverUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: Longlisted for the Booker Prize 2022 Can one person change the course of history? 'Genius' Lauren Groff A sweeping, breathtakingly ambitious novel about power, wealth and truth, told by four unique, interlocking voices and set against the backdrop of turbulent 1920s New York. The legendary Wall Street tycoon whose immense wealth gives him the power to do almost anything. The second-generation Italian immigrant tasked with recording his life story. The reclusive, aristocratic wife. And the writer who observes them from afar. In a city devoted to making money and making stories like no other, where wealth means power, who gets to tell the truth? And to rise to the top of a glittering, destructive world, what - and who - do you have to sacrifice?
+link: https://books.google.com/books/about/Trust.html?hl=&id=IEi8zgEACAAJ
+previewLink: http://books.google.com/books?id=IEi8zgEACAAJ&dq=diaz+trust&hl=&as_pt=BOOKS&cd=4&source=gbs_api
+isbn10: 1529074495
+isbn13: 9781529074499
+created: 2023-09-01T18:37:40
+updated: 2023-10-21T21:40:14
+parent: book I've read
+layout: book
+read: 2023-08
+rating: 8
+---
   
 I read this book rather quickly, but enjoyed it to the end. The underlying story is quite simple: about a very successful stock broker, Andrew Bevel, who inherited a small fortune from his ancestors, and made that into a huge fortune by always taking the right choices. The book is also about his wife, Mildred Bevel, who is matched to Bevel by Mildred's mother, quickly evolves into philanthropic work, and dies quite young because of...  
   

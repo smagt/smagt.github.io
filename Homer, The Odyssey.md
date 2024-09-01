@@ -1,25 +1,25 @@
----  
-title: The Odyssey  
-author: Homer  
-authors: Homer; Wilson, Emily  
-publisher: W. W. Norton & Company  
-publishDate: 2017-11-07  
-totalPage: 676  
-coverUrl: http://books.google.com/books/content?id=PpJYDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=PpJYDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: A New York Times Notable Book of 2018 "Wilson’s language is fresh, unpretentious and lean…It is rare to find a translation that is at once so effortlessly easy to read and so rigorously considered." —Madeline Miller, author of Circe Composed at the rosy-fingered dawn of world literature almost three millennia ago, The Odyssey is a poem about violence and the aftermath of war; about wealth, poverty and power; about marriage and family; about travelers, hospitality, and the yearning for home. This fresh, authoritative translation captures the beauty of this ancient poem as well as the drama of its narrative. Its characters are unforgettable, none more so than the “complicated” hero himself, a man of many disguises, many tricks, and many moods, who emerges in this version as a more fully rounded human being than ever before. Written in iambic pentameter verse and a vivid, contemporary idiom, Emily Wilson’s Odyssey sings with a voice that echoes Homer’s music; matching the number of lines in the Greek original, the poem sails along at Homer’s swift, smooth pace. A fascinating, informative introduction explores the Bronze Age milieu that produced the epic, the poem’s major themes, the controversies about its origins, and the unparalleled scope of its impact and influence. Maps drawn especially for this volume, a pronunciation glossary, and extensive notes and summaries of each book make this is an Odyssey that will be treasured by a new generation of readers.  
-link: https://play.google.com/store/books/details?id=PpJYDgAAQBAJ  
-previewLink: http://books.google.com/books?id=PpJYDgAAQBAJ&printsec=frontcover&dq=odyssey+emily+wilson&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9780393634563  
-isbn10: 393634566  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2023-11  
-rating: 10  
-created: 2024-06-04T11:47:57  
-updated: 2024-06-04T11:52:24  
----  
+---
+title: The Odyssey
+author: Homer
+authors: Homer; Wilson, Emily
+publisher: W. W. Norton & Company
+publishDate: 2017-11-07
+totalPage: 676
+coverUrl: http://books.google.com/books/content?id=PpJYDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=PpJYDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: A New York Times Notable Book of 2018 "Wilson’s language is fresh, unpretentious and lean…It is rare to find a translation that is at once so effortlessly easy to read and so rigorously considered." —Madeline Miller, author of Circe Composed at the rosy-fingered dawn of world literature almost three millennia ago, The Odyssey is a poem about violence and the aftermath of war; about wealth, poverty and power; about marriage and family; about travelers, hospitality, and the yearning for home. This fresh, authoritative translation captures the beauty of this ancient poem as well as the drama of its narrative. Its characters are unforgettable, none more so than the “complicated” hero himself, a man of many disguises, many tricks, and many moods, who emerges in this version as a more fully rounded human being than ever before. Written in iambic pentameter verse and a vivid, contemporary idiom, Emily Wilson’s Odyssey sings with a voice that echoes Homer’s music; matching the number of lines in the Greek original, the poem sails along at Homer’s swift, smooth pace. A fascinating, informative introduction explores the Bronze Age milieu that produced the epic, the poem’s major themes, the controversies about its origins, and the unparalleled scope of its impact and influence. Maps drawn especially for this volume, a pronunciation glossary, and extensive notes and summaries of each book make this is an Odyssey that will be treasured by a new generation of readers.
+link: https://play.google.com/store/books/details?id=PpJYDgAAQBAJ
+previewLink: http://books.google.com/books?id=PpJYDgAAQBAJ&printsec=frontcover&dq=odyssey+emily+wilson&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780393634563
+isbn10: 393634566
+blog: true
+parent: book I've read
+layout: book
+read: 2023-11
+rating: 10
+created: 2024-06-04T11:47:57
+updated: 2024-06-04T11:52:24
+---
   
 A new translation of the Odyssey, by Emily Wilson, published in 2017.  This is the first time I am reading the 'original' book; of course, the story I know, and I've read some versions around this epic.  
   

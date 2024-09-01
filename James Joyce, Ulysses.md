@@ -1,20 +1,20 @@
----  
-blog: true  
-title: Ulysses  
-author: Joyce, James  
-totalPage: 987  
-publishDate: 1921  
-link: https://books.google.com/books/about/Ulysses.html?hl=&id=lBtrtQAACAAJ  
-previewLink: http://books.google.ch/books?id=lBtrtQAACAAJ&dq=James+Joyce,+Ulysses&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn10: 3518390511  
-isbn13: 9783518390511  
-created: 2023-07-31T21:19  
-updated: 2023-10-21T21:57:54+02:00  
-parent: book I've read  
-layout: book  
-read: 2022-03  
-rating: 10  
----  
+---
+blog: true
+title: Ulysses
+author: Joyce, James
+totalPage: 987
+publishDate: 1921
+link: https://books.google.com/books/about/Ulysses.html?hl=&id=lBtrtQAACAAJ
+previewLink: http://books.google.ch/books?id=lBtrtQAACAAJ&dq=James+Joyce,+Ulysses&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn10: 3518390511
+isbn13: 9783518390511
+created: 2023-07-31T21:19
+updated: 2023-10-21T21:57:54+02:00
+parent: book I've read
+layout: book
+read: 2022-03
+rating: 10
+---
   
 My major feat: I finished "_Ulysses_" by James Joyce. I had to, since it's 100 years ago the book was first published (in its full form). Having tried it twice before, and giving up after having reached 1/3, I was aware that some of it is enjoyable. (And a lot of it is not.)    
   

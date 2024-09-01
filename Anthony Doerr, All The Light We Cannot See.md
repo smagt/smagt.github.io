@@ -1,23 +1,23 @@
----  
-title: All the Light We Cannot See  
-author: Doerr, Anthony  
-totalPage: 544  
-publishDate: 2015-04-23  
-coverUrl: http://books.google.com/books/content?id=A2ZErgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=A2ZErgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-description: Marie-Laure has been blind since the age of six. Her father builds a perfect miniature of their Paris neighbourhood so she can memorize it by touch and navigate her way home. But when the Nazis invade, father and daughter flee with a dangerous secret. Werner is a German orphan, destined to labour in the same mine that claimed his father's life, until he discovers a knack for engineering. His talent wins him a place at a brutal military academy, but his way out of obscurity is built on suffering. At the same time, far away in a walled city by the sea, an old man discovers new worlds without ever setting foot outside his home. But all around him, impending danger closes in. Doerr's combination of soaring imagination and meticulous observation is electric.  
-link: https://books.google.com/books/about/All_the_Light_We_Cannot_See.html?hl=&id=A2ZErgEACAAJ  
-previewLink: http://books.google.com/books?id=A2ZErgEACAAJ&dq=Anthony+Doerr,+All+The+Light+We+Cannot+See&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn10: 8138303  
-isbn13: 9780008138301  
-created: 2023-07-30T21:00:00  
-updated: 2024-07-07T16:54:10  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2023-08  
-rating: 5  
----  
+---
+title: All the Light We Cannot See
+author: Doerr, Anthony
+totalPage: 544
+publishDate: 2015-04-23
+coverUrl: http://books.google.com/books/content?id=A2ZErgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=A2ZErgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
+description: Marie-Laure has been blind since the age of six. Her father builds a perfect miniature of their Paris neighbourhood so she can memorize it by touch and navigate her way home. But when the Nazis invade, father and daughter flee with a dangerous secret. Werner is a German orphan, destined to labour in the same mine that claimed his father's life, until he discovers a knack for engineering. His talent wins him a place at a brutal military academy, but his way out of obscurity is built on suffering. At the same time, far away in a walled city by the sea, an old man discovers new worlds without ever setting foot outside his home. But all around him, impending danger closes in. Doerr's combination of soaring imagination and meticulous observation is electric.
+link: https://books.google.com/books/about/All_the_Light_We_Cannot_See.html?hl=&id=A2ZErgEACAAJ
+previewLink: http://books.google.com/books?id=A2ZErgEACAAJ&dq=Anthony+Doerr,+All+The+Light+We+Cannot+See&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn10: 8138303
+isbn13: 9780008138301
+created: 2023-07-30T21:00:00
+updated: 2024-07-07T16:54:10
+blog: true
+parent: book I've read
+layout: book
+read: 2023-08
+rating: 5
+---
   
 This book was on my list for a while, and I ignored it until recently. When I then wanted to buy it, I noticed that it was not only a crazy bestseller, but also (to be) made into a Netflix series or movie.  
   

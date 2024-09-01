@@ -1,19 +1,19 @@
----  
-blog: true  
-title: Mijn lieve gunsteling  
-author: Rijneveld, Marieke Lucas  
-totalPage: 238  
-publishDate: 2020  
-description: ‘Mijn lieve gunsteling’ is een hartverscheurend verhaal over verlies, verboden liefde, eenzaamheid en identiteit. Rijneveld won eerder met ‘De avond is ongemak’ de International Booker Prize. ‘Mijn lieve gunsteling’ is de nieuwe roman van Lucas Rijneveld. Het verhaal van de veearts en zijn ‘uitverkorene’, de dochter van een boer. Tijdens een hete zomer zoeken ze toenadering tot elkaar omdat ze willen ontsnappen aan de grilligheid en de leemten van het plattelandsleven en omdat ze willen ontkomen aan wat er in hen gezaaid is. Gedurende die zomer ontwikkelen ze een obsessieve fascinatie voor elkaar. De beklemmende bekentenis ‘Mijn lieve gunsteling’ is een hartverscheurend en tegelijk angstaanjagend verhaal over verlies, verboden liefde, eenzaamheid en identiteit.  
-link: https://books.google.com/books/about/Mijn_lieve_gunsteling.html?hl=&id=lCdbzwEACAAJ  
-previewLink: http://books.google.com/books?id=lCdbzwEACAAJ&dq=mijn+lieve+gunsteling&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
-isbn10: 9025472621  
-isbn13: 9789025472627  
-parent: book I've read  
-layout: book  
-rating: 8  
-read: 2024-02  
----  
+---
+blog: true
+title: Mijn lieve gunsteling
+author: Rijneveld, Marieke Lucas
+totalPage: 238
+publishDate: 2020
+description: ‘Mijn lieve gunsteling’ is een hartverscheurend verhaal over verlies, verboden liefde, eenzaamheid en identiteit. Rijneveld won eerder met ‘De avond is ongemak’ de International Booker Prize. ‘Mijn lieve gunsteling’ is de nieuwe roman van Lucas Rijneveld. Het verhaal van de veearts en zijn ‘uitverkorene’, de dochter van een boer. Tijdens een hete zomer zoeken ze toenadering tot elkaar omdat ze willen ontsnappen aan de grilligheid en de leemten van het plattelandsleven en omdat ze willen ontkomen aan wat er in hen gezaaid is. Gedurende die zomer ontwikkelen ze een obsessieve fascinatie voor elkaar. De beklemmende bekentenis ‘Mijn lieve gunsteling’ is een hartverscheurend en tegelijk angstaanjagend verhaal over verlies, verboden liefde, eenzaamheid en identiteit.
+link: https://books.google.com/books/about/Mijn_lieve_gunsteling.html?hl=&id=lCdbzwEACAAJ
+previewLink: http://books.google.com/books?id=lCdbzwEACAAJ&dq=mijn+lieve+gunsteling&hl=&as_pt=BOOKS&cd=2&source=gbs_api
+isbn10: 9025472621
+isbn13: 9789025472627
+parent: book I've read
+layout: book
+rating: 8
+read: 2024-02
+---
   
 Lucas Rijneveld (then known as Marieke Rijneveld) wrote one of the most me-influential books, "De avond is ongemak", about a girl trying to cope with the extreme protestant craziness after her brother dies in an accident.  
   

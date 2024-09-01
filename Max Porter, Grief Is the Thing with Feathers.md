@@ -1,22 +1,22 @@
----  
-title: Grief Is the Thing with Feathers  
-author: Porter, Max  
-publisher: Faber & Faber  
-totalPage: 122  
-publishDate: 2015-09-15  
-coverUrl: http://books.google.com/books/content?id=C9mCCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=C9mCCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: Pre-order Shy, the new novel from Max Porter, now **A SUNDAY TIMES TOP 100 NOVEL OF THE TWENTY-FIRST CENTURYWinner of the 2016 International Dylan Thomas Prize and the Sunday Times/Peter, Fraser + Dunlop Young Writer of the Year award and shortlisted for the Guardian First Book Award and the Goldsmiths Prize.'Amazing and unforgettable.' THE TIMES 'Dazzlyingly good.' ROBERT MACFARLANE'Unlike anything I've read before.' GUARDIANIn a London flat, two young boys face the unbearable sadness of their mother's sudden death. Their father, a Ted Hughes scholar and scruffy romantic, imagines a future of well-meaning visitors and emptiness. In this moment of despair they are visited by Crow - antagonist, trickster, healer, babysitter. This sentimental bird is drawn to the grieving family and threatens to stay until they no longer need him. This extraordinary debut, full of unexpected humour and emotional truth, marks the arrival of a thrilling and significant new talent.  
-link: https://play.google.com/store/books/details?id=C9mCCgAAQBAJ  
-previewLink: http://books.google.nl/books?id=C9mCCgAAQBAJ&printsec=frontcover&dq=max+porter,+grief+is+the+thing+with+feathers&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
-isbn13: 9780571323777  
-isbn10: 571323774  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2023-10  
-rating: 8  
----  
+---
+title: Grief Is the Thing with Feathers
+author: Porter, Max
+publisher: Faber & Faber
+totalPage: 122
+publishDate: 2015-09-15
+coverUrl: http://books.google.com/books/content?id=C9mCCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=C9mCCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: Pre-order Shy, the new novel from Max Porter, now **A SUNDAY TIMES TOP 100 NOVEL OF THE TWENTY-FIRST CENTURYWinner of the 2016 International Dylan Thomas Prize and the Sunday Times/Peter, Fraser + Dunlop Young Writer of the Year award and shortlisted for the Guardian First Book Award and the Goldsmiths Prize.'Amazing and unforgettable.' THE TIMES 'Dazzlyingly good.' ROBERT MACFARLANE'Unlike anything I've read before.' GUARDIANIn a London flat, two young boys face the unbearable sadness of their mother's sudden death. Their father, a Ted Hughes scholar and scruffy romantic, imagines a future of well-meaning visitors and emptiness. In this moment of despair they are visited by Crow - antagonist, trickster, healer, babysitter. This sentimental bird is drawn to the grieving family and threatens to stay until they no longer need him. This extraordinary debut, full of unexpected humour and emotional truth, marks the arrival of a thrilling and significant new talent.
+link: https://play.google.com/store/books/details?id=C9mCCgAAQBAJ
+previewLink: http://books.google.nl/books?id=C9mCCgAAQBAJ&printsec=frontcover&dq=max+porter,+grief+is+the+thing+with+feathers&hl=&as_pt=BOOKS&cd=3&source=gbs_api
+isbn13: 9780571323777
+isbn10: 571323774
+blog: true
+parent: book I've read
+layout: book
+read: 2023-10
+rating: 8
+---
   
 "Grief Is the Thing with Feathers" by Max Porter is a novella that tells the story of a man and his two young sons who are grieving the sudden loss of their wife and mother. The narrative switches between the view of the father, the boys, and a crow that arrives to help the family cope with their grief.  It's not easy to write about love and loss, and this book's alternative approach does a lot to solve the knot.  As in, the power of art and literature to help us through hard times.  
   

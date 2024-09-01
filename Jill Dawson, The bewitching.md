@@ -1,23 +1,23 @@
----  
-blog: true  
-title: The Bewitching  
-author: Dawson, Jill  
-totalPage: 336  
-publishDate: 2022-07-07  
-coverUrl: http://books.google.com/books/content?id=qD1JEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=qD1JEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: "'OUR MOST CONSUMMATE HISTORICAL NOVELIST' Philip Hoare 'Brilliant' Paula Hawkins 'Breathtaking' Sadie Jones 'Devastating' The Times 'Terrific' Mail on Sunday 'Chilling' Daily Express A dazzling, shocking novel that speaks to our times, drawing on the 16th-century case of the witches of Warboys. Alice Samuel might be old and sharp-tongued, but she's no fool. Visiting her new neighbours in her Fenland village, she finds Squire Throckmorton's family troubled and, she suspects, not as God-fearing as they seem. Yet when one of the daughters accuses her of witchcraft, Alice has no idea of the danger she is in or how quickly matters will escalate. The Throckmortons' maid Martha, uneasy herself about strange goings-on in the household, is reluctant to believe that Alice is a witch. But as the entire village gets swept up in the frenzied persecution of one of their own, she struggles to find a voice . . . PRAISE FOR JILL DAWSON 'A skilful storyteller' Hilary Mantel 'A magnificent writer' Cathy Rentzenbrink 'A spark fires throughout Dawson's work' Guardian 'So gifted and assured' Daily Mail"  
-link: https://play.google.com/store/books/details?id=qD1JEAAAQBAJ  
-previewLink: http://books.google.com/books?id=qD1JEAAAQBAJ&printsec=frontcover&dq=Jill+Dawson,+The+bewitching&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9781473654648  
-isbn10: 1473654645  
-created: 2023-07-31T21:39  
-updated: 2023-10-21T21:20:13+02:00  
-parent: book I've read  
-layout: book  
-read: 2023-03  
-rating: 7  
----  
+---
+blog: true
+title: The Bewitching
+author: Dawson, Jill
+totalPage: 336
+publishDate: 2022-07-07
+coverUrl: http://books.google.com/books/content?id=qD1JEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=qD1JEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: "'OUR MOST CONSUMMATE HISTORICAL NOVELIST' Philip Hoare 'Brilliant' Paula Hawkins 'Breathtaking' Sadie Jones 'Devastating' The Times 'Terrific' Mail on Sunday 'Chilling' Daily Express A dazzling, shocking novel that speaks to our times, drawing on the 16th-century case of the witches of Warboys. Alice Samuel might be old and sharp-tongued, but she's no fool. Visiting her new neighbours in her Fenland village, she finds Squire Throckmorton's family troubled and, she suspects, not as God-fearing as they seem. Yet when one of the daughters accuses her of witchcraft, Alice has no idea of the danger she is in or how quickly matters will escalate. The Throckmortons' maid Martha, uneasy herself about strange goings-on in the household, is reluctant to believe that Alice is a witch. But as the entire village gets swept up in the frenzied persecution of one of their own, she struggles to find a voice . . . PRAISE FOR JILL DAWSON 'A skilful storyteller' Hilary Mantel 'A magnificent writer' Cathy Rentzenbrink 'A spark fires throughout Dawson's work' Guardian 'So gifted and assured' Daily Mail"
+link: https://play.google.com/store/books/details?id=qD1JEAAAQBAJ
+previewLink: http://books.google.com/books?id=qD1JEAAAQBAJ&printsec=frontcover&dq=Jill+Dawson,+The+bewitching&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9781473654648
+isbn10: 1473654645
+created: 2023-07-31T21:39
+updated: 2023-10-21T21:20:13+02:00
+parent: book I've read
+layout: book
+read: 2023-03
+rating: 7
+---
   
 One of those rare books which I liked once I finished it. The bewitching is a historically rich account of the famous Witches of Warboys, on which you will find many online resources, including a wiki page failing lots of verification. And thus one suspects this version of the story to be more truthful.  
   

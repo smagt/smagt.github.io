@@ -1,23 +1,23 @@
----  
-title: Cursed Bread  
-author: Mackintosh, Sophie  
-publisher: National Geographic Books  
-publishDate: 2023-04-04  
-coverUrl: http://books.google.com/books/content?id=R2LXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=R2LXzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-description: "From the Booker Prize–nominated author of The Water Cure comes an elegant and hypnotic new novel of obsession that centers on the real unsolved mystery of the 1951 mass poisoning of a French village. Still reeling in the aftermath of the deadliest war the world had ever seen, the small town of Pont-Saint-Esprit collectively lost its mind. Some historians believe the mysterious illness and violent hallucinations were caused by spoiled bread; others claim it was the result of covert government testing on the local population. In that town lived a woman named Elodie. She was the baker’s wife: a plain, unremarkable person who yearned to transcend her dull existence. So when a charismatic new couple arrived in town, the forceful ambassador and his sharp-toothed wife, Violet, Elodie was quickly drawn into their orbit. Thus began a dangerous game of cat and mouse--but who was the predator and on whom did they prey? Audacious and mesmerizing, Cursed Bread is a fevered confession, an entry into memory’s hall of mirrors, and an erotic fable of transformation. Sophie Mackintosh spins a darkly gleaming tale of a town gripped by hysteria, envy like poison in the blood, and desire that burns and consumes."  
-link: https://books.google.com/books/about/Cursed_Bread.html?hl=&id=GEKNEAAAQBAJ  
-previewLink: http://books.google.com/books?id=GEKNEAAAQBAJ&dq=Sophie+Mackintosh,+Cursed+Bread&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9780385548304  
-isbn10: 385548303  
-created: 2023-08-27T13:29:43  
-updated: 2023-10-23T09:06:35+02:00  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2023-05  
-rating: 8  
----  
+---
+title: Cursed Bread
+author: Mackintosh, Sophie
+publisher: National Geographic Books
+publishDate: 2023-04-04
+coverUrl: http://books.google.com/books/content?id=R2LXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=R2LXzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
+description: "From the Booker Prize–nominated author of The Water Cure comes an elegant and hypnotic new novel of obsession that centers on the real unsolved mystery of the 1951 mass poisoning of a French village. Still reeling in the aftermath of the deadliest war the world had ever seen, the small town of Pont-Saint-Esprit collectively lost its mind. Some historians believe the mysterious illness and violent hallucinations were caused by spoiled bread; others claim it was the result of covert government testing on the local population. In that town lived a woman named Elodie. She was the baker’s wife: a plain, unremarkable person who yearned to transcend her dull existence. So when a charismatic new couple arrived in town, the forceful ambassador and his sharp-toothed wife, Violet, Elodie was quickly drawn into their orbit. Thus began a dangerous game of cat and mouse--but who was the predator and on whom did they prey? Audacious and mesmerizing, Cursed Bread is a fevered confession, an entry into memory’s hall of mirrors, and an erotic fable of transformation. Sophie Mackintosh spins a darkly gleaming tale of a town gripped by hysteria, envy like poison in the blood, and desire that burns and consumes."
+link: https://books.google.com/books/about/Cursed_Bread.html?hl=&id=GEKNEAAAQBAJ
+previewLink: http://books.google.com/books?id=GEKNEAAAQBAJ&dq=Sophie+Mackintosh,+Cursed+Bread&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780385548304
+isbn10: 385548303
+created: 2023-08-27T13:29:43
+updated: 2023-10-23T09:06:35+02:00
+blog: true
+parent: book I've read
+layout: book
+read: 2023-05
+rating: 8
+---
   
 A book longlisted for the Women's Prize for fiction from an author who was nominated for the Booker prize.    
   

@@ -1,28 +1,28 @@
----  
-title: A Woman of Pleasure  
-subtitle: A Novel  
-author: Murata, Kiyoko  
-authors: Kiyoko Murata, Juliet Winters Carpenter  
-category: Fiction  
-categories: Fiction  
-publisher: Catapult  
-publishDate: 2024-02-27  
-totalPage: 321  
-coverUrl: http://books.google.com/books/content?id=4mnKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=4mnKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: An unforgettable novel of fearless women banding together to pursue the lives they want, inspired by the real-life historic Japanese courtesan strike In 1903, a fifteen-year-old girl named Aoi Ichi is sold to the most exclusive brothel in Kumamoto, Japan. Despite her modest beginnings in a southern fishing village, she becomes the protégée of an oiran, the highest-ranking courtesan at the brothel. Through the teachings of her oiran, Shinonome, Ichi begins to understand the intertwined power of sex and money. And in her mandatory school lessons, her writing instructor, Tetsuko, encourages Ichi and the others to think clearly and express themselves. By banding together, the women organize a strike and walk away from the brothel and into the possibility of new lives. Based on real-life events in Meiji-era Japan, award-winning and critically acclaimed veteran writer Kiyoko Murata re-creates in stunning detail the brutal yet vibrant lives of women in the red-light district at the turn of the twentieth century—the bond they share, the survival skills they pass down, and the power of owning one's language.  
-link: https://books.google.com/books/about/A_Woman_of_Pleasure.html?hl=&id=4mnKEAAAQBAJ  
-previewLink: http://books.google.com/books?id=4mnKEAAAQBAJ&printsec=frontcover&dq=a+woman+of+pleasure&hl=&as_pt=BOOKS&cd=6&source=gbs_api  
-isbn13: 9781640095793  
-isbn10: 1640095799  
-blog: true  
-read: 2024-07-07  
-parent: book I've read  
-layout: book  
-rating: 9  
-created: 2024-07-08T08:28:37  
-updated: 2024-07-08T21:38:24  
----  
+---
+title: A Woman of Pleasure
+subtitle: A Novel
+author: Murata, Kiyoko
+authors: Kiyoko Murata, Juliet Winters Carpenter
+category: Fiction
+categories: Fiction
+publisher: Catapult
+publishDate: 2024-02-27
+totalPage: 321
+coverUrl: http://books.google.com/books/content?id=4mnKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=4mnKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: An unforgettable novel of fearless women banding together to pursue the lives they want, inspired by the real-life historic Japanese courtesan strike In 1903, a fifteen-year-old girl named Aoi Ichi is sold to the most exclusive brothel in Kumamoto, Japan. Despite her modest beginnings in a southern fishing village, she becomes the protégée of an oiran, the highest-ranking courtesan at the brothel. Through the teachings of her oiran, Shinonome, Ichi begins to understand the intertwined power of sex and money. And in her mandatory school lessons, her writing instructor, Tetsuko, encourages Ichi and the others to think clearly and express themselves. By banding together, the women organize a strike and walk away from the brothel and into the possibility of new lives. Based on real-life events in Meiji-era Japan, award-winning and critically acclaimed veteran writer Kiyoko Murata re-creates in stunning detail the brutal yet vibrant lives of women in the red-light district at the turn of the twentieth century—the bond they share, the survival skills they pass down, and the power of owning one's language.
+link: https://books.google.com/books/about/A_Woman_of_Pleasure.html?hl=&id=4mnKEAAAQBAJ
+previewLink: http://books.google.com/books?id=4mnKEAAAQBAJ&printsec=frontcover&dq=a+woman+of+pleasure&hl=&as_pt=BOOKS&cd=6&source=gbs_api
+isbn13: 9781640095793
+isbn10: 1640095799
+blog: true
+read: 2024-07-07
+parent: book I've read
+layout: book
+rating: 9
+created: 2024-07-08T08:28:37
+updated: 2024-07-08T21:38:24
+---
   
 In Japan in the beginning of the 20th century, it was not uncommon for young girls to be sold to brothels by their impoverished parents. The girl could then, in the span of approximately 10 years if she's lucky, pay off that debt while, of course, having to pay for her food, clothes, etc., and give a part of her proceeds to the brothel.  
   
