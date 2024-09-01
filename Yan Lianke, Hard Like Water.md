@@ -1,23 +1,23 @@
----  
-blog: true  
-title: Hard Like Water  
-author: Lianke, Yan  
-totalPage: 432  
-publishDate: 2022-06-21  
-coverUrl: http://books.google.com/books/content?id=bqWQzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=bqWQzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-description: From a visionary, world-class writer, dubbed "China's most controversial novelist" by the New Yorker, a gripping and biting story of ambition and betrayal, following two young communist revolutionaries whose forbidden love sets them apart from their traditionally minded village, as the Cultural Revolution sweeps the nation  
-link: https://books.google.com/books/about/Hard_Like_Water.html?hl=&id=bqWQzgEACAAJ  
-previewLink: http://books.google.com/books?id=bqWQzgEACAAJ&dq=Yan+Lianke,+Hard+Like+Water&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn10: 802158137  
-isbn13: 9780802158130  
-created: 2023-07-31T21:00:00  
-updated: 2024-08-11T21:36:16  
-parent: book I've read  
-layout: book  
-read: 2021-12  
-rating: 8  
----  
+---
+blog: true
+title: Hard Like Water
+author: Lianke, Yan
+totalPage: 432
+publishDate: 2022-06-21
+coverUrl: http://books.google.com/books/content?id=bqWQzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=bqWQzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
+description: From a visionary, world-class writer, dubbed "China's most controversial novelist" by the New Yorker, a gripping and biting story of ambition and betrayal, following two young communist revolutionaries whose forbidden love sets them apart from their traditionally minded village, as the Cultural Revolution sweeps the nation
+link: https://books.google.com/books/about/Hard_Like_Water.html?hl=&id=bqWQzgEACAAJ
+previewLink: http://books.google.com/books?id=bqWQzgEACAAJ&dq=Yan+Lianke,+Hard+Like+Water&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn10: 802158137
+isbn13: 9780802158130
+created: 2023-07-31T21:00:00
+updated: 2024-08-11T21:36:16
+parent: book I've read
+layout: book
+read: 2021-12
+rating: 8
+---
   
 After some heavier reads, I needed something lighter to cheer me up.  So I chose '_Hard like water_' by Yan Lianke.  "This talent cannot be ignored" says the New York Times.  It's a 2001 book recently translated from Chinese, and it's dark while hilarious.  No, it is not light at all, of course, since it describes the revolution in the late 1960s. The main character, Gao Aijun, who is in his late 20s, and his erotic liaison, Xia Hongmei.  Both are married (to other people).  The two play revolution, while having sex whenever and wherever they can; adultery is not looked upon lightly then and there, since it's bourgeois.  It is hilarious, since the revolution and eroticism (no worries or false hopes, it's not pornographic at all; they call it, "doing that thing") are intertwined and related.  They are in the game for the revolution?  Or for the sex?  It's not clarified, and it's not important.    
   
