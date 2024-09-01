@@ -1,18 +1,18 @@
----  
-blog: true  
-title: My Evil Mother  
-author: Atwood, Margaret  
-publishDate: 2019  
-totalPage: 32  
-link: https://books.google.com/books/about/My_Evil_Mother.html?hl=&id=rmQkzwEACAAJ  
-previewLink: http://books.google.com/books?id=rmQkzwEACAAJ&dq=Margaret+Atwood,+My+evil+mother&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-created: 2023-07-30T08:00  
-updated: 2023-12-24T21:13:54+01:00  
-parent: book I've read  
-layout: book  
-read: 2023-06  
-rating: 9  
----  
+---
+blog: true
+title: My Evil Mother
+author: Atwood, Margaret
+publishDate: 2019
+totalPage: 32
+link: https://books.google.com/books/about/My_Evil_Mother.html?hl=&id=rmQkzwEACAAJ
+previewLink: http://books.google.com/books?id=rmQkzwEACAAJ&dq=Margaret+Atwood,+My+evil+mother&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+created: 2023-07-30T08:00
+updated: 2023-12-24T21:13:54+01:00
+parent: book I've read
+layout: book
+read: 2023-06
+rating: 9
+---
   
 Atwood has the style that suits me: down-to-earth, simple, straightforward.  And the same in this short novel.  Story, really, with only about 30 pages.  Apparently and aptly, the book was written by Atwood shortly after her mother died.  It describes the mother of the main character, a nameless girl growing up with her mum in the 1950s in suburban Canada.  It is not the easiest of times.  
   
