@@ -1,24 +1,24 @@
----  
-title: Fifty Shades of Grey  
-author: James, E. L.  
-category: Fiction  
-categories: Fiction  
-publisher: Vintage  
-publishDate: 2015  
-totalPage: 514  
-coverUrl: http://books.google.com/books/content?id=ZHlezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=ZHlezgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-description: When Anastasia Steele, a young literature student, interviews wealthy young entrepreneur Christian Grey for her campus magazine, their initial meeting introduces Anastasia to an exciting new world that will change them both forever. Reissue. Movie tie-in.  
-link: https://books.google.com/books/about/Fifty_Shades_of_Grey.html?hl=&id=ZHlezgEACAAJ  
-previewLink: http://books.google.co.uk/books?id=ZHlezgEACAAJ&dq=fifty+shades+of+grey&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn10: 804172072  
-isbn13: 9780804172073  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2024-06  
-rating: 6  
----  
+---
+title: Fifty Shades of Grey
+author: James, E. L.
+category: Fiction
+categories: Fiction
+publisher: Vintage
+publishDate: 2015
+totalPage: 514
+coverUrl: http://books.google.com/books/content?id=ZHlezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=ZHlezgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
+description: When Anastasia Steele, a young literature student, interviews wealthy young entrepreneur Christian Grey for her campus magazine, their initial meeting introduces Anastasia to an exciting new world that will change them both forever. Reissue. Movie tie-in.
+link: https://books.google.com/books/about/Fifty_Shades_of_Grey.html?hl=&id=ZHlezgEACAAJ
+previewLink: http://books.google.co.uk/books?id=ZHlezgEACAAJ&dq=fifty+shades+of+grey&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn10: 804172072
+isbn13: 9780804172073
+blog: true
+parent: book I've read
+layout: book
+read: 2024-06
+rating: 6
+---
   
 Did I?  Really?  
   
