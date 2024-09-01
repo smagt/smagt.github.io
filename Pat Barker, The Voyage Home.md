@@ -28,19 +28,19 @@ How to figure out if an unborn is male?  Don't take a chance.
   
 Agamemnon comes home to his first wife, Clytemnestra, whose oldest daughter he sacrificed to get good winds to sail to Troy, ten years earlier.  She would have been Cassandra's age now.  
   
-Her daughter?  Yes, his, too.  Reason enough for Clytemnestra to desire his death.  And in Cassandra's visions, exactly that will happen, but her own will happen just as well.    
+_Her_ daughter?  Well yes, his, too.  Reason enough for Clytemnestra to want him dead.  And in Cassandra's visions, exactly that will happen, including her own.  Clymnestra has had ten years to plan it all.  In mythology, either Clymnestra or (more often) her lover Aeschylus kill Agamemnon.  Barker makes a definitive, credible choice as to this issue.  
   
-The whole story is told my Cassandra's maid, Ritsa, whom we know from the previous books, and where she played a secondary role.  Ritsa had also learned to be a healer in Troy, something that comes in handy in many a situation.  
+The whole, riveting story is told my Cassandra's maid, Ritsa, whom we know from the previous books, in which she played a secondary role.  Ritsa had also learned to be a healer in Troy, something that comes in handy in many a situation.  
   
-The story evolves, culminates, and ends.  
+The story evolves, culminates, and ends.  A page turner from the beginning to the end.  
   
-Again, I love this book.  Barker's trilogy is often criticised for using language and words that is not appropriate for a period of 4000 years ago.  For me, that's part of the books' magic.  Of course, people have horses, ride carriages, and sail.  It's an old story.  But they are still people, have sex, kill, love, eat, bathe, and putting that in a language that is common to us extends rather than limits, in my opinion.  
+I love this book.  Barker's trilogy is often criticised for using language and words that is not appropriate for a period of 4000 years ago.  For me, that's part of the books' magic.  Of course, people have horses, ride carriages, and sail.  It's an old story.  But they are still people, have sex, kill, love, eat, bathe, and putting that in a language that is common to us extends rather than limits, in my opinion.  
   
-Like Ritsa thinking,  
+Like Cassandra saying,  
   
 _‘What sort of life? Just thinking about it makes me feel sick – his brat sucking my tits like a bloody leech? No, thanks. You know when your friend Briseis came to see me? Do you remember? Well, I looked at her belly and I thought, That’s Achilles’ child in there. He murdered her brothers, he murdered her husband – and there she is, carrying his baby.’_  
   
-And Cassandra saying,   
+as well as  
   
 _‘Lord Agamemnon will have a swift and safe voyage home.’ She was speaking in a Daddy’s-little-girl voice, the kind that some men find mysteriously attractive and makes every woman within earshot want to slap you. ‘The gods require it.’_  
   
@@ -48,6 +48,6 @@ Ritsa observing Greeks going to the market is possibly as authentic then as it w
   
 _They were on their way to choose a slave; apparently, some of the Trojan women were being sold off cheap. Or free, for tenant farmers. ‘Mind,’ the woman was saying, ‘I don’t want a fancy piece with big tits, I want a good strong girl who’s not afraid of a bit of hard work.’ Her husband, who was quite a bit older than her, with a slack mouth and receding chin, kept saying, ‘Yeah, yeah, right.’ Meaning: Shurrup, woman, for god’s sake, I know what I’m doing._  
   
-Great storytelling by Barker.  I cannot imagine a fourth book following these three; the story feels complete now.  Even though, of course, the coming home of Odysseus was not told, or any of the other 'heroes' of the Trojan wars.  Having given the other two books a rating of 10 out of 10, this one goes down to 9, and I think it's just because of me.  
+Great storytelling by Barker.  I cannot imagine a fourth book following these three; the story feels complete now.  Even though, of course, the coming home of Odysseus was not told, or any of the other 'heroes' of the Trojan wars.  Room for endless sequels, but of course, we are not talking movie business.  Also, having given the other two books a rating of 10 out of 10, this one goes down to 9, and I think it's just because of me.  
   
-Beautiful.  Read it.
+Anyway: Beautiful.  Read it.
