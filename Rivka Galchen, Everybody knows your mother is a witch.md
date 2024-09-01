@@ -1,24 +1,24 @@
----  
-blog: true  
-title: Everyone Knows Your Mother Is a Witch  
-author: Galchen, Rivka  
-publisher: Farrar, Straus and Giroux  
-totalPage: 288  
-publishDate: 2021-06-08  
-coverUrl: http://books.google.com/books/content?id=n1L2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=n1L2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: Drawing on real historical documents but infused with the intensity of imagination, sly humor, and intellectual fire for which award-winning author Rivka Galchen’s writing is known, Everyone Knows Your Mother Is a Witch is a tale for our time—the story of how a community becomes implicated in collective aggression and hysterical fear. The year is 1619, in the German duchy of Württemberg. Plague is spreading. The Thirty Years War has begun, and fear and suspicion are in the air throughout the Holy Roman Empire. In the small town of Leonberg, Katherina Kepler is accused of being a witch. An illiterate widow, Katherina is known by her neighbors for her herbal remedies and the success of her children, including her eldest, Johannes, who is the Imperial Mathematician and renowned author of the laws of planetary motion. It’s enough to make anyone jealous, and Katherina has done herself no favors by being out and about and in everyone’s business. So when the deranged and insipid Ursula Reinbold (or as Katherina calls her, the Werewolf) accuses Katherina of offering her a bitter, witchy drink that has made her ill, Katherina is in trouble. Her scientist son must turn his attention from the music of the spheres to the job of defending his mother. Facing the threat of financial ruin, torture, and even execution, Katherina tells her side of the story to her friend and next-door neighbor Simon, a reclusive widower imperiled by his own secrets. Provocative and entertaining, Galchen’s bold new novel touchingly illuminates a society, and a family, undone by superstition, the state, and the mortal convulsions of history.  
-link: https://play.google.com/store/books/details?id=n1L2DwAAQBAJ  
-previewLink: http://books.google.nl/books?id=n1L2DwAAQBAJ&printsec=frontcover&dq=Rivka+Galchen,+Everybody+knows+your+mother+is+a+witch&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: 9780374711214  
-isbn10: 374711216  
-created: 2023-07-31T21:06  
-updated: 2023-08-27T13:29  
-parent: book I've read  
-layout: book  
-read: 2021-07  
-rating: 7  
----  
+---
+blog: true
+title: Everyone Knows Your Mother Is a Witch
+author: Galchen, Rivka
+publisher: Farrar, Straus and Giroux
+totalPage: 288
+publishDate: 2021-06-08
+coverUrl: http://books.google.com/books/content?id=n1L2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=n1L2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: Drawing on real historical documents but infused with the intensity of imagination, sly humor, and intellectual fire for which award-winning author Rivka Galchen’s writing is known, Everyone Knows Your Mother Is a Witch is a tale for our time—the story of how a community becomes implicated in collective aggression and hysterical fear. The year is 1619, in the German duchy of Württemberg. Plague is spreading. The Thirty Years War has begun, and fear and suspicion are in the air throughout the Holy Roman Empire. In the small town of Leonberg, Katherina Kepler is accused of being a witch. An illiterate widow, Katherina is known by her neighbors for her herbal remedies and the success of her children, including her eldest, Johannes, who is the Imperial Mathematician and renowned author of the laws of planetary motion. It’s enough to make anyone jealous, and Katherina has done herself no favors by being out and about and in everyone’s business. So when the deranged and insipid Ursula Reinbold (or as Katherina calls her, the Werewolf) accuses Katherina of offering her a bitter, witchy drink that has made her ill, Katherina is in trouble. Her scientist son must turn his attention from the music of the spheres to the job of defending his mother. Facing the threat of financial ruin, torture, and even execution, Katherina tells her side of the story to her friend and next-door neighbor Simon, a reclusive widower imperiled by his own secrets. Provocative and entertaining, Galchen’s bold new novel touchingly illuminates a society, and a family, undone by superstition, the state, and the mortal convulsions of history.
+link: https://play.google.com/store/books/details?id=n1L2DwAAQBAJ
+previewLink: http://books.google.nl/books?id=n1L2DwAAQBAJ&printsec=frontcover&dq=Rivka+Galchen,+Everybody+knows+your+mother+is+a+witch&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780374711214
+isbn10: 374711216
+created: 2023-07-31T21:06
+updated: 2023-08-27T13:29
+parent: book I've read
+layout: book
+read: 2021-07
+rating: 7
+---
   
 Scene: anno 1615 near Stuttgart.  The main character is a women in her late 60, having three children, her husband gone (or died) as mercenary, many a year ago.  Seemingly unimportant detail: one of her children is called Johannes Kepler, the court mathematician in Linz.  
   
