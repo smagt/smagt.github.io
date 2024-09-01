@@ -1,9 +1,9 @@
----  
-blog: true  
-layout: page  
-title: About  
-nav_order: 999  
----  
+---
+blog: true
+layout: page
+title: About
+nav_order: 999
+---
   
 # about, cq. imprint  
   
