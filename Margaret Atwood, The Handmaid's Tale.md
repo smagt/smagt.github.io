@@ -1,21 +1,21 @@
----  
-blog: true  
-title: The Handmaid's Tale  
-author: Atwood, Margaret  
-publishDate: 1985  
-coverUrl: http://books.google.com/books/content?id=9ZeFzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=9ZeFzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-link: https://books.google.com/books/about/The_Handmaid_s_Tale.html?hl=&id=LT2NEAAAQBAJ  
-previewLink: http://books.google.com/books?id=LT2NEAAAQBAJ&dq=Margaret+Atwood,+The+Handmaid%27s+Tale&hl=&as_pt=BOOKS&cd=10&source=gbs_api  
-isbn13: 9780385490818  
-isbn10: 038549081X  
-created: 2023-08-26T16:39  
-updated: 2023-10-21T22:41:32+02:00  
-parent: book I've read  
-layout: book  
-read: 2020-01  
-rating: 8  
----  
+---
+title: The Handmaid's Tale
+author: Atwood, Margaret
+publishDate: 1985
+coverUrl: http://books.google.com/books/content?id=9ZeFzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=9ZeFzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
+link: https://books.google.com/books/about/The_Handmaid_s_Tale.html?hl=&id=LT2NEAAAQBAJ
+previewLink: http://books.google.com/books?id=LT2NEAAAQBAJ&dq=Margaret+Atwood,+The+Handmaid%27s+Tale&hl=&as_pt=BOOKS&cd=10&source=gbs_api
+isbn13: 9780385490818
+isbn10: 038549081X
+created: 2023-08-26T16:39
+updated: 2023-10-21T22:41:32+02:00
+blog: true
+parent: book I've read
+layout: book
+read: 2020-01
+rating: 8
+---
   
 Published in 1985 (why did I wait so long!), this book describes a dystopian society, the Republic of Gilead, which has overthrown the all-too-liberal US government. The main character, Offred, tells the story and is a "Handmaid", assigned to produce children for the "Commanders", the ruling class in Gilead. Handmaids are those few women who are still fertile, after pollution and radiation made those rare.  
   
