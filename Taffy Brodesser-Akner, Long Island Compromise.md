@@ -1,25 +1,25 @@
----  
-title: Long Island Compromise  
-author: Brodesser-Akner, Taffy  
-authors: Taffy Brodesser-Akner  
-category: Fiction  
-categories: Fiction  
-publisher: Hachette UK  
-publishDate: 2024-07-09  
-totalPage: 511  
-coverUrl: http://books.google.com/books/content?id=lHf0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=lHf0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: "'Everything I was dreaming it would be - shocking, tender, profound and delicious' EMILY MAITLIS 'Both enjoyable and funny while also substantive and profound' CATHY RENTZENBRINK From the Sunday Times bestselling author of Fleishman Is in Trouble comes Long Island Compromise, a darkly exhilarating novel about an American family and its inheritance - the safety and wealth that they fought for, and the precarity of their survival that is their legacy. In 1980, a wealthy businessman named Carl Fletcher is kidnapped from his driveway in the nicest part of the nicest part of Long Island. He is brutalised, held for ransom and then returned to his family. Miraculously, Carl, his wife and his three kids are left to move on with their lives, and resume their prized places in the ongoing saga of the American dream. But nearly forty years later, when Carl's mother dies, the trauma that has been bubbling beneath the Fletchers' lives all this time surfaces at last. It becomes apparent that Carl has been quietly pursuing closure to the kidnapping for all these years, and his wife and children must face that the money that they believed bought them safety was actually never capable of doing any such thing. Long Island Compromise spans generations, winding through decades of history all the way through to the wild present, dealing along the way with all the mainstays of American Jewish life and the timeless questions about wealth, trauma, and the American soul. PRAISE FOR FLEISHMAN IS IN TROUBLE: 'This is the novel of the summer . . . There is no one that this book isn't for. I can't believe it's a first novel. Pure brilliance' INDIA KNIGHT, THE SUNDAY TIMES 'Could be one of the books of my entire lifetime. I've never felt so seen' GRACE DENT, GUARDIAN 'Sharp and wicked, insightful and funny, and then suddenly so touching' DAVID NICHOLLS 'This book is a work of utter perfection' ELIZABETH GILBERT"  
-link: https://play.google.com/store/books/details?id=lHf0DwAAQBAJ  
-previewLink: http://books.google.de/books?id=lHf0DwAAQBAJ&printsec=frontcover&dq=long+island+brodesser&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
-isbn13: 9781472273055  
-isbn10: 1472273052  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2024-08-16  
-rate: 9  
----  
+---
+title: Long Island Compromise
+author: Brodesser-Akner, Taffy
+authors: Taffy Brodesser-Akner
+category: Fiction
+categories: Fiction
+publisher: Hachette UK
+publishDate: 2024-07-09
+totalPage: 511
+coverUrl: http://books.google.com/books/content?id=lHf0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=lHf0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: "'Everything I was dreaming it would be - shocking, tender, profound and delicious' EMILY MAITLIS 'Both enjoyable and funny while also substantive and profound' CATHY RENTZENBRINK From the Sunday Times bestselling author of Fleishman Is in Trouble comes Long Island Compromise, a darkly exhilarating novel about an American family and its inheritance - the safety and wealth that they fought for, and the precarity of their survival that is their legacy. In 1980, a wealthy businessman named Carl Fletcher is kidnapped from his driveway in the nicest part of the nicest part of Long Island. He is brutalised, held for ransom and then returned to his family. Miraculously, Carl, his wife and his three kids are left to move on with their lives, and resume their prized places in the ongoing saga of the American dream. But nearly forty years later, when Carl's mother dies, the trauma that has been bubbling beneath the Fletchers' lives all this time surfaces at last. It becomes apparent that Carl has been quietly pursuing closure to the kidnapping for all these years, and his wife and children must face that the money that they believed bought them safety was actually never capable of doing any such thing. Long Island Compromise spans generations, winding through decades of history all the way through to the wild present, dealing along the way with all the mainstays of American Jewish life and the timeless questions about wealth, trauma, and the American soul. PRAISE FOR FLEISHMAN IS IN TROUBLE: 'This is the novel of the summer . . . There is no one that this book isn't for. I can't believe it's a first novel. Pure brilliance' INDIA KNIGHT, THE SUNDAY TIMES 'Could be one of the books of my entire lifetime. I've never felt so seen' GRACE DENT, GUARDIAN 'Sharp and wicked, insightful and funny, and then suddenly so touching' DAVID NICHOLLS 'This book is a work of utter perfection' ELIZABETH GILBERT"
+link: https://play.google.com/store/books/details?id=lHf0DwAAQBAJ
+previewLink: http://books.google.de/books?id=lHf0DwAAQBAJ&printsec=frontcover&dq=long+island+brodesser&hl=&as_pt=BOOKS&cd=2&source=gbs_api
+isbn13: 9781472273055
+isbn10: 1472273052
+blog: true
+parent: book I've read
+layout: book
+read: 2024-08-16
+rate: 9
+---
   
 _DO YOU WANT to hear a story with a terrible ending? On Wednesday, March 12, 1980, Carl Fletcher, one of the richest men in the Long Island suburb where we grew up, was kidnapped from his driveway on his way to work._  
   
