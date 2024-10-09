@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---  
 title: The Ten Loves of Mr Nishino  
 author: Kawakami, Hiromi  
@@ -14,6 +15,26 @@ layout: book
 rating: 9  
 read: 2024-05  
 ---  
+=======
+---
+title: The Ten Loves of Mr Nishino
+author: Kawakami, Hiromi
+publishDate: 2019-06-06
+totalPage: 183
+coverUrl: http://books.google.com/books/content?id=fOedDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=fOedDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: Over the course of his life, Mr Nishino falls hopelessly in love again and again. One woman is a colleague, another a chance encounter; one is the girlfriend of a classmate, another the best friend of Nishino's latest conquest. Some are entranced by Nishino, others care more for their freedom, their children (or their cats). As we come to learn of the torments, desires and delights of each woman, a portrait emerges of a complicated man whose great capacity for love may well be the cause of his downfall.
+link: https://play.google.com/store/books/details?id=fOedDwAAQBAJ
+previewLink: http://books.google.com/books?id=fOedDwAAQBAJ&pg=PT121&dq=the+ten+loves+of+me+nishino&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9781846277023
+isbn10: 1846277027
+blog: true
+parent: book I've read
+layout: book
+rating: 9
+read: 2024-05
+---
+>>>>>>> origin/gh-pages
   
 Mr. Nishino never marries, never reproduces. For that, perhaps, he cannot really love. But he has ample loves who have sex with him, even though, in most or all cases, the women don't love him, perhaps don't even like him.  
   

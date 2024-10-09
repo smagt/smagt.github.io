@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---  
 blog: true  
 layout: post  
@@ -6,6 +7,17 @@ title: how I use Obsidian
 nav_order: 1  
 ---  
 Published on **2024-05-25**.  
+=======
+---
+blog: true
+layout: post
+date: 2024-05-25 22:17:21 +0200
+title: how I use Obsidian
+nav_order: 1
+---
+First published on **2024-05-25**.  
+Extended on **2024-06-30**.  
+>>>>>>> origin/gh-pages
   
 # using obsidian  
 This is a short piece describing how I use Obsidian for organising my non-work-related data.    
@@ -119,7 +131,11 @@ It works like this. Create this map file, and I like to add MOC to its name.
   
 Then, dump lines in there with links to PDFs etc., notes, whatever. And then add the following dataview code:  
   
+<<<<<<< HEAD
 ```  
+=======
+```js  
+>>>>>>> origin/gh-pages
 list from [[]] and !outgoing([[]])  
 ```  
   
@@ -157,6 +173,27 @@ For this I use the _Attachment Management_ plugin. I have set it up so that atta
 #### canvases  
 Canvases are nice. But one problem: they do not have yaml stuff in there. So they don't work with Dataview. And therefore, I don't use them for anything serious.  
   
+<<<<<<< HEAD
+=======
+### tracking my papers  
+I have asked co-authors to help me in tracking paper writing.  We set up various tools to do so, but each and every time people forgot, or deprioritised, and always I lost track of which paper was submitted, rejected, to be written, etc.  
+  
+DIYS therefore.  So now for each paper, I have a markdown file describing what's going on as to that paper.  This file has the following template:  
+```yaml  
+---  
+tags: paper   
+firstauthor:   
+title:   
+source:  
+venue:  
+status:  
+---  
+MOC:: [[32 papers MOC]]  
+```  
+  
+after which I use a bit of DataviewJS (see [here](./paper_dataviewjs.md)) to create a table.  It works beautifully.  
+  
+>>>>>>> origin/gh-pages
 ### plugins  
 - **Activity History**: a plugin that automatically tracks changes, and can be used to plot those. Looked nice when I started using it. But I never use those plots, which may look like this:  
   
@@ -270,4 +307,8 @@ To solve this, I use git-crypt with gpg. This can be made completely transparent
 ### final  
 If, like me, you came from Evernote, you can use `yarle-evernote-to-md.app`.    
   
+<<<<<<< HEAD
 And a final thing: the text search in image-based PDFs doesn't work very well, sadly. It appears that the text extractor plugin does not work on all PDFs. A newer plugin, called OCR, is promising but buggy as I write this. A tool like [https://docs.paperless-ngx.com](https://docs.paperless-ngx.com/) is probably more powerful than my approach. But I do not like to put my documents on a server with public 
+=======
+And a final thing: the text search in image-based PDFs doesn't work very well, sadly. It appears that the text extractor plugin does not work on all PDFs. A newer plugin, called OCR, is promising but buggy as I write this. A tool like [https://docs.paperless-ngx.com](https://docs.paperless-ngx.com/) is probably more powerful than my approach. But I do not like to put my documents on a server owned by someone else, especially when my data are not encrypted.
+>>>>>>> origin/gh-pages

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---  
 title: Trust  
 author: Diaz, Hernan  
@@ -15,6 +16,27 @@ layout: book
 read: 2023-08  
 rating: 8  
 ---  
+=======
+---
+blog: true
+title: Trust
+author: Diaz, Hernan
+publishDate: 2022-08-04
+coverUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=0ylNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: Longlisted for the Booker Prize 2022 Can one person change the course of history? 'Genius' Lauren Groff A sweeping, breathtakingly ambitious novel about power, wealth and truth, told by four unique, interlocking voices and set against the backdrop of turbulent 1920s New York. The legendary Wall Street tycoon whose immense wealth gives him the power to do almost anything. The second-generation Italian immigrant tasked with recording his life story. The reclusive, aristocratic wife. And the writer who observes them from afar. In a city devoted to making money and making stories like no other, where wealth means power, who gets to tell the truth? And to rise to the top of a glittering, destructive world, what - and who - do you have to sacrifice?
+link: https://books.google.com/books/about/Trust.html?hl=&id=IEi8zgEACAAJ
+previewLink: http://books.google.com/books?id=IEi8zgEACAAJ&dq=diaz+trust&hl=&as_pt=BOOKS&cd=4&source=gbs_api
+isbn10: 1529074495
+isbn13: 9781529074499
+created: 2023-09-01T18:37:40
+updated: 2023-10-21T21:40:14
+parent: book I've read
+layout: book
+read: 2023-08
+rating: 8
+---
+>>>>>>> origin/gh-pages
   
 I read this book rather quickly, but enjoyed it to the end. The underlying story is quite simple: about a very successful stock broker, Andrew Bevel, who inherited a small fortune from his ancestors, and made that into a huge fortune by always taking the right choices. The book is also about his wife, Mildred Bevel, who is matched to Bevel by Mildred's mother, quickly evolves into philanthropic work, and dies quite young because of...  
   
@@ -28,11 +50,25 @@ The second version, in the second part of the book, we read a version by Andrew 
   
 Sadly, Bevel dies before Partenza can finish her, their, book. So part two has passages such as _that would become the first symptom of her illness, life was Brief paragraph Mildred, domestic delights. Home a solace during these happily frantic times._  
   
+<<<<<<< HEAD
 Bevel miscalculated the dreams of an aspiring novelist. Ida is not happy portraying ~~~Helen~~~ Mildred as a passive, uninspiring, weak woman, but is looking for the truth. And wants to use the chance to start as a novelist. _I was comforted by the idea of order in their novels. It all started with crime and chaos. Even sense and meaning themselves were challenged—the characters, their actions and their motives seemed incomprehensible. But after a brief reign of lawlessness and confusion, order and harmony were always restored. Everything became clear, everything was explained and everything was well with the world. This gave me enormous peace. And, perhaps more importantly, these women showed me I did not have to conform to the stereotypical notions of the feminine world. Their stories were not just about romance and domestic bliss. There was violence in their books—a violence they controlled. These writers showed me, through their example, that I could write something dangerous. They showed me that there was no reward in being reliable or obedient: the reader’s expectations and demands were there to be intentionally confounded and subverted. They were the writers who first made me want to become a writer._  
   
 Things get complex, Ida is blackmailed: _In these articles on Morris Ledyard, the Goulds, Albert H. Wiggin, the Rockefellers, Solomon R. Guggenheim, the Rothschilds and James Speyer I found details of business transactions, descriptions of residencies, travel itineraries, reports on lavish parties and a wide array of habits, idiosyncrasies and pastimes that I gave the Bevels. I also quoted from the advertisements that made up the bulk of this and other similar magazines promoting luxury goods I had never heard of._  
   
 In the meantime, as women's often have to balance life and work, she feels responsible for her father, who lives in his own world: _“Yes. If I take this knife, it will be bad luck. We will fight. It will cut the ties between us.” I had always believed his mild superstitions were mere relics from his hometown, like the legends, anecdotes and recipes he had brought from there. But he seemed oddly serious about this. I shrugged and motioned to pick up the box. “Wait,” he said. “There is a solution. Money.” I looked at him. “Money,” he repeated. “I buy the knife from you. That’s how it’s solved. Then it’s not a gift.” He rummaged through his pockets and proffered me a penny. “Here. Will you sell me that beautiful knife for a penny?”_  
+=======
+Bevel miscalculated the dreams of an aspiring novelist. Ida is not happy portraying ~~~Helen~~~ Mildred as a passive, uninspiring, weak woman, but is looking for the truth. And wants to use the chance to start as a novelist.   
+  
+_I was comforted by the idea of order in their novels. It all started with crime and chaos. Even sense and meaning themselves were challenged—the characters, their actions and their motives seemed incomprehensible. But after a brief reign of lawlessness and confusion, order and harmony were always restored. Everything became clear, everything was explained and everything was well with the world. This gave me enormous peace. And, perhaps more importantly, these women showed me I did not have to conform to the stereotypical notions of the feminine world. Their stories were not just about romance and domestic bliss. There was violence in their books—a violence they controlled. These writers showed me, through their example, that I could write something dangerous. They showed me that there was no reward in being reliable or obedient: the reader’s expectations and demands were there to be intentionally confounded and subverted. They were the writers who first made me want to become a writer._  
+  
+Things get complex, Ida is blackmailed:  
+  
+_In these articles on Morris Ledyard, the Goulds, Albert H. Wiggin, the Rockefellers, Solomon R. Guggenheim, the Rothschilds and James Speyer I found details of business transactions, descriptions of residencies, travel itineraries, reports on lavish parties and a wide array of habits, idiosyncrasies and pastimes that I gave the Bevels. I also quoted from the advertisements that made up the bulk of this and other similar magazines promoting luxury goods I had never heard of._  
+  
+In the meantime, as women's often have to balance life and work, she feels responsible for her father, who lives in his own world:  
+  
+_“Yes. If I take this knife, it will be bad luck. We will fight. It will cut the ties between us.” I had always believed his mild superstitions were mere relics from his hometown, like the legends, anecdotes and recipes he had brought from there. But he seemed oddly serious about this. I shrugged and motioned to pick up the box. “Wait,” he said. “There is a solution. Money.” I looked at him. “Money,” he repeated. “I buy the knife from you. That’s how it’s solved. Then it’s not a gift.” He rummaged through his pockets and proffered me a penny. “Here. Will you sell me that beautiful knife for a penny?”_  
+>>>>>>> origin/gh-pages
   
 The final part of the book then gives a final truth, about the life and success of Andrew, and of Mildred. It is in the form of a diary written by the latter, and found by Ida.  
   

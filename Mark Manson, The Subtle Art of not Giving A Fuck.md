@@ -2,7 +2,13 @@
 title: The Subtle Art of Not Giving a F*CK  
 author: Mark Manson  
 totalPage: 320  
+<<<<<<< HEAD
 publishDate: 2017-01-17  
+=======
+publishDate: 2016  
+coverUrl: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
+>>>>>>> origin/gh-pages
 description: "EVERYTHING WE'VE BEEN TOLD ABOUT HOW TO IMPROVE OUR LIVES IS WRONG. NOW SUPERSTAR BLOGGER MARK MANSON TELLS US WHAT WE NEED TO DO TO GET IT RIGHT. For decades, we've been told that positive thinking is the key to a happy, rich life. Drawing on academic research and the life experience that comes from breaking the rules, Mark Manson is ready to explode that myth. The key to a good life, according to Manson, is the understanding that 'sometimes shit is f*cked up and we have to live with it.' Manson says that instead of trying to turn lemons into lemonade, we should learn to stomach lemons better, and stop distracting ourselves from life's inevitable disappointments chasing 'shit' like money, success and possessions. It's time to re-calibrate our values and what it means to be happy: there are only so many things we can give a f*ck about, he says, so we need to figure out which ones really matter. From the writer whose blog draws two million readers a month and filled with entertaining stories and profane, ruthless humour, The Subtle Art of Not Giving a F*ck is a welcome antidote to the 'let's-all-feel-good' mindset that has infected modern society."  
 link: https://books.google.com/books/about/The_Subtle_Art_of_Not_Giving_a_F_CK.html?hl=&id=43o6ygEACAAJ  
 previewLink: http://books.google.ch/books?id=43o6ygEACAAJ&dq=Mark+Manson,+The+Subtle+Art+of+not+Giving+A+Fuck&hl=&as_pt=BOOKS&cd=11&source=gbs_api  

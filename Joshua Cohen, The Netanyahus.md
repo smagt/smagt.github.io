@@ -3,9 +3,17 @@ title: The Netanyahus
 author: Cohen, Joshua  
 totalPage: 249  
 publishDate: 2021-06-22  
+<<<<<<< HEAD
 description: "WINNER OF THE 2022 PULITZER PRIZE FOR FICTION 2021 NATIONAL JEWISH BOOK AWARD WINNER A NEW YORK TIMES NOTABLE BOOK OF 2021 A WALL STREET JOURNAL BEST BOOK OF 2021 A KIRKUS BEST FICTION BOOK OF 2021 &quot;Absorbing, delightful, hilarious, breathtaking and the best and most relevant novel I’ve read in what feels like forever.&quot; —Taffy Brodesser-Akner, The New York Times Book Review Corbin College, not quite upstate New York, winter 1959–1960: Ruben Blum, a Jewish historian—but not an historian of the Jews—is co-opted onto a hiring committee to review the application of an exiled Israeli scholar specializing in the Spanish Inquisition. When Benzion Netanyahu shows up for an interview, family unexpectedly in tow, Blum plays the reluctant host to guests who proceed to lay waste to his American complacencies. Mixing fiction with nonfiction, the campus novel with the lecture, The Netanyahus is a wildly inventive, genre-bending comedy of blending, identity, and politics that finds Joshua Cohen at the height of his powers."  
 link: https://books.google.com/books/about/The_Netanyahus.html?hl=&id=MtkvEAAAQBAJ  
 previewLink: http://books.google.de/books?id=MtkvEAAAQBAJ&dq=Joshua+Cohen,+The+Netanyahus&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+=======
+coverUrl: http://books.google.com/books/content?id=elASEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=elASEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
+description: "WINNER OF THE 2022 PULITZER PRIZE FOR FICTION 2021 NATIONAL JEWISH BOOK AWARD WINNER A NEW YORK TIMES NOTABLE BOOK OF 2021 A WALL STREET JOURNAL BEST BOOK OF 2021 A KIRKUS BEST FICTION BOOK OF 2021 &quot;Absorbing, delightful, hilarious, breathtaking and the best and most relevant novel I’ve read in what feels like forever.&quot; —Taffy Brodesser-Akner, The New York Times Book Review Corbin College, not quite upstate New York, winter 1959–1960: Ruben Blum, a Jewish historian—but not an historian of the Jews—is co-opted onto a hiring committee to review the application of an exiled Israeli scholar specializing in the Spanish Inquisition. When Benzion Netanyahu shows up for an interview, family unexpectedly in tow, Blum plays the reluctant host to guests who proceed to lay waste to his American complacencies. Mixing fiction with nonfiction, the campus novel with the lecture, The Netanyahus is a wildly inventive, genre-bending comedy of blending, identity, and politics that finds Joshua Cohen at the height of his powers."  
+link: https://books.google.com/books/about/The_Netanyahus.html?hl=&id=MtkvEAAAQBAJ  
+previewLink: http://books.google.com/books?id=MtkvEAAAQBAJ&dq=Joshua+Cohen,+The+Netanyahus&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+>>>>>>> origin/gh-pages
 isbn13: 9781681376073  
 isbn10: 1681376075  
 created: 2023-07-31T21:16  
@@ -17,7 +25,13 @@ read: 2021-10
 rating: 7  
 ---  
   
+<<<<<<< HEAD
 As the author writes, "Ben-Zion Netanyahu... which meant nothing to me, or to anyone... not even the surname, which was still a generation from its infamy."  Mixed feelings along the way, but: also a wonderful book, mainly because of its wit.  Story: small college town in New York, faculty of history.  The main character, Ruben Blum, is a (Jewish!) professor of history, new at the college.  Whenafter he should head the selection committee for a new professor, by the name of the book, who is expert on mediaeval Iberian Jewish history.  And a charlatan, so it seems, but a convincing one.     
+=======
+As the author writes, "Ben-Zion Netanyahu... which meant nothing to me, or to anyone... not even the surname, which was still a generation from its infamy."  Mixed feelings along the way, but: also a wonderful book, mainly because of its wit.    
+  
+So, the story: a small college town in New York, faculty of history.  The main character, Ruben Blum, is a (Jewish!) professor of history, new at the college.  Whenafter he should head the selection committee for a new professor, by the name of the book, who is expert on mediaeval Iberian Jewish history.  And a charlatan, so it seems, but a convincing one.     
+>>>>>>> origin/gh-pages
   
 The entering of Blum in the college is already funny, and enjoyable (but, I think, you must appreciate Jewish humour).  But culminates when Netanyahu's visit occurs and erupts in a slapstick-like tale of family, lost, lust, and culture.     
   

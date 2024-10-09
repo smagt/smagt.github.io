@@ -6,7 +6,11 @@ totalPage: 272
 publishDate: 2010-02-23  
 description: Shortlisted for the Man Booker Prize for Fiction As every schoolboy knows, you can fit the whole of England on the Isle of Wight. Grotesque, visionary tycoon Sir Jack Pitman takes the saying literally and does exactly that. He constructs on the island 'The Project', a vast heritage centre containing everything 'English', from Big Ben to Stonehenge, from Manchester United to the white cliffs of Dover. The project is monstrous, risky, and vastly successful. In fact, it gradually begins to rival 'Old' England and even threatens to supersede it... One of Barnes's finest and funniest novels, England, England calls into question the idea of replicas, truth vs fiction, reality vs art, nationhood, myth-making, and self-exploration. 'A brilliant, Swiftian fantasy' The Economist  
 link: https://play.google.com/store/books/details?id=98F0A76SiGMC  
+<<<<<<< HEAD
 previewLink: http://books.google.de/books?id=98F0A76SiGMC&printsec=frontcover&dq=Julian+Barnes,+England+England&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+=======
+previewLink: http://books.google.com/books?id=98F0A76SiGMC&printsec=frontcover&dq=Julian+Barnes,+England+England&hl=&as_pt=BOOKS&cd=2&source=gbs_api  
+>>>>>>> origin/gh-pages
 isbn13: 9781407065434  
 isbn10: 1407065432  
 created: 2023-07-31T20:47  
@@ -24,4 +28,8 @@ The History of the World was the first book I read, and got me hooked on him. Or
   
 Flaubert's Parrot I liked.  Metroland I forgot.  Authur & George I liked, then forgot. As Elisabeth Finch.  
   
+<<<<<<< HEAD
 But England, England? II tried to start, restart and then finish England, England.  The first Barnes I really cannot swallow, and did not finish.  Perhaps because of Brexit that my love for the Brits is at freezing point.  The book irritates me.  
+=======
+But England, England? II tried to start, restart and then finish England, England.  The first Barnes I really cannot swallow, and did not finish.  Perhaps because of Brexit that my love for the Brits was at freezing point.  The book irritates me.   And since it was shortlisted for the Booker prize, it's me, not the book.
+>>>>>>> origin/gh-pages

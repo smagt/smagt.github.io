@@ -16,6 +16,16 @@ read: 2020-07
 rating: 7  
 ---  
   
+<<<<<<< HEAD
 "Making Sense: The Glamorous Story of English Grammar" by David Crystal is a book that explores the history and usage of punctuation in the English language. The book provides practical advice on how to use punctuation effectively to improve writing clarity and coherence.  
   
 Crystal also delves into the evolution of modern usages, and gently encourages the reader to think in a nuanced way about how marks work rather than imagining that some Platonic style guide, if only it could be accessed, would sort all punctuation decisions into boxes marked “literate” and “illiterate”.  
+=======
+_Making Sense: The Glamorous Story of English Grammar_ by David Crystal dives into the ins and outs of English grammar. The book breaks down grammar rules and concepts, making them easy to understand.  
+  
+Each chapter covers a different part of grammar, like word types, sentence structures, and how different grammatical elements work. Crystal mixes historical background with practical examples, showing how grammar has changed over time and how it works today.  
+  
+I love Crystal's book for their clear writing, conversationally easy to read. He talks about how language evolves and how these changes affect grammar.  The book becomes lively through its examples from literature, everyday speech, and media. He also discusses how technology and digital communication, like texting and social media, are changing the way we use grammar.  
+  
+Overall, _Making Sense_ gives an entertaining look at English grammar. You want to understand English more?  Go for this book.
+>>>>>>> origin/gh-pages

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---  
 title: Butter  
 author: Yuzuki, Asako  
@@ -17,6 +18,29 @@ read: 2024-04-02
 ---  
   
 I cannot help but love these surreal Japanese novels.  Another beautiful example in this one, which is a combination of food pornography and murder mystery.  Food: indeed, butter.  The main protagonist of the story, Rika, is a journalist who lives for her work.  She has a friend-with-benefits, he thinks they have a relationship.  She ignores food, until she starts getting interested in the story of a serial killer; a woman who killed various of her husbands, after lavishly cooking for them:  
+=======
+---
+blog: true
+title: Butter
+author: Yuzuki, Asako
+publisher: HarperCollins UK
+publishDate: 2024-02-29
+totalPage: 376
+coverUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=dO--EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: Compelling, delightfully weird, often uncomfortable' PANDORA SYKES 'Unputdownable, breathtakingly original' ERIN KELLY 'Delicious' i-D Magazine 'Luscious ... I devoured this' IMOGEN CRIMP
+link: https://play.google.com/store/books/details?id=pZnLEAAAQBAJ
+previewLink: http://books.google.es/books?id=pZnLEAAAQBAJ&printsec=frontcover&dq=Asako+Yuzuki,+Butter&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: 9780008511692
+isbn10: 8511691
+parent: book I've read
+layout: book
+rating: 9
+read: 2024-04-02
+---
+  
+I cannot help but love surreal Japanese novels.  Another beautiful example in this one, which is a combination of food pornography and murder mystery.  Food: indeed, butter.  The main protagonist of the story, Rika, is a journalist who lives for her work.  She has a friend-with-benefits, he thinks they have a relationship.  She ignores food, until she starts getting interested in the story of a serial killer; a woman who killed various of her husbands, after lavishly cooking for them:  
+>>>>>>> origin/gh-pages
   
 _Bagna cauda with a plentiful variety of steamed winter vegetables and a rich anchovy sauce, thinly cut slices of warmed salt pork, a tofu and leek gratin, rice cooked in an earthenware pot with vegetables and chopped oysters, and miso soup - the dishes had a vitality to them which came from using only the freshest ingredients, and though the seasoning was unobtrusive, all the flavours had pleasing depth. Weren't oysters supposed to be good for fertility? Rika thought as she brought to her lips a mouthful of rice enriched with soy sauce, whose smell put her in mind of the sea, shooting a glance over at her friend. She realised that she had more of an appetite than she could remember having in a long time, and that if this was largely owing to how delicious the food was, it was also in part to do with the way Ryösuke ate, as if in a state of ecstasy._  
   
@@ -28,6 +52,10 @@ _A sliver of butter perched atop a mound of steaming rice garnished with a singl
   
 Isn't it beautiful?  It immediately brought me to question my own choice in butter, which I use a lot but buy on ecological and ethical grounds, mostly. I'm sure my butter is good but... the brands mentioned here, I cannot comprehend the difference. Yet.  
   
+<<<<<<< HEAD
 Well, the story develops, with some details here and there which are sometimes too fantastic -- a friend's unused apartment which is then used by Rika and other involved people to restore their lives?; Reiko living with a possible accomplice of Kajii for a few days? -- but all that does not reduce the joy in this cheerful and fearful ride of food,murder, a bit of eroticism and some love, perhaps.  
+=======
+Well, the story develops, with some details here and there which are sometimes too fantastic -- a friend's unused apartment which is then used by Rika and other involved people to restore their lives?; Reiko living with a possible accomplice of Kajii for a few days? -- but all that does not reduce the joy in this cheerful and fearful ride of food, murder, a bit of eroticism and some love, perhaps.  
+>>>>>>> origin/gh-pages
   
 Nice.

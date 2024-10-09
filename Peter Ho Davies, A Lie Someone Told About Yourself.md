@@ -6,6 +6,11 @@ category: Fiction
 publisher: Hachette UK  
 totalPage: 192  
 publishDate: 2021-01-07  
+<<<<<<< HEAD
+=======
+coverUrl: http://books.google.com/books/content?id=qyHXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
+coverSmallUrl: http://books.google.com/books/content?id=qyHXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
+>>>>>>> origin/gh-pages
 description: "'There are some stories that require as much courage to write as they do art. Peter Ho Davies's achingly honest, searingly comic portrait of fatherhood is just such a story . . . The world needs more stories like this one, more of this kind of courage, more of this kind of love.' - Sigrid Nunez, National Book Award-winning author of The Friend When does sorrow turn to shame? When does love become labour? When does chance become choice? And when does fact become fiction? A Lie Someone Told You About Yourself traces the complex consequences of one of the most personal yet public, intimate yet political, experiences a family can have: to have a child, and conversely, the decision not to have a child. A woman's first pregnancy is interrupted by test results at once catastrophic and uncertain, leaving her and her husband, a writer, reeling. A second pregnancy ends in a fraught birth, a beloved child, the purgatory of further tests - and questions that reverberate down the years. This spare, supple narrative chronicles the flux of parenthood, marriage, and the day-to-day practice of loving someone. As challenging as it is vulnerable, as furious as it is tender, as touching as it is darkly comic, Peter Ho Davies's new novel is an unprecedented depiction of fatherhood."  
 link: https://play.google.com/store/books/details?id=qyHXDwAAQBAJ  
 previewLink: http://books.google.nl/books?id=qyHXDwAAQBAJ&printsec=frontcover&dq=Peter+Ho+Davis,+A+Lie+Someone+Told+About+Yourself&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
