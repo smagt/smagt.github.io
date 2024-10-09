@@ -1,10 +1,10 @@
----  
-blog: true  
-title: readable paper writing  
-number headings: auto  
-layout: post  
-date: 2024-07-30 22:06:21 +0200  
----  
+---
+blog: true
+title: readable paper writing
+number headings: auto
+layout: post
+date: 2024-07-30 22:06:21 +0200
+---
   
 # 1 technical writing  
   
@@ -182,10 +182,10 @@ This sentence is too long, contains many superfluous words, and says very little
 - after: _Surface EMG is often used to diagnose neuromuscular disorders as well as brain-machine interface._  
   
 And a last one, this time another suggestion from Jan Peters:  
-- before: _in $E=mc^2$ where $E$ denotes energy, $m$ is mass and $c$ is the speed of light_   
-- after: _in $E=mc^2$ with energy $E$, mass $m$ and speed of light $c$_  
+- before: _in $$E=mc^2$$ where $$E$$ denotes energy, $$m$$ is mass and $$c$$ is the speed of light_   
+- after: _in $$E=mc^2$$ with energy $$E$$, mass $$m$$ and speed of light $$c$$_  
   
-I agree with him that this improves readability a lot.  
+I agree that this improves readability a lot.  
   
 And this section's title?  Perhaps it should better be: 'Avoid useless words'.  
   
