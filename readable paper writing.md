@@ -26,7 +26,7 @@ But your reader may not know your precise context.  On all the unwritten, 'obvio
   
 So your first principle -- and the main thing I learned from Andy Tanenbaum -- is the KiSS principle: _keep it simple, stupid_.  (The second was, never touch a running system; but that's another story.)  
   
-Let us dissect this in two parts.  
+Let me dissect this.  
   
 ## 2.1 your first KiSS: structure  
 First, you want to keep your topic simple.  And that being kind of impossible, then at least keep its description simple.  
@@ -149,9 +149,9 @@ When writing technical or scientific texts, there is a tendency to use words tha
 </body>  
 </html>  
   
-Using 'normal' words really makes your text more readable.  And helps your reader.  
+You get the idea.  The list is much longer, of course: using 'normal' words really makes your text more readable.  And helps your reader.  
   
-And the title of this section?  Should have been, 'don't use these words'.  
+So the title of this section?  Should have been, 'Don't use these words'.  
   
 #### 2.2.1.1 but...  
 Ah, the 'except where needed'?  Well.  There's no such thing as a synonym.  Many words have similar meanings in the same context, but it's very rare for words to mean exactly the same in all their meanings.  Take 'utilise'.  Use use if you can use use.  The meaning of 'utilise' is stronger.  Looking at dictionary definitions:  
@@ -160,7 +160,7 @@ Ah, the 'except where needed'?  Well.  There's no such thing as a synonym.  Many
 - Collins: to make practical or worthwhile use of (and they add the clarification: If you utilise something, you use it.  Note that that is not bidirectional!)  
 - Merriam-Webster: turn to practical use or account  
   
-So, one may claim that 'utilise' is stronger than 'use'.  Like, really go for it!  Exploit it.  Personally, I think this is baloney. And if you want to decide for yourself, consider yourself a _reader_ rather than a _writer_ and see if use could be used instead.  If it can, go for it.  
+So, one may claim that 'utilise' is stronger than 'use'.  Like, really go for it!  Exploit it.  Personally, I think these cases are really rare. And if you want to decide for yourself, consider yourself a _reader_ rather than a _writer_ and see if 'use' could be used instead.  If it can, go for it.  
   
 ### 2.2.2 avoid the irritating use of superfluous, useless words  
 Then, there is a tendency to add adjectives and adverbs which do not improve things.  Take this example:  
