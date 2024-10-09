@@ -1,7 +1,7 @@
----  
-blog: true  
-date: 2024-06-30  
----  
+---
+blog: true
+date: 2024-06-30
+---
 ```js  
 const papers = dv.pages()  
     .filter(p => {  
