@@ -1,23 +1,23 @@
----  
-title: The Last Man Alive  
-subtitle: A Story for Children from the Age of Seven to Seventy  
-author: Neill, Alexander Sutherland  
-publishDate: 1938  
-totalPage: 268  
-coverUrl: http://books.google.com/books/content?id=0ZwiAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=0ZwiAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api  
-description: The adventures of a group who survived a poisonous cloud that turned everyone else into stone.  
-link: https://books.google.com/books/about/The_Last_Man_Alive.html?hl=&id=0ZwiAQAAIAAJ  
-previewLink: http://books.google.com/books?id=0ZwiAQAAIAAJ&q=Neill,+the+last+man+alive&dq=Neill,+the+last+man+alive&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn13: STANFORD:36105037920159  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2023-09  
-rating: 10  
-created: 2024-08-11T21:08:10  
-updated: 2024-08-11T21:36:03  
----  
+---
+title: The Last Man Alive
+subtitle: A Story for Children from the Age of Seven to Seventy
+author: Neill, Alexander Sutherland
+publishDate: 1938
+totalPage: 268
+coverUrl: http://books.google.com/books/content?id=0ZwiAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=0ZwiAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
+description: The adventures of a group who survived a poisonous cloud that turned everyone else into stone.
+link: https://books.google.com/books/about/The_Last_Man_Alive.html?hl=&id=0ZwiAQAAIAAJ
+previewLink: http://books.google.com/books?id=0ZwiAQAAIAAJ&q=Neill,+the+last+man+alive&dq=Neill,+the+last+man+alive&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+isbn13: STANFORD:36105037920159
+blog: true
+parent: book I've read
+layout: book
+read: 2023-09
+rating: 10
+created: 2024-08-11T21:08:10
+updated: 2024-08-11T21:36:03
+---
   
 First published in 1938, this book is the writeup of a story that A. S. Neill (1883–1973), founder and headmaster of Summerhill school in England, he "told to the pupils of my school, children from eight to twelve".    
   
