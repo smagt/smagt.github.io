@@ -1,22 +1,3 @@
-<<<<<<< HEAD
----  
-title: Ulysses  
-author: Joyce, James  
-totalPage: 987  
-publishDate: 1921  
-link: https://books.google.com/books/about/Ulysses.html?hl=&id=lBtrtQAACAAJ  
-previewLink: http://books.google.ch/books?id=lBtrtQAACAAJ&dq=James+Joyce,+Ulysses&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-isbn10: 3518390511  
-isbn13: 9783518390511  
-created: 2023-07-31T21:19  
-updated: 2023-10-21T21:57:54+02:00  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2022-03  
-rating: 10  
----  
-=======
 ---
 blog: true
 title: Ulysses
@@ -34,7 +15,6 @@ layout: book
 read: 2022-03
 rating: 10
 ---
->>>>>>> origin/gh-pages
   
 My major feat: I finished "_Ulysses_" by James Joyce. I had to, since it's 100 years ago the book was first published (in its full form). Having tried it twice before, and giving up after having reached 1/3, I was aware that some of it is enjoyable. (And a lot of it is not.)    
   
@@ -42,15 +22,9 @@ Ulysses is like a good poison: you can only take it in small portions. It means 
   
 So, for me, Ulysses was not a book I just read. I needed to study it, in order to grasp part of the contents. Shortly about the story: it's a day in the lives of Leopold Bloom and Stephen Dedalus. I will not go into the background stories running, you can find them described in wikipedia or elsewhere. But basically, after Stephen meets fellow students in the morning in a tower at the coast, switch to Bloom who makes his breakfast, goes to a funeral, picks up a poste-restante letter from his lover, meets and discusses, drinks and eats. The two meet later, end up in Bloom's house and the last chapter involves the thoughts of Bloom's wife who wake-dreams about her would-be lovers.    
   
-<<<<<<< HEAD
-The story is not exceptional, therefore. What is exceptional is that this is the first (or the first major) nonlinear book. Typically, books used to be telling a story from the beginning to the end; very interpretable, very straightforward. You will still find that in children's books nowadays; after all, up to the age of 6ish, children live in "today".    
-  
-Ulysses changes that kind of narrative. Yes, some of the Episodes of the book are narrative, and to a certain part of palatability describe what's happening. But quite a few Episodes, and certainly present in all, are centred about thoughts of the people involved. As thoughts go, random short bits which may not have a clear connection, which force you to understand the background to understand – correction, partly follow – them, which make them, well... let me give you an example:    
-=======
 The story is not exceptional, therefore. What is exceptional is that this is the first (or the first major) nonlinear book. Typically, books used to be telling a story from the beginning to the end; very interpretable, very straightforward. You will still find that in children's books nowadays.    
   
 Ulysses changes that kind of narrative. Yes, some of the Episodes of the book are narrative, and to a certain part of palatability describe what's happening. But quite a few Episodes, and certainly present in all, are centred about thoughts of the people involved. As thoughts go, random short bits which may not have a clear connection, which force you to understand the background to understand -- correction, partly follow –--them, which make them, well... let me give you an example:    
->>>>>>> origin/gh-pages
   
 _Wombed in sin darkness I was too, made not begotten. By them, the man with my voice and my eyes and a ghostwoman with ashes on her breath. They clasped and sundered, did the coupler’s will. From before the ages He willed me and now may not will me away or ever. A lex eterna stays about Him. Is that then the divine substance wherein Father and Son are consubstantial? Where is poor dear Arius to try conclusions? Warring his life long upon the contransmagnificandjewbangtantiality. Illstarred heresiarch! In a Greek watercloset he breathed his last: euthanasia. With beaded mitre and with crozier, stalled upon his throne, widower of a widowed see, with upstiffed omophorion, with clotted hinderparts.    
 (Help: [https://www.bloomsandbarnacles.com/blog/2019/02/26/decoding-dedalus-omphalos](https://www.bloomsandbarnacles.com/blog/2019/02/26/decoding-dedalus-omphalos))_  
