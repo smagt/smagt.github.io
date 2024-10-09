@@ -177,6 +177,8 @@ Here's another example:
 A bit of a monstrosity, with many needless words: 'modern', 'powerful', 'intuitive'... a lot of simplification is possible.  What about this simplification:  
 - after: _Probabilistic graphical models can reveal hidden structures present in data._  
   
+Though I still don't like the word 'present' here.  
+  
 Third example:  
 - before: _Advanced data analysis and visualization methodologies have played an important role in making surface electromyography both a valuable diagnostic methodology of neuromuscular disorders and a robust brain-machine interface, usable as a simple interface for prosthesis control, arm movement analysis, stiffness control, gait analysis, etc._  
   
