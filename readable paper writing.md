@@ -203,6 +203,7 @@ We also saved 14 words from the original 39.
 Here's yet another beautiful example I got from Jan Peters:   
 - rather than write _This is an example of property X …_   
 - you'd better write _This example shows property X…_  
+  
 Jan originally suggested 'exhibits'; one may use 'demonstrates'.  But I prefer the simpler 'shows'.  
   
 ### 2.2.4 tools  
