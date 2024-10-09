@@ -1,19 +1,19 @@
----  
-title: The Maltese Falcon  
-author: Hammett, Dashiell  
-totalPage: 193  
-publishDate: 1930  
-description: The fragrant Miss Wonderley hires Sam Spade, a private detective, to track down her sister, who has eloped with an immoral man called Floyd Thursby. But trouble finds Spade when his partner Miles Archer gets shot while on Thursby's trail. "The Maltese Falcon" is a classic mystery novel that shaped how writers told detective stories.  
-link: https://books.google.com/books/about/The_Maltese_Falcon.html?hl=&id=T7OBEAAAQBAJ  
-previewLink: http://books.google.com/books?id=T7OBEAAAQBAJ&printsec=frontcover&dq=Dashiell+Hammett,+The+Maltese+Falcon&hl=&as_pt=BOOKS&cd=1&source=gbs_api  
-created: 2023-07-31T21:02  
-updated: 2023-10-21T21:31:08+02:00  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2021-03  
-"rating:": 8  
----  
+---
+title: The Maltese Falcon
+author: Hammett, Dashiell
+totalPage: 193
+publishDate: 1930
+description: The fragrant Miss Wonderley hires Sam Spade, a private detective, to track down her sister, who has eloped with an immoral man called Floyd Thursby. But trouble finds Spade when his partner Miles Archer gets shot while on Thursby's trail. "The Maltese Falcon" is a classic mystery novel that shaped how writers told detective stories.
+link: https://books.google.com/books/about/The_Maltese_Falcon.html?hl=&id=T7OBEAAAQBAJ
+previewLink: http://books.google.com/books?id=T7OBEAAAQBAJ&printsec=frontcover&dq=Dashiell+Hammett,+The+Maltese+Falcon&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+created: 2023-07-31T21:02
+updated: 2023-10-21T21:31:08+02:00
+blog: true
+parent: book I've read
+layout: book
+read: 2021-03
+"rating:": 8
+---
   
 You know detective stories, right. We've all read those.  Well: this book can be seen as the mother of all detective stories, it creating a new genre by itself.  
   
