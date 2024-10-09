@@ -1,22 +1,3 @@
-<<<<<<< HEAD
----  
-title: The Wren, the Wren  
-author: Enright, Anne  
-publishDate: 2023-08-31  
-description: "Carmel had been alone all her life. The baby knew this. They looked at each other, and all of time was there. The baby knew how vast her mother's loneliness had been. A generational saga of daughterhood and motherhood, from the Booker Prize-winning Irish author 'The Wren, The Wren is a magnificent novel' SALLY ROONEY, author of NORMAL PEOPLE 'One of our greatest living novelists' THE TIMES 'Might just be her best yet' LOUISE KENNEDY, author of TRESPASSES 'The unofficial rock star of literary fiction' IRISH TIMES Nell - funny, brave and so much loved - is a young woman with adventure on her mind. As she sets out into the world, she finds her family history hard to escape. For her mother, Carmel, Nell's leaving home opens a space in her heart, where the turmoil of a lifetime begins to churn. And across the generations falls the long shadow of Carmel's famous father, an Irish poet of beautiful words and brutal actions. This is a meditation on love: spiritual, romantic, darkly sexual or genetic. A generational saga that traces the inheritance not just of trauma but also of wonder, it is a testament to the glorious resilience of women in the face of promises false and true. Above all, it is an exploration of the love between mother and daughter - sometimes fierce, often painful, but always transcendent."  
-link: https://books.google.com/books/about/The_Wren_the_Wren.html?hl=&id=cnGTzwEACAAJ  
-previewLink: http://books.google.de/books?id=cnGTzwEACAAJ&dq=The+wren,+the+wren&hl=&as_pt=BOOKS&cd=3&source=gbs_api  
-isbn10: 1787334619  
-isbn13: 9781787334618  
-created: 2023-09-04T06:21  
-updated: 2023-12-24T18:50:19+01:00  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2023-09  
-rating: 9  
----  
-=======
 ---
 title: The Wren, the Wren
 author: Enright, Anne
@@ -36,7 +17,6 @@ read: 2023-09
 rating: 9
 blog: true
 ---
->>>>>>> origin/gh-pages
   
 I am a lost cause for poetry. It is not my thing. OK, I like and know the Jabberwocky, but that's about it.  
   
@@ -46,21 +26,11 @@ _Migrations It is October. White-fronted geese are back in The North Slob, pink 
   
 Leaving out the newlines.  
   
-<<<<<<< HEAD
-So. _The wren, the wren_ describes the story of Carmel and Nell, taking turns in subsequent chapters. Nell is Carmel's daughter from a short fling her mother had with a student, while they were in their twenties. So we learn in part II, "Carmel". By then, Carmel had gotten rid of her father (died, after eloping from Ireland to the US and leaving wife and two daughters behind:  
-  
-_Carmel turned to look at the American wife, who was three rows behind them, fumbling through the specially printed missalette. Because, as everyone in the church knew and no one knew how to say, Phil’s foreign divorce had been followed within weeks by a foreign marriage in New York’s City Hall. This fact was not mentioned by anyone on the altar, certainly not by the poet from Cork, though the priest shifted to a ‘special’ voice to say, ‘and all those Phil loved, including his dear friends across the pond’._  
-  
-) and mother (died from breast cancer, otherwise without much of a character).  
-  
-Carmel first has many boyfriends:  
-=======
 So. _The wren, the wren_ describes the story of Carmel and Nell, taking turns in subsequent chapters. Nell is Carmel's daughter from a short fling her mother had with a student, while they were in their twenties. So we learn in part II, "Carmel". By then, Carmel had gotten rid of her father: hedied, after eloping from Ireland to the US and leaving wife and two daughters behind:  
   
 _Carmel turned to look at the American wife, who was three rows behind them, fumbling through the specially printed missalette. Because, as everyone in the church knew and no one knew how to say, Phil’s foreign divorce had been followed within weeks by a foreign marriage in New York’s City Hall. This fact was not mentioned by anyone on the altar, certainly not by the poet from Cork, though the priest shifted to a ‘special’ voice to say, ‘and all those Phil loved, including his dear friends across the pond’._  
   
 And her mother died from breast cancer, otherwise without much of a character. Carmel first has many boyfriends:  
->>>>>>> origin/gh-pages
   
 _MOST OF THE time, when Carmel slept with someone, it was because her period was due. She woke up one morning with a man in the bed and, when she went out to the bathroom, the blood was right there – as though he had poked it out of her. For which she was often grateful. So that’s what was going on. ‘Good morning!’ An odd bunch, over the years, her former lovers. You wouldn’t exactly invite them to the same party – or to any party, some of them – though she was a bit of an outlier herself, Carmel realised._  
   
@@ -94,10 +64,6 @@ _Phil spoke about bluebells, the difference of the American woods to the spongy 
   
 "She got sick."  Dear reader, observations all differ.  Memories all differ.  It doesn't mean much.  You try to puzzle history together, even if it is just your own life.  And try to understand, why did I take that decision in that moment?  Why did I hurt that person?  Was I right, or were they?  Am I right, or are they?  
   
-<<<<<<< HEAD
-"The wren, the wren" – the name of one of the poems of Phil – gives us a family saga, beautifully lived by Carmel and Nell.  Which daughter loves her mother, unconditionally?  Which mother can let her daughter go and see her experience the same pain she did?  Do parents repeatedly make the same choices?  History repeats itself, we all know that, we all live that, and we try to be the best parents we can in the meantime.  
-=======
 "The wren, the wren" -- the name of one of the poems of Phil -- gives us a family saga, beautifully lived by Carmel and Nell.  Which daughter loves her mother, unconditionally?  Which mother can let her daughter go and see her experience the same pain she did?  Do parents repeatedly make the same choices?  History repeats itself, we all know that, we all live that, and we try to be the best parents we can in the meantime.  
->>>>>>> origin/gh-pages
   
 Luckily, by definition we are.

@@ -1,9 +1,9 @@
----  
-date: 2024-07-05 22:17:21 +0200  
-blog: true  
-layout: post  
-title: how I made this blog  
----  
+---
+date: 2024-07-05 22:17:21 +0200
+blog: true
+layout: post
+title: how I made this blog
+---
 Published on **2024-07-05**.  
   
 I felt stupid to take so long a time to set up this blog.  The tech part, I mean. I did blogs before, but always using some CMS systems, or using own servers.  And knowing how vulnerable both approaches are, I decided to go mainstream and use github pages. Done that before, but always based on other people's templates, automations, etc.  

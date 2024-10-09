@@ -1,24 +1,24 @@
----  
-title: Hamnet  
-author: O'Farrell, Maggie  
-publisher: Hachette UK  
-publishDate: 2020-03-31  
-totalPage: 298  
-coverUrl: http://books.google.com/books/content?id=4hqdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=4hqdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: "'She's like no one I've ever met... She's like fire and water all at once.' Warwickshire, 1582. Agnes Hathaway, a natural healer, meets the Latin tutor, William Shakespeare. Drawn together by powerful but hidden impulses, they create a life together and make a family. As William moves to London to discover his place in the world of theatre, Agnes stays at home to raise their three children but she is the constant presence and purpose of his life. When the plague steals 11-year-old Hamnet from his loving parents, they must each confront their loss alone. And yet, out of the greatest suffering, something of extraordinary wonder is born. This new play based on Maggie O'Farrell's best-selling novel and adapted by award-winning playwright Lolita Chakrabarti (Life of Pi, Red Velvet, Hymn), pulls back a curtain on the imagined family life of the greatest writer in the English language. Hamnet is a love letter to passion, birth, grief and the magic of nature. This edition was published to coincide with the world premiere at the Swan Theatre, Stratford-upon-Avon, in April, 2023."  
-link: https://play.google.com/store/books/details?id=F6W6EAAAQBAJ  
-previewLink: http://books.google.com/books?id=F6W6EAAAQBAJ&printsec=frontcover&dq=Maggie+O%27Farrell,+Hamnet&hl=&as_pt=BOOKS&cd=4&source=gbs_api  
-isbn13: 9781350416581  
-isbn10: 1350416584  
-created: 2023-07-31T20:00:00  
-updated: 2024-08-09T19:25:56  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2020-08  
-rating: 8  
----  
+---
+title: Hamnet
+author: O'Farrell, Maggie
+publisher: Hachette UK
+publishDate: 2020-03-31
+totalPage: 298
+coverUrl: http://books.google.com/books/content?id=4hqdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=4hqdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: "'She's like no one I've ever met... She's like fire and water all at once.' Warwickshire, 1582. Agnes Hathaway, a natural healer, meets the Latin tutor, William Shakespeare. Drawn together by powerful but hidden impulses, they create a life together and make a family. As William moves to London to discover his place in the world of theatre, Agnes stays at home to raise their three children but she is the constant presence and purpose of his life. When the plague steals 11-year-old Hamnet from his loving parents, they must each confront their loss alone. And yet, out of the greatest suffering, something of extraordinary wonder is born. This new play based on Maggie O'Farrell's best-selling novel and adapted by award-winning playwright Lolita Chakrabarti (Life of Pi, Red Velvet, Hymn), pulls back a curtain on the imagined family life of the greatest writer in the English language. Hamnet is a love letter to passion, birth, grief and the magic of nature. This edition was published to coincide with the world premiere at the Swan Theatre, Stratford-upon-Avon, in April, 2023."
+link: https://play.google.com/store/books/details?id=F6W6EAAAQBAJ
+previewLink: http://books.google.com/books?id=F6W6EAAAQBAJ&printsec=frontcover&dq=Maggie+O%27Farrell,+Hamnet&hl=&as_pt=BOOKS&cd=4&source=gbs_api
+isbn13: 9781350416581
+isbn10: 1350416584
+created: 2023-07-31T20:00:00
+updated: 2024-08-09T19:25:56
+blog: true
+parent: book I've read
+layout: book
+read: 2020-08
+rating: 8
+---
   
 _Nobody knew. The story went that she had appeared one day, parting the brambles, stepping out of the green, twilit world, and from then on the farmer, who happened to be standing there, watching his sheep, could never look away from her. He picked the leaves from her hair and the snails from her skirts. He brushed the twigs and moss from her sleeves, bathed the mud from her feet. He took her into his house, fed her, clothed her, married her and, not long after, a baby girl was born to them._  
   

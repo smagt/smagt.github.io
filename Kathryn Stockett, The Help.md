@@ -1,25 +1,25 @@
----  
-title: The Help  
-subtitle:   
-author: Stockett, Kathryn  
-publisher: Penguin UK  
-publishDate: 2011-09-29  
-totalPage: 498  
-coverUrl: http://books.google.com/books/content?id=wsEXhw17prsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api  
-coverSmallUrl: http://books.google.com/books/content?id=wsEXhw17prsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api  
-description: "Film tie-in edition of the massive word-of-mouth hit novel, first published by Fig Tree in 2009 - to accompany the major new film starring Sissy Spacek, Allison Janney, Bryce Dallas Howard and Emma Stone. Enter a vanished and unjust world: Jackson, Mississippi, 1962. Where black maids raise white children, but aren't trusted not to steal the silver... There's Aibileen, raising her seventeenth white child and nursing the hurt caused by her own son's tragic death; Minny, whose cooking is nearly as sassy as her tongue; and white Miss Skeeter, home from College, who wants to know why her beloved maid has disappeared. Skeeter, Aibileen and Minny. No one would believe they'd be friends; fewer still would tolerate it. But as each woman finds the courage to cross boundaries, they come to depend and rely upon one another. Each is in search of a truth. And together they have an extraordinary story to tell... The other side of Gone with the Wind - and just as unputdownable Sunday Times A big, warm girlfriend of a book The Times Harper Lee's classic novel To Kill a Mockingbird has changed lives. Its direct descendent The Help has the same potential...an astonishing feat of accomplishment Daily Express"  
-link: https://books.google.com/books/about/The_Help.html?hl=&id=wsEXhw17prsC  
-previewLink: http://books.google.com/books?id=wsEXhw17prsC&printsec=frontcover&dq=the+help&hl=&as_pt=BOOKS&cd=8&source=gbs_api  
-isbn13: 9780141973326  
-isbn10: 141973323  
-blog: true  
-parent: book I've read  
-layout: book  
-read: 2024-07-25  
-rating: 9  
-created: 2024-07-25T18:36:48  
-updated: 2024-07-25T18:57:35  
----  
+---
+title: The Help
+subtitle: 
+author: Stockett, Kathryn
+publisher: Penguin UK
+publishDate: 2011-09-29
+totalPage: 498
+coverUrl: http://books.google.com/books/content?id=wsEXhw17prsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+coverSmallUrl: http://books.google.com/books/content?id=wsEXhw17prsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
+description: "Film tie-in edition of the massive word-of-mouth hit novel, first published by Fig Tree in 2009 - to accompany the major new film starring Sissy Spacek, Allison Janney, Bryce Dallas Howard and Emma Stone. Enter a vanished and unjust world: Jackson, Mississippi, 1962. Where black maids raise white children, but aren't trusted not to steal the silver... There's Aibileen, raising her seventeenth white child and nursing the hurt caused by her own son's tragic death; Minny, whose cooking is nearly as sassy as her tongue; and white Miss Skeeter, home from College, who wants to know why her beloved maid has disappeared. Skeeter, Aibileen and Minny. No one would believe they'd be friends; fewer still would tolerate it. But as each woman finds the courage to cross boundaries, they come to depend and rely upon one another. Each is in search of a truth. And together they have an extraordinary story to tell... The other side of Gone with the Wind - and just as unputdownable Sunday Times A big, warm girlfriend of a book The Times Harper Lee's classic novel To Kill a Mockingbird has changed lives. Its direct descendent The Help has the same potential...an astonishing feat of accomplishment Daily Express"
+link: https://books.google.com/books/about/The_Help.html?hl=&id=wsEXhw17prsC
+previewLink: http://books.google.com/books?id=wsEXhw17prsC&printsec=frontcover&dq=the+help&hl=&as_pt=BOOKS&cd=8&source=gbs_api
+isbn13: 9780141973326
+isbn10: 141973323
+blog: true
+parent: book I've read
+layout: book
+read: 2024-07-25
+rating: 9
+created: 2024-07-25T18:36:48
+updated: 2024-07-25T18:57:35
+---
   
 Walking through the city, I passed on of those public book shelves, I had time to spare, and decided to take a look. Not counting a Sendmail for Dummies, well that's really a bit ancient?, I found only two English books: Kahlil Gibran's The Prophet -- which I already read, years back, even when I forgot its contents -- and The Help. New to me, or rather, unknown to me.  
   
