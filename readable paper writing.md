@@ -6,9 +6,11 @@ layout: post
 date: 2024-07-30 22:06:21 +0200
 ---
   
+_This is the less technical counterpart of a living text on writing articles in LaTeX at https://github.com/smagt/LaTeX/blob/master/writingPapersInLaTeX.pdf_.   
+  
 # 1 technical writing  
   
-I am not a writer.  I don't know how to write well.  In fact, I'm not very good at it.  But... still I often notice things that are done wrong.  Often my opinion, but anyway: Here I want to point out some of these _opinions_.  
+I am not a writer.  I don't know how to write well. Indeed, I'm not very good at it.  But... I can read.  I often notice things that are done wrong.  Often my opinion, but anyway: Here I want to point out some of these _opinions_.  
   
 In this, of course, I am only talking about technical writing.  Textbooks, or papers, or such.  I don't know anything about writing literature.  I know a bit about reading literature, but _not_ about writing.  I tell you, I tried, and realised I am also not good at that. Even worse.  
   
