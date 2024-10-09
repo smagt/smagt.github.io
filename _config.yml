@@ -33,6 +33,7 @@ repository: smagt/smagt.github.io
 markdown: kramdown
 kramdown:
   input: GFM
+  mathjax: true
 
 
 # Build settings

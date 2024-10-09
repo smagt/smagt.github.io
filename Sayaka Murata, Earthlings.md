@@ -17,8 +17,6 @@ read: 2022-10
 rating: 7  
 ---  
   
-After [Sayaka Murata, Convenience Store Woman]({% link ./Sayaka%20Murata,%20Convenience%20Store%20Woman.md %}), I h  
-  
   
 After [Sayaka Murata, Convenience Store Woman](./Sayaka%20Murata,%20Convenience%20Store%20Woman.md), I had to get her other translated book.  And it's quite similar, in a way, but perhaps less gripping for me.  At the same time, it's a nightmare sequel to the previous one, from a dystopian society point of view.    
   
