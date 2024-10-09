@@ -1,19 +1,3 @@
-<<<<<<< HEAD
----  
-blog: true  
-layout: page  
-date: 2024-05-25 22:17:21 +0200  
-title: book I've read  
-nav_order: 1  
-has_children: true  
----  
-  
-Below is an incomplete list of books I have read in the last few years. I made notes of those books to aid my memory; before, it happened a few times that I unwillingly picked up a book again and then, towards the end of the book, noticed faint familiarity in its contents.   
-  
-These are all books I actually read, for my own entertainment.  I chose them because they won the booker prize, or I read a review of them somewhere, and decided to read them.  So yes, external influence, but sought out by myself.  And the reviews, as said, are for myself.  
-  
-Caveat lector: These are nothing close to _real_ reviews, such those published by newspapers as the Guardian, the FT, the New Yorker, etc.  Please read those to get a good impression of the book.  
-=======
 ---
 blog: true
 layout: page
@@ -28,4 +12,3 @@ Below is an incomplete list of books I have read in the last few years. I made n
 These are all books I actually read, for my own entertainment.  I chose them because they won or almost won the booker prize, or I read a review of them somewhere, or found them on the street; and decided to read them.  So yes, external influence, but sought out by myself.  And the reviews, as said, are for myself.  
   
 Caveat lector: These are nothing close to _real_ reviews, such those published by newspapers as the Guardian, the FT, the New Yorker, etc.  Please read those to get a good impression of the book.  In these reviews I am way too biased and whimsical to take seriously.  
->>>>>>> origin/gh-pages
