@@ -182,8 +182,8 @@ This sentence is too long, contains many superfluous words, and says very little
 - after: _Surface EMG is often used to diagnose neuromuscular disorders as well as brain-machine interface._  
   
 And a last one, this time another suggestion from Jan Peters:  
-- before: _in $$E=mc^2$$ where $$E$$ denotes energy, $$m$$ is mass and $$c$$ is the speed of light_   
-- after: _in $$E=mc^2$$ with energy $$E$$, mass $$m$$ and speed of light $$c$$_  
+- before: _in $E=mc^2$ where $E$ denotes energy, $m$ is mass and $c$ is the speed of light_   
+- after: _in $E=mc^2$ with energy $E$, mass $m$ and speed of light $c$_  
   
 I agree that this improves readability a lot.  
   
