@@ -6,7 +6,7 @@ layout: post
 date: 2024-07-30 22:06:21 +0200
 ---
   
-_This is the less technical counterpart of a living text on writing articles in LaTeX at [https://github.com/smagt/LaTeX/blob/master/writingPapersInLaTeX.pdf](https://github.com/smagt/LaTeX/blob/master/writingPapersInLaTeX.pdf)__.  
+_This is the less technical counterpart of a living text on writing articles in LaTeX at [https://github.com/smagt/LaTeX/blob/master/writingPapersInLaTeX.pdf](https://github.com/smagt/LaTeX/blob/master/writingPapersInLaTeX.pdf)_.  
   
 # 1 technical writing  
   
