@@ -61,4 +61,4 @@ It ends well: they split up. Both devastated, in a way. But each in one piece. I
   
 _If only there was a cure, a cure for love. Did he open up an old wound so that the infection could pour out, be released at last, so that the wound could be cleaned, rinsed repeatedly with disinfectant, with stinging fluid, right down to the bloody, open sore, the pus drained, no matter how much it hurt so that love could finally die? Because love dies like books die, they are created and live their lives, short or long, and then they die as all living things must die; doomed to die because without death, there is no life and without death, no love either._  
   
-For me, I loved this book.  
+Me, I loved this book.  
