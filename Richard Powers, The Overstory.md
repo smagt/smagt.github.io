@@ -1,6 +1,6 @@
 ---
 title: "The Overstory: A Novel"
-subtitle: 
+subtitle:
 author: Powers, Richard
 publisher: W. W. Norton & Company
 publishDate: 2018-04-03

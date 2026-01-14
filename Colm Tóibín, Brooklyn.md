@@ -5,7 +5,7 @@ publishDate: 2015
 totalPage: 304
 coverUrl: http://books.google.com/books/content?id=-7AdjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=-7AdjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
-description: 
+description:
 link: https://books.google.com/books/about/Brooklyn.html?hl=&id=-7AdjgEACAAJ
 previewLink: http://books.google.com/books?id=-7AdjgEACAAJ&dq=brooklyn&hl=&as_pt=BOOKS&cd=19&source=gbs_api
 isbn10: 3423086491
