@@ -20,4 +20,4 @@ I am tempted to say, the book is very Russian; shows a lot about Russian culture
   
 I enjoyed reading it, or more, I enjoyed having read it. Sometimes a bit too despondent; the women a bit too literary, too similar: self-sacrifice, suffering, yet strong. Very gender-structured. Not bad, but also a bit dimensionless from a 1.5 century later standpoint. (Am I allowed to criticise such an author? Probably no.) Of course, the main protagonist of the novel, Raskolnikov, also demonstrates well that life is not a picnic.    
   
-But the book made me more interested in the background of the story, and of course of the author.  So the recent book [Kevin Birmingham, The sinner and the saint](./Kevin%20Birmingham,%20The%20sinner%20and%20the%20saint.md) came in handy.
+But the book made me more interested in the background of the story, and of course of the author.  So the recent book [Kevin Birmingham, The sinner and the saint](kevin-birmingham-the-sinner-and-the-saint.md) came in handy.

@@ -1,6 +1,6 @@
 ---
 title: Tokyo Express
-subtitle: 
+subtitle:
 author: Matsumoto, Seicho
 authors: Seicho Matsumoto, Jesse Kirkwood
 publisher: Penguin UK

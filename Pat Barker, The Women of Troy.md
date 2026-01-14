@@ -18,7 +18,7 @@ read: 2023-02
 rating: 10
 ---
   
-After reading [Pat Barker, The Silence of the Girls](./Pat%20Barker,%20The%20Silence%20of%20the%20Girls.md), which a dear friend pointed out to me recently, I decided to go on with the fun ride and reread this book.  
+After reading [Pat Barker, The Silence of the Girls](pat-barker-the-silence-of-the-girls.md), which a dear friend pointed out to me recently, I decided to go on with the fun ride and reread this book.  
   
 And it's still beautiful. Even more so, since I could place the whole story and characters much, much better now.  
   
@@ -40,4 +40,4 @@ The burial of Priam comes, and Briseis observes Achilles'/Pyrrhus' fighters: *My
   
 I can see a third book coming. On how the Troy women, now slaves, including Briseis' return to Greece. Troy, I looked it up for you, was in the north-west of current Turkey, some 300km south of Constantinople (Istanbul).  
   
-I just hope that Pat Barker sees that third book, too. (Spoiler: after writing this sentence I checked, and indeed!  [The Voyage Home](./Pat%20Barker,%20The%20Voyage%20Home.md), number 3 in the series, is expected in August 2024.)
+I just hope that Pat Barker sees that third book, too. (Spoiler: after writing this sentence I checked, and indeed!  [The Voyage Home](pat-barker-the-voyage-home.md), number 3 in the series, is expected in August 2024.)

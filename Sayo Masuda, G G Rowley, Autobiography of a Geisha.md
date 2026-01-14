@@ -17,7 +17,7 @@ read: 2023-09
 rating: 9
 ---
   
-This book is often compared with Arthur Golden's [Memoirs of a Geisha](./Arthur%20Golden,%20Memoirs%20of%20a%20Geisha.md). And for a good reason: the topics are almost identical; the narratives are very similar.  
+This book is often compared with Arthur Golden's [Memoirs of a Geisha](arthur-golden-memoirs-of-a-geisha.md). And for a good reason: the topics are almost identical; the narratives are very similar.  
   
 But this book has one important different aspect: contrary to Golden's book, the genuineness of which is sometimes doubted, this is a real autobiography.  
   

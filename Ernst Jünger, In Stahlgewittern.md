@@ -1,6 +1,6 @@
 ---
 title: In Stahlgewittern
-subtitle: 
+subtitle:
 author: Jünger, Ernst
 totalPage: 224
 publishDate: 1920

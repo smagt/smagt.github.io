@@ -15,7 +15,7 @@ read: 2021-03
 rating: 8
 ---
   
-"The Enchanter" by Vladimir Nabokov is a novella written in Russian in 1939 but published posthumously in 1986. It is often considered a precursor to Nabokov's more famous novel [Lolita](./Vladimir%20Nabokov,%20Lolita.md).  
+"The Enchanter" by Vladimir Nabokov is a novella written in Russian in 1939 but published posthumously in 1986. It is often considered a precursor to Nabokov's more famous novel [Lolita](vladimir-nabokov-lolita.md).  
   
 The story revolves around an unnamed, middle-aged man who becomes obsessively predating on a twelve-year-old girl. Driven by his uncontrollable desires, he marries the girl's ailing mother to gain access to her. After the mother dies, he takes the girl on a trip, intending to act on his fantasies.   
   

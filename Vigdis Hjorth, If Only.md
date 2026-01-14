@@ -1,6 +1,6 @@
 ---
 title: If Only
-subtitle: 
+subtitle:
 author: Hjorth, Vigdis
 authors: Vigdis Hjorth
 category: Fiction
