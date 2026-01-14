@@ -62,7 +62,7 @@ These are the settings I found working for me.  I refer to the tabs of the setti
 1. under _Github Config_, set the main branch to `gh-pages` and set 'Automatically merge pull requests' on.  
 2. under _File Paths_, set auto clean up and self-cleaning of attachments on  
 3. under _Content_, define the following replacements in Text Replacer: `/<yourhandle>.github.io\/assets/` to/assets` and `/./assets/` to `/assets`.  This is needed to make figures work.  
-4. also under _Content_, switch on `[Wikilinks](Wikilinks.md) to [MDlinks](links)` and `Internal Links`  
+4. also under _Content_, switch on `[Wikilinks](wikilinks.md) to [MDlinks](links)` and `Internal Links`  
 5. under _Attachments & Embeds_, in Override Attachment Paths, set replace text `/.*<yourhandle>.github.io\/(.*)/` to `$1`.   
 6. also under _Attachments & Embeds_, select Send linked files, Transfer attachments, Structure, and Transfer embedded notes.  
   
