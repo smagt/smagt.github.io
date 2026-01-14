@@ -1,6 +1,6 @@
 ---
 title: The Help
-subtitle: 
+subtitle:
 author: Stockett, Kathryn
 publisher: Penguin UK
 publishDate: 2011-09-29
