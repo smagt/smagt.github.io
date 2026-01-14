@@ -2,7 +2,7 @@
 blog: true
 layout: page
 date: 2024-05-25 22:17:21 +0200
-title: book I've read
+title: books I've read
 nav_order: 1
 has_children: true
 ---
