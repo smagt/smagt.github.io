@@ -1,6 +1,6 @@
 ---
 title: The Factory
-subtitle: 
+subtitle:
 author: Oyamada, Hiroko
 category: Fiction
 categories: Fiction
