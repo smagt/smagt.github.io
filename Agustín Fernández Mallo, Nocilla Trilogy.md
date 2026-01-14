@@ -1,13 +1,13 @@
 ---
 title: Nocilla Trilogy
-subtitle: 
+subtitle:
 author: Mallo, Agustín Fernández
 authors: Agustín Fernández Mallo
-category: 
-categories: 
-publisher: 
+category:
+categories:
+publisher:
 publishDate: 2022-05-18
-totalPage: 
+totalPage:
 coverUrl: http://books.google.com/books/content?id=UnPrzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=UnPrzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
 description: A landmark in contemporary Spanish literature, Agustín Fernández Mallo's Nocilla Trilogy charts a hidden and exhilarating cartography of contemporary experience.
@@ -70,6 +70,6 @@ This part of the book, the main character of that part, and the owner of the hot
   
 The book ends with a comic of an author, who wants to escape life, on an oil rig.  
   
-My verdict on this book? A friend whom I love much put it to my attention, and it was, indeed, an experience. But after having finished the first two books, I put it aside for a while and read a few other books ([Laura Pearson, The Last List of Mabel Beaumont](./Laura%20Pearson,%20The%20Last%20List%20of%20Mabel%20Beaumont.md); [Jenni Keer, No 23 Burlington Square](./Jenni%20Keer,%20No%2023%20Burlington%20Square.md); [Pat Barker, The Voyage Home](./Pat%20Barker,%20The%20Voyage%20Home.md)), and the joy of especially the last one gave me the courage to return here and finish this trilogy quickly.    
+My verdict on this book? A friend whom I love much put it to my attention, and it was, indeed, an experience. But after having finished the first two books, I put it aside for a while and read a few other books ([Laura Pearson, The Last List of Mabel Beaumont](laura-pearson-the-last-list-of-mabel-beaumont.md); [Jenni Keer, No 23 Burlington Square](jenni-keer-no-23-burlington-square.md); [Pat Barker, The Voyage Home](pat-barker-the-voyage-home.md)), and the joy of especially the last one gave me the courage to return here and finish this trilogy quickly.    
   
 It's a piece of art, deserves a place in a museum. My takeaway message was limited. It's one of those books I should reread -- but never will, I fear. If you want to get a good idea of the trilogy, I recommend [this beautiful review](https://lareviewofbooks.org/article/apocalyptic-aesthetic-on-agustin-fernandez-mallos-the-nocilla-trilogy/).  
