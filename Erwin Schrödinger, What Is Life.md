@@ -1,6 +1,6 @@
 ---
 title: What Is Life?
-subtitle: 
+subtitle:
 author: Schrödinger, Erwin
 publishDate: 1944
 coverUrl: http://books.google.com/books/content?id=fEq8oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
