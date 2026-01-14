@@ -1,6 +1,6 @@
 ---
 title: A Lie Someone Told You About Yourself
-subtitle: 
+subtitle:
 author: Ho Davies, Peter
 category: Fiction
 publisher: Hachette UK
