@@ -21,7 +21,7 @@ read: 2020-02
 rating: 9
 ---
   
-[The Handmaid's Tale](margaret-atwood-the-handmaids-tale.md) and The Testaments are similar, or rather, together form one story: the fall of the Gilead society. More than fifteen years after The Handmaid's Tale, the theocratic regime of the Republic of Gilead begins to rot from within. At this crucial moment, the lives of three radically different women converge, with potentially explosive results.   
+[The Handmaid's Tale](Margaret Atwood, The Handmaid's Tale.md) and The Testaments are similar, or rather, together form one story: the fall of the Gilead society. More than fifteen years after The Handmaid's Tale, the theocratic regime of the Republic of Gilead begins to rot from within. At this crucial moment, the lives of three radically different women converge, with potentially explosive results.   
   
 The story is told by Aunt Lydia, whom one could have known from the previous novel; Agnes, a young woman living in Gilead; and Daisy, a young woman living in Canada. The latter have grown up as part of the first generation to come of age in the new order. The testimonies of these two young women are joined by a third: Aunt Lydia.   
   

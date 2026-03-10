@@ -20,7 +20,7 @@ read: 2021-09
 rating: 8
 ---
   
-Following up on [Nervous Conditions](tsitsi-dangarembga-nervous-conditions.md), this book also baffles.  Again Rhodesia, and the civil war is raging in the country.  Some family members get hurt, but Tambu is away in her convent, in school, and failing to reach her self-set academic goals.  That makes her life dreams fall apart, very slowly.    
+Following up on [Nervous Conditions](Tsitsi Dangarembga, Nervous Conditions.md), this book also baffles.  Again Rhodesia, and the civil war is raging in the country.  Some family members get hurt, but Tambu is away in her convent, in school, and failing to reach her self-set academic goals.  That makes her life dreams fall apart, very slowly.    
   
 To me it was unclear if this was because of herself, or rather – as I suspected – of the apartheid ruling in the country.  The reader never knows, and Tambu never really wonders.    
   

@@ -19,7 +19,7 @@ read: 2023-08
 rating: 10
 ---
   
-This is, in various ways, the prequel of [Pat Barker, The Women of Troy](pat-barker-the-women-of-troy.md).  
+This is, in various ways, the prequel of [Pat Barker, The Women of Troy](Pat Barker, The Women of Troy.md).  
   
 Again, the story of the Iliad (Ilium = Troy) by Homer. Written by "Homer" in the 8th century BC, so 3000 years ago give or take a few centuries. (Quoting from Wikipedia, copied in October 2023) _Set towards the end of the [Trojan War](https://en.wikipedia.org/wiki/Trojan_War "Trojan War"), a ten-year [siege](https://en.wikipedia.org/wiki/Siege "Siege") of the city of [Troy](https://en.wikipedia.org/wiki/Troy "Troy") by a coalition of [Mycenaean Greek](https://en.wikipedia.org/wiki/Mycenaean_Greece "Mycenaean Greece") states, the poem depicts significant events in the siege's final weeks. In particular, it depicts a fierce quarrel between King [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon "Agamemnon") and a celebrated warrior, [Achilles](https://en.wikipedia.org/wiki/Achilles "Achilles")._  
   

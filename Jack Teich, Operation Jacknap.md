@@ -22,7 +22,7 @@ rating: 8
 read: 2024-09-15
 ---
   
-[Taffy Brodesser-Akner, Long Island Compromise](taffy-brodesser-akner-long-island-compromise.md) was the reason for me to pick up this book. After I learned that that book was inspired by this, I knew I had to go back to the source.  
+[Taffy Brodesser-Akner, Long Island Compromise](Taffy Brodesser-Akner, Long Island Compromise.md) was the reason for me to pick up this book. After I learned that that book was inspired by this, I knew I had to go back to the source.  
   
 Jack Teich was the real Long Island "millionaire" who got kidnapped. And after many decades of coming to terms what happened to him during and after his abduction in 1974, he published his own version of the story in 2020.    
   

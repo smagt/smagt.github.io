@@ -24,6 +24,6 @@ Atticus Finch is a hero. His sense of justice, integrity, empathy, moral clarity
   
 It has been called the "best book ever."  Well, that's like saying that Bach was the best composer ever. Or van Beethoven. Still, it is on the list of books one must read, somewhere along one's life.  
   
-To Kill A Mockingbird features somewhat prominently in more recent read of mine, [The Help](kathryn-stockett-the-help.md), where it is mentioned as a must-read anyone on the right side of racial injustice.   
+To Kill A Mockingbird features somewhat prominently in more recent read of mine, [The Help](Kathryn Stockett, The Help.md), where it is mentioned as a must-read anyone on the right side of racial injustice.   
   
 I'll shut op here.  Don't read me; read Harper Lee.

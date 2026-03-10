@@ -18,7 +18,7 @@ layout: book
 rating: 8
 ---
   
-After having read [Shuggy Bain](douglas-stuart-shuggie-bain.md), a year or two ago, I was fearful starting this one.  Again a drunk mother, 3 kids, one of whom drifts off in violence, one who tries to keep the bunch together, and one who drifts off – previously Shuggy, here Mungo.  So, what else could be new in yet another novel about Glasgow in the Thatcher era?  
+After having read [Shuggy Bain](Douglas Stuart, Shuggie Bain.md), a year or two ago, I was fearful starting this one.  Again a drunk mother, 3 kids, one of whom drifts off in violence, one who tries to keep the bunch together, and one who drifts off – previously Shuggy, here Mungo.  So, what else could be new in yet another novel about Glasgow in the Thatcher era?  
   
 Well, everything.  Forget the previous book, this is the same yet totally different.  Mungo grows up towards a homosexual relationship, and is abused by just about everyone because of it.  
   
