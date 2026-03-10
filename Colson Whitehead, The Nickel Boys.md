@@ -18,7 +18,7 @@ layout: book
 rating: 8
 ---
   
-Colson Whitehead wrote two Pulitzer Prize novels: [Colson Whitehead, The Underground Railroad](colson-whitehead-the-underground-railroad.md), and this one.  
+Colson Whitehead wrote two Pulitzer Prize novels: [Colson Whitehead, The Underground Railroad](./Colson%20Whitehead,%20The%20Underground%20Railroad.md.md), and this one.  
   
 This is a story about a black boy who's unlucky in the US of the 1950s--1970s.   A book with a surprising, beautiful and sad, ending.  In which all's right and all's wrong at the same time. Based on the true (and gruesome) story of the Nickel school, where boys were abused and killed.  
   
