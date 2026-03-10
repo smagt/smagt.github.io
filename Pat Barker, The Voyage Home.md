@@ -22,7 +22,7 @@ rating: 9
 read: 2024-08-31
 ---
   
-After [The Silence of the Girls](pat-barker-the-silence-of-the-girls.md) and [The Women of Troy](pat-barker-the-women-of-troy.md), both of which I liked tremendously, Barker finishes (?) her trilogy (?) with the story of how Agamemnon goes home to Greece with his concubine, or new wife, Cassandra, the oldest unmarried daughter of king Priam -- who was slaughtered in Troy, of course, as all other born and unborn men.  
+After [The Silence of the Girls](./Pat%20Barker,%20The%20Silence%20of%20the%20Girls.md.md) and [The Women of Troy](./Pat%20Barker,%20The%20Women%20of%20Troy.md.md), both of which I liked tremendously, Barker finishes (?) her trilogy (?) with the story of how Agamemnon goes home to Greece with his concubine, or new wife, Cassandra, the oldest unmarried daughter of king Priam -- who was slaughtered in Troy, of course, as all other born and unborn men.  
   
 How to figure out if an unborn is male?  Don't take a chance.  
   
