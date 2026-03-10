@@ -13,7 +13,7 @@ isbn10: 1526633930
 created: 2023-07-31T20:00:00
 updated: 2024-05-29T21:11:49
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-06
 rating: 9

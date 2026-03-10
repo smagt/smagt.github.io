@@ -6,7 +6,7 @@ pages: 281
 created: 2023-09-01T19:15:49
 updated: 2023-10-21T21:38:33
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-07
 rating: 10

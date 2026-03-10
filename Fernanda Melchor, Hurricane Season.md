@@ -13,7 +13,7 @@ isbn10: 811228045
 created: 2023-07-31T20:53
 updated: 2023-10-21T21:33:10+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-08
 rating: 4

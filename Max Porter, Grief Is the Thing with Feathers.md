@@ -12,7 +12,7 @@ previewLink: http://books.google.nl/books?id=C9mCCgAAQBAJ&printsec=frontcover&dq
 isbn13: 9780571323777
 isbn10: 571323774
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-10
 rating: 8

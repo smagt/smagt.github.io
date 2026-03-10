@@ -10,7 +10,7 @@ isbn13: 9780190660574
 created: 2023-07-31T20:00:00
 updated: 2023-12-25T21:43:45
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-07
 rating: 7

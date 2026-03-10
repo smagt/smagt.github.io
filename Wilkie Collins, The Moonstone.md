@@ -9,7 +9,7 @@ previewLink: http://books.google.com/books?id=MCceAQAAIAAJ&q=Wilkie+Collins,+The
 created: 2023-07-31T20:44
 updated: 2023-10-21T22:25:44+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-05
 rating: 8

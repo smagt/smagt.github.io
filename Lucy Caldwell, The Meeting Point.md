@@ -12,7 +12,7 @@ isbn10: 571270549
 created: 2023-07-31T21:29
 updated: 2023-12-24T19:20:03+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 6

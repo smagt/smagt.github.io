@@ -14,7 +14,7 @@ isbn13: ‎9781846685682
 created: 2023-07-31T20:00:00
 updated: 2023-12-25T21:47:11
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 "read:": 2020-06
 "rating:": 8

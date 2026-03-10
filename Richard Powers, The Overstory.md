@@ -15,7 +15,7 @@ isbn10: 393635538
 created: 2023-07-31T20:57
 updated: 2023-10-21T22:57:12+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-09
 rating: 5

@@ -14,7 +14,7 @@ previewLink: http://books.google.co.uk/books?id=ZHlezgEACAAJ&dq=fifty+shades+of+
 isbn10: 804172072
 isbn13: 9780804172073
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-06
 rating: 6

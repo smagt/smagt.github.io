@@ -14,7 +14,7 @@ isbn13: 9781474613521
 isbn10: 1474613527
 created: 2023-08-27T13:29:43
 updated: 2023-10-23T09:02:33+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-06
 rating: 7

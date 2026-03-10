@@ -13,7 +13,7 @@ isbn13: 9780008138301
 created: 2023-07-30T21:00:00
 updated: 2024-07-07T16:54:10
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-08
 rating: 5

@@ -10,7 +10,7 @@ isbn13: 9789025451578
 isbn10: 9025451578
 created: 2023-08-27T13:29
 updated: 2023-10-21T21:20:00+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-05
 rating: 10

@@ -14,7 +14,7 @@ isbn10: 1400095204
 created: 2023-07-31T21:00:00
 updated: 2024-07-27T20:10:15
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 "read:": 2021-07
 "rating:": 7

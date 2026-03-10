@@ -15,7 +15,7 @@ previewLink: http://books.google.es/books?id=WkHUEAAAQBAJ&pg=PT123&dq=Hiriko+oya
 isbn13: 9781803510583
 isbn10: 1803510587
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 read: 2024-03-12

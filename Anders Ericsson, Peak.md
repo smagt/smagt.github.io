@@ -15,7 +15,7 @@ isbn10: 544456254
 created: 2023-07-31T20:47
 updated: 2023-10-21T21:19:09+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-05
 rating: 8

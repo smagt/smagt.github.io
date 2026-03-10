@@ -12,7 +12,7 @@ previewLink: http://books.google.com/books?id=iIiIEAAAQBAJ&printsec=frontcover&d
 created: 2023-07-31T21:44
 updated: 2023-10-21T21:43:38+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-04
 rating: 7

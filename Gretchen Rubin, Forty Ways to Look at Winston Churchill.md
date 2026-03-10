@@ -16,7 +16,7 @@ isbn13: 9781588363848
 isbn10: 1588363848
 created: 2023-10-05T12:33:21
 updated: 2023-12-23T21:02:53+01:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-10
 rating: 9

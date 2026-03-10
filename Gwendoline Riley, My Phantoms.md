@@ -11,7 +11,7 @@ isbn13: 9781783783281
 isbn10: 1783783281
 created: 2023-09-01T19:11:32
 updated: 2023-10-21T21:38:12
-parent: book I've read
+parent: books I've read
 blog: true
 layout: book
 read: 2021-10

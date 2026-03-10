@@ -9,7 +9,7 @@ link: https://books.google.com/books/about/Mijn_lieve_gunsteling.html?hl=&id=lCd
 previewLink: http://books.google.com/books?id=lCdbzwEACAAJ&dq=mijn+lieve+gunsteling&hl=&as_pt=BOOKS&cd=2&source=gbs_api
 isbn10: 9025472621
 isbn13: 9789025472627
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 8
 read: 2024-02

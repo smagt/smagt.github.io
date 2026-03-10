@@ -12,7 +12,7 @@ previewLink: http://books.google.com/books?id=vQ9akeahkCgC&printsec=frontcover&d
 isbn13: 9781848945036
 isbn10: 1848945035
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 ---

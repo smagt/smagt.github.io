@@ -13,7 +13,7 @@ isbn10: 374606188
 created: 2023-07-30T21:30
 updated: 2023-10-21T21:23:39+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-06
 rating: 7

@@ -12,7 +12,7 @@ previewLink: http://books.google.com/books?id=adp8EAAAQBAJ&pg=PT219&dq=elaine+fe
 isbn13: 9781529193954
 isbn10: 1529193958
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 6
 read: 2023-11

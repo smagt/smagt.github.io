@@ -14,7 +14,7 @@ isbn10: 399576185
 created: 2023-07-31T21:12
 updated: 2023-12-24T21:30:45+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-09
 rating: 6

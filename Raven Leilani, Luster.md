@@ -13,7 +13,7 @@ isbn10: 1529036011
 created: 2023-07-31T21:07
 updated: 2023-10-21T22:19:11+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-07
 rating: 9

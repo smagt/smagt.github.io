@@ -13,7 +13,7 @@ previewLink: http://books.google.com/books?id=PpJYDgAAQBAJ&printsec=frontcover&d
 isbn13: 9780393634563
 isbn10: 393634566
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-11
 rating: 10

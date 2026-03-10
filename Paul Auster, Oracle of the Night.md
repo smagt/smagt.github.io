@@ -14,7 +14,7 @@ isbn10: 1429900075
 created: 2023-07-31T21:01
 updated: 2023-12-24T22:17:06+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-03
 rating: 8

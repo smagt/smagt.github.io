@@ -14,7 +14,7 @@ isbn10: 1350416584
 created: 2023-07-31T20:00:00
 updated: 2024-08-09T19:25:56
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-08
 rating: 8

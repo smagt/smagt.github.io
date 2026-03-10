@@ -11,7 +11,7 @@ isbn10: 670095419
 isbn13: 9780670095414
 created: 2023-08-27T13:29:43
 updated: 2023-10-21T21:17:21+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-07
 rating: 9

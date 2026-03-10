@@ -12,7 +12,7 @@ previewLink: http://books.google.com/books?id=PW3qDwAAQBAJ&printsec=frontcover&d
 isbn13: 9781451642308
 isbn10: 145164230X
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-08
 rating: 8

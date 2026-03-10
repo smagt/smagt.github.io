@@ -13,7 +13,7 @@ link: https://play.google.com/store/books/details?id=n4uXEAAAQBAJ
 previewLink: http://books.google.com/books?id=n4uXEAAAQBAJ&printsec=frontcover&dq=hideo+yokoyama&hl=&as_pt=BOOKS&cd=8&source=gbs_api
 isbn13: 9781529411157
 isbn10: 1529411157
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-12
 rating: 8

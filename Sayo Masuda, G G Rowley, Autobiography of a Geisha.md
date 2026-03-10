@@ -11,7 +11,7 @@ isbn13: 9780231129510
 created: 2023-08-27T11:20
 updated: 2023-10-21T22:11:10+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-09
 rating: 9

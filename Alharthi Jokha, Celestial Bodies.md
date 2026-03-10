@@ -13,7 +13,7 @@ previewLink: http://books.google.com/books?id=TIXiSJzvhIAC&q=Alharthi+Jokha,+Cel
 created: 2023-07-31T21:01
 updated: 2023-10-21T22:26:22+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-03
 rating: 7

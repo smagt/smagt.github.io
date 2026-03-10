@@ -13,7 +13,7 @@ previewLink: http://books.google.com/books?id=UY0Lf65bm5wC&printsec=frontcover&d
 isbn13: 9780062096968
 isbn10: 62096966
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rate: 7
 read: 2024-05-22

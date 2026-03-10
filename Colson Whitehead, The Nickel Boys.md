@@ -12,7 +12,7 @@ isbn10: 385537077
 created: 2023-08-28T11:35:16
 updated: 2024-07-09T22:13:55
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 "read:": 2020-07
 rating: 8

@@ -11,7 +11,7 @@ previewLink: http://books.google.com/books?id=fOedDwAAQBAJ&pg=PT121&dq=the+ten+l
 isbn13: 9781846277023
 isbn10: 1846277027
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 read: 2024-05

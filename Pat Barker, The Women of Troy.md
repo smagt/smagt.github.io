@@ -12,7 +12,7 @@ isbn13: 9780385546690
 isbn10: 385546696
 created: 2023-07-31T21:36
 updated: 2023-10-21T22:20:36+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 10

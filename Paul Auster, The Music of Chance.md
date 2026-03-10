@@ -12,7 +12,7 @@ isbn10: 571266797
 created: 2023-07-31T21:05
 updated: 2023-12-24T20:18:59+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-07
 rating: 7

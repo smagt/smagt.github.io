@@ -10,7 +10,7 @@ isbn13: 9789059652415
 created: 2023-07-31T21:32
 updated: 2023-10-21T22:03:54+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 4

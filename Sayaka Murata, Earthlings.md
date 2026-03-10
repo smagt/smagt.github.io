@@ -13,7 +13,7 @@ isbn10: 802157017
 isbn13: 9780802157010
 created: 2023-07-31T21:23
 updated: 2023-10-21T22:11:17+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-10
 rating: 7

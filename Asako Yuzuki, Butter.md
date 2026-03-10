@@ -12,7 +12,7 @@ link: https://play.google.com/store/books/details?id=pZnLEAAAQBAJ
 previewLink: http://books.google.es/books?id=pZnLEAAAQBAJ&printsec=frontcover&dq=Asako+Yuzuki,+Butter&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn13: 9780008511692
 isbn10: 8511691
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 read: 2024-04-02

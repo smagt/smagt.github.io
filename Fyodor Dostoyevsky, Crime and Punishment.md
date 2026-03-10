@@ -9,7 +9,7 @@ link: https://books.google.com/books/about/Crime_and_Punishment.html?hl=&id=nVGK
 created: 2023-07-31T21:19
 updated: 2023-10-21T21:33:41+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-03
 ---

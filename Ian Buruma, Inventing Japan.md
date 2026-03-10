@@ -14,7 +14,7 @@ isbn10: 1588362825
 created: 2023-07-31T21:24
 updated: 2023-10-21T21:42:18+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-10
 rating: 7

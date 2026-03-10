@@ -15,7 +15,7 @@ previewLink: http://books.google.de/books?id=7zrOEAAAQBAJ&pg=PT150&dq=no+23+burl
 isbn13: 9781785139543
 isbn10: 1785139541
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-08-26
 rating: 7

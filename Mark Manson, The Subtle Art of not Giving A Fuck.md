@@ -13,7 +13,7 @@ isbn13: 9780369319692
 created: 2023-07-30T21:39
 updated: 2023-09-18T08:11
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-08
 rating: 6

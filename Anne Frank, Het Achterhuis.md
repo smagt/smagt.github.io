@@ -8,7 +8,7 @@ previewLink: http://books.google.com/books?id=sTbTMgEACAAJ&dq=anne+frank,+het+ac
 created: 2023-08-27T21:47
 updated: 2023-10-21T21:21:45+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-10
 rating: 10

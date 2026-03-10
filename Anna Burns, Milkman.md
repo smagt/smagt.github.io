@@ -12,7 +12,7 @@ isbn10: 8899911509
 isbn13: 9788899911508
 created: 2023-07-31T21:38
 updated: 2023-10-21T21:21:14+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-03
 rating: 10

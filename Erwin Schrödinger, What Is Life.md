@@ -11,7 +11,7 @@ previewLink: http://books.google.com/books?id=fEq8oQEACAAJ&dq=what+is+life&hl=&a
 isbn10: 1299707831
 isbn13: 9781299707832
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 read: 2024-06

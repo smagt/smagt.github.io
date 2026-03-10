@@ -12,7 +12,7 @@ link: https://play.google.com/store/books/details?id=4djICT7zgGoC
 previewLink: http://books.google.com/books?id=4djICT7zgGoC&printsec=frontcover&dq=david+crystal&hl=&as_pt=BOOKS&cd=35&source=gbs_api
 isbn13: 9781847654595
 isbn10: 1847654592
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-07
 rating: 9

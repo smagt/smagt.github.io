@@ -12,7 +12,7 @@ isbn10: 1407065432
 created: 2023-07-31T20:47
 updated: 2023-12-24T21:11:33+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-05
 rating: 4

@@ -6,7 +6,7 @@ link: https://books.google.com/books/about/Lord_Arthur_Savile_s_Crime_The_Portra
 previewLink: http://books.google.com/books?id=XD7lzQEACAAJ&dq=lord+saville+crime&hl=&as_pt=BOOKS&cd=5&source=gbs_api
 isbn13: 9798692669780
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 read: 2024-04-11

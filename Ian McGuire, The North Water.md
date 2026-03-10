@@ -11,7 +11,7 @@ isbn10: 1471151271
 created: 2023-09-01T19:22:52
 updated: 2024-08-09T18:30:13
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-09
 rating: 8

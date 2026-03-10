@@ -15,7 +15,7 @@ isbn10: 385543794
 created: 2023-08-25T17:50
 updated: 2023-12-24T21:25:39+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-02
 rating: 9

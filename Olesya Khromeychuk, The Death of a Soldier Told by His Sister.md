@@ -13,7 +13,7 @@ link: https://play.google.com/store/books/details?id=ECB1EAAAQBAJ
 previewLink: http://books.google.com/books?id=ECB1EAAAQBAJ&printsec=frontcover&dq=Khromeychuk&hl=&as_pt=BOOKS&cd=6&source=gbs_api
 isbn13: 9781800961197
 isbn10: 1800961197
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 7
 read: 2023-10

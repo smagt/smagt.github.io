@@ -13,7 +13,7 @@ isbn10: 241988861
 created: 2023-08-28T11:29
 updated: 2023-10-21T21:23:27+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-08
 rating: 7

@@ -13,7 +13,7 @@ isbn13: 9780525520344
 isbn10: 525520341
 created: 2023-07-31T21:34
 updated: 2023-10-21T21:55:58+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 8

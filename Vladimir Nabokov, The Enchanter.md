@@ -9,7 +9,7 @@ previewLink: http://books.google.com/books?id=6wx8AAAAIAAJ&q=Vladimir+Nabokov,+T
 created: 2023-07-31T21:04
 updated: 2023-10-21T22:25:37+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-03
 rating: 8

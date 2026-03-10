@@ -10,7 +10,7 @@ isbn10: 3518390511
 isbn13: 9783518390511
 created: 2023-07-31T21:19
 updated: 2023-10-21T21:57:54+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-03
 rating: 10

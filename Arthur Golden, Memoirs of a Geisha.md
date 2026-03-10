@@ -12,7 +12,7 @@ isbn13: 9780770429966
 created: 2023-08-26T18:11
 updated: 2023-10-21T21:23:17+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-10
 rating: 9

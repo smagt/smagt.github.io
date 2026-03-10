@@ -13,7 +13,7 @@ isbn13: 9780571341238
 isbn10: 571341233
 created: 2023-07-31T21:09
 updated: 2023-10-21T21:24:40+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-08
 rating: 7

@@ -13,7 +13,7 @@ isbn13: 9780743519809
 isbn10: 743519809
 created: 2023-07-31T21:35
 updated: 2023-10-21T21:22:09+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 9

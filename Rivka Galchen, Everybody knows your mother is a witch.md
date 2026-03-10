@@ -14,7 +14,7 @@ isbn13: 9780374711214
 isbn10: 374711216
 created: 2023-07-31T21:06
 updated: 2023-08-27T13:29
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-07
 rating: 7

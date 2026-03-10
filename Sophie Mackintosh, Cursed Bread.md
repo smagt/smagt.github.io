@@ -13,7 +13,7 @@ isbn10: 385548303
 created: 2023-08-27T13:29:43
 updated: 2023-10-23T09:06:35+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-05
 rating: 8

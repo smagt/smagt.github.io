@@ -11,7 +11,7 @@ isbn10: 7381794
 created: 2023-07-31T20:54
 updated: 2023-10-21T21:20:59+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-08
 rating: 8

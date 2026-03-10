@@ -14,7 +14,7 @@ previewLink: http://books.google.com/books?id=0A5HEAAAQBAJ&printsec=frontcover&d
 isbn13: 9780141992532
 isbn10: 141992530
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 8
 read: 2024-03-02

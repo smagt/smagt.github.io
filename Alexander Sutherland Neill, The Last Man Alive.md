@@ -11,7 +11,7 @@ link: https://books.google.com/books/about/The_Last_Man_Alive.html?hl=&id=0ZwiAQ
 previewLink: http://books.google.com/books?id=0ZwiAQAAIAAJ&q=Neill,+the+last+man+alive&dq=Neill,+the+last+man+alive&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn13: STANFORD:36105037920159
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-09
 rating: 10

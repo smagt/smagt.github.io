@@ -12,7 +12,7 @@ isbn10: 1529074495
 isbn13: 9781529074499
 created: 2023-09-01T18:37:40
 updated: 2023-10-21T21:40:14
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-08
 rating: 8

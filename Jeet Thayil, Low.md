@@ -13,7 +13,7 @@ isbn10: 571356435
 created: 2023-08-27T13:29:43
 updated: 2023-10-21T22:03:05
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-08
 rating: 3

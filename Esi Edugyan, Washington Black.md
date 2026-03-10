@@ -14,7 +14,7 @@ isbn10: 525521437
 created: 2023-07-31T20:00:00
 updated: 2024-07-27T21:40:26
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 7
 read: 2020-08

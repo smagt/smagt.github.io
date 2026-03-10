@@ -12,7 +12,7 @@ isbn10: 1473560888
 created: 2023-08-27T13:29:43
 updated: 2023-10-21T21:55:17
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-08
 rating: 8

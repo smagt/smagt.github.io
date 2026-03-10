@@ -16,7 +16,7 @@ previewLink: http://books.google.ch/books?id=95s7AQAAIAAJ&q=surely+you%27re+joki
 isbn13: UCSC:32106012776404
 blog: true
 read: 2024-07
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 7
 ---

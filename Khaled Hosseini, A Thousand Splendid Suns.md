@@ -12,7 +12,7 @@ previewLink: http://books.google.com/books?id=k7hIAw5WmmwC&pg=PT291&dq=a+thousan
 isbn13: 9781408803738
 isbn10: 1408803739
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 8
 read: 2024-01

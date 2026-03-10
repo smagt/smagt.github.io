@@ -17,7 +17,7 @@ isbn13: 9781640095793
 isbn10: 1640095799
 blog: true
 read: 2024-07-07
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 created: 2024-07-08T08:28:37

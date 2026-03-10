@@ -13,7 +13,7 @@ isbn10: 1488077215
 created: 2023-07-31T21:30
 updated: 2023-10-21T22:10:51+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 8

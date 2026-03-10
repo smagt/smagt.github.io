@@ -14,7 +14,7 @@ isbn10: 080509556X
 created: 2023-07-31T21:02
 updated: 2023-12-24T22:02:58+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-03
 rating: 6

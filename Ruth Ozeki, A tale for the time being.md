@@ -13,7 +13,7 @@ isbn13: 9781101606254
 isbn10: 1101606258
 created: 2023-07-31T21:22
 updated: 2023-10-21T22:18:26+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-10
 rating: 9

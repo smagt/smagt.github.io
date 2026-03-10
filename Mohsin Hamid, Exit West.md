@@ -13,7 +13,7 @@ isbn10: 073521218X
 created: 2023-07-31T20:57
 updated: 2023-09-18T08:11
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-09
 rating: 6

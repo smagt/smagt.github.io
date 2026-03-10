@@ -17,7 +17,7 @@ isbn13: 9781839768903
 isbn10: 1839768908
 created: 2024-10-06T13:54:38
 updated: 2024-10-06T14:40:27
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-09-31
 rating: 10

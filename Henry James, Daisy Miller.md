@@ -7,7 +7,7 @@ previewLink: http://books.google.com/books?id=ntvQByNTRzwC&printsec=frontcover&d
 created: 2023-09-01T19:17:18
 updated: 2023-10-21T21:39:59
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-05
 rating: 8

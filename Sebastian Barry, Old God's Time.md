@@ -13,7 +13,7 @@ isbn10: 571332803
 created: 2023-07-31T21:43
 updated: 2023-10-21T21:17:50+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-04
 rating: 5

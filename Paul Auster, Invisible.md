@@ -14,7 +14,7 @@ isbn13: 9781429982467
 created: 2023-07-31T21:00:00
 updated: 2024-08-04T20:29:48
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-10
 rating: 9

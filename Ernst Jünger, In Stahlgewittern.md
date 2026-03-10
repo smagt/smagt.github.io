@@ -12,7 +12,7 @@ isbn10: 3608106960
 created: 2023-10-05T12:43:17
 updated: 2024-05-31T20:43:54
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-03-02
 rating: 8

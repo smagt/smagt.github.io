@@ -12,7 +12,7 @@ isbn10: 192279032X
 created: 2023-07-31T21:46
 updated: 2023-12-24T20:12:18+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-05
 rating: 6

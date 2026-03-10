@@ -13,7 +13,7 @@ isbn13: 9781416562733
 isbn10: 1416562737
 created: 2023-07-31T20:55
 updated: 2023-10-21T21:22:37+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-08
 rating: 7

@@ -15,7 +15,7 @@ isbn10: 1982188707
 created: 2023-08-27T13:29
 updated: 2023-10-21T21:18:36+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2022-10
 rating: 6

@@ -14,7 +14,7 @@ isbn13: 9781782831082
 isbn10: 1782831088
 created: 2023-07-31T20:48
 updated: 2023-08-27T13:29
-parent: book I've read
+parent: books I've read
 blog: true
 layout: book
 read: 2020-06

@@ -16,7 +16,7 @@ previewLink: http://books.google.de/books?id=vXr_EAAAQBAJ&pg=PT495&dq=patriot+na
 isbn13: 9780593320976
 isbn10: 593320972
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 10
 read: 2024-11-18

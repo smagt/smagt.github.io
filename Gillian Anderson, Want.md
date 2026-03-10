@@ -18,7 +18,7 @@ isbn10: 1526657899
 read: 2024-09-13
 rating: 8
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 ---
   

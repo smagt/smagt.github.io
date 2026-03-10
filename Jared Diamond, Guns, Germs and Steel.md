@@ -13,7 +13,7 @@ isbn10: 99302780
 created: 2023-07-31T13:29
 updated: 2023-10-21T21:57:30+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 8

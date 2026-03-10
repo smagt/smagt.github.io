@@ -14,7 +14,7 @@ isbn10: 571365450
 created: 2023-07-30T21:35
 updated: 2023-10-21T22:12:58+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-07
 rating: 7

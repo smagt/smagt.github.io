@@ -13,7 +13,7 @@ isbn10: 1472261380
 created: 2023-09-12T20:00:00
 updated: 2024-08-09T18:26:11
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-08
 rating: 4

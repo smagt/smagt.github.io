@@ -11,7 +11,7 @@ isbn10: 038549081X
 created: 2023-08-26T16:39
 updated: 2023-10-21T22:41:32+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-01
 rating: 8

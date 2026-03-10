@@ -17,7 +17,7 @@ isbn13: 9781786583253
 isbn10: 1786583259
 read: 2024-09-08
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 8
 created: 2024-09-08T06:42:30

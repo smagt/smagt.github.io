@@ -13,7 +13,7 @@ isbn10: 578947099
 isbn13: 9780578947099
 created: 2023-07-31T21:34
 updated: 2023-10-22T17:23:52+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 9

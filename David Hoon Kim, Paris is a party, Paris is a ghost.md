@@ -13,7 +13,7 @@ isbn10: 374722498
 created: 2023-07-31T21:46
 updated: 2023-10-21T22:38:16+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-05
 rating: 7

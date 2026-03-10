@@ -13,7 +13,7 @@ previewLink: http://books.google.com/books?id=wsEXhw17prsC&printsec=frontcover&d
 isbn13: 9780141973326
 isbn10: 141973323
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-07-25
 rating: 9

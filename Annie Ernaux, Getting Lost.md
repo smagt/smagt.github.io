@@ -13,7 +13,7 @@ isbn13: 9781644212202
 isbn10: 164421220X
 created: 2023-07-30T21:30
 updated: 2023-10-21T21:21:59+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-06
 rating: 9

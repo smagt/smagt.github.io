@@ -16,7 +16,7 @@ previewLink: http://books.google.nl/books?id=UnPrzgEACAAJ&dq=nocilla+trilogy&hl=
 isbn10: 1804270083
 isbn13: 9781804270080
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-09-01
 rating: 7

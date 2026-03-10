@@ -7,7 +7,7 @@ previewLink: http://books.google.com/books?id=RB-WjwEACAAJ&dq=Paul+Auster,+The+M
 created: 2023-07-31T20:46
 updated: 2023-12-24T21:54:15+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-05
 rating: 8

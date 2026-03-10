@@ -12,7 +12,7 @@ isbn13: 9781912868230
 created: 2023-07-30T21:00:00
 updated: 2024-06-05T10:31:04
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-08
 rating: 8

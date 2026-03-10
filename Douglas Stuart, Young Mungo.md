@@ -12,7 +12,7 @@ isbn13: 9780802162120
 created: 2023-07-30T21:38
 updated: 2023-10-21T21:26:18+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 "read:": 2023-07
 rating: 8

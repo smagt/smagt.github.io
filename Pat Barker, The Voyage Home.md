@@ -16,7 +16,7 @@ previewLink: http://books.google.nl/books?id=311BEAAAQBAJ&pg=PT180&dq=pat+barker
 isbn13: 9780241568262
 isbn10: 241568269
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 read: 2024-08-31

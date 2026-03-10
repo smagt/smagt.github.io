@@ -16,7 +16,7 @@ isbn10: 1444710575
 created: 2023-07-31T21:07
 updated: 2023-08-27T13:29
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-07
 rating: 7

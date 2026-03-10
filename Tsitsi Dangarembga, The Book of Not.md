@@ -14,7 +14,7 @@ isbn10: 571368158
 created: 2023-07-31T21:00:00
 updated: 2024-07-27T21:33:51
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-09
 rating: 8

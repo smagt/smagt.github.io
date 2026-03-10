@@ -13,7 +13,7 @@ isbn13: 9781473654648
 isbn10: 1473654645
 created: 2023-07-31T21:39
 updated: 2023-10-21T21:20:13+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-03
 rating: 7

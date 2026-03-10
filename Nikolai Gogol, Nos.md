@@ -6,7 +6,7 @@ title: The Nose
 created: 2023-07-31T21:00:00
 updated: 2024-07-27T21:14:30
 read: 2021-10
-parent: book I've read
+parent: books I've read
 layout: book
 ---
   

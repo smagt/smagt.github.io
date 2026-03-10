@@ -15,7 +15,7 @@ isbn10: 1526634104
 created: 2023-07-31T21:00:00
 updated: 2024-07-07T16:24:47
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-09
 rating: 9

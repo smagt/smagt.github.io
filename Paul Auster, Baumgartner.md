@@ -12,7 +12,7 @@ previewLink: http://books.google.com/books?id=jS62EAAAQBAJ&printsec=frontcover&d
 isbn13: 9780571384969
 isbn10: 057138496X
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-12
 rating: 8

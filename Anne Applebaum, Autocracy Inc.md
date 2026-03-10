@@ -17,7 +17,7 @@ isbn13: 9798217014323
 read: 2024-10-30
 rating: 9
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 ---
   

@@ -15,7 +15,7 @@ previewLink: http://books.google.de/books?id=lHf0DwAAQBAJ&printsec=frontcover&dq
 isbn13: 9781472273055
 isbn10: 1472273052
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-08-16
 rate: 9

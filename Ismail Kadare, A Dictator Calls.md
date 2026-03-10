@@ -13,7 +13,7 @@ isbn10: 1640096086
 created: 2023-09-10T16:47
 updated: 2023-10-30T10:10:11+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-12
 rating: 8

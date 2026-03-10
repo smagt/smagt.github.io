@@ -16,7 +16,7 @@ previewLink: http://books.google.de/books?id=EPNAzQEACAAJ&dq=operation+jacknap&h
 isbn10: 1642935239
 isbn13: 9781642935233
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 8
 read: 2024-09-15

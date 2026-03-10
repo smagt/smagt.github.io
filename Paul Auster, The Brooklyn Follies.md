@@ -11,7 +11,7 @@ isbn13: 9782286016906
 created: 2023-07-31T21:01
 updated: 2023-12-24T20:22:46+01:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-03
 rating: 8

@@ -12,7 +12,7 @@ isbn10: 593678516
 created: 2023-07-30T21:00:00
 updated: 2024-07-26T13:28:28
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-06
 rating: 6

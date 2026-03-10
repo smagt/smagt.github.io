@@ -13,7 +13,7 @@ previewLink: http://books.google.com/books?id=xyBIEAAAQBAJ&printsec=frontcover&d
 isbn13: 9781526649751
 isbn10: 1526649756
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 9
 read: 2023-12

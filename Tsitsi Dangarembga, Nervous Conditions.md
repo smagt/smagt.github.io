@@ -14,7 +14,7 @@ isbn13: 9780571368136
 isbn10: 57136813
 created: 2023-07-31T21:12
 updated: 2023-12-24T21:37:13+01:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-09
 rating: 9

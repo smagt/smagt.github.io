@@ -18,7 +18,7 @@ isbn10: 1787705137
 created: 2024-09-05T08:34:39
 updated: 2024-09-05T08:34:52
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-09-05
 rating: 7

@@ -11,7 +11,7 @@ isbn10: 1787334619
 isbn13: 9781787334618
 created: 2023-09-04T06:21
 updated: 2023-12-24T18:50:19+01:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-09
 rating: 9

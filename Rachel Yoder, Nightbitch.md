@@ -14,7 +14,7 @@ isbn13: 9780385546829
 isbn10: 385546823
 created: 2023-07-31T21:00:00
 updated: 2024-06-03T14:17:50
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-09
 rating: 9

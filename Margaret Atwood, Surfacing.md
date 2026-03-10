@@ -9,7 +9,7 @@ link: https://books.google.com/books/about/Surfacing.html?hl=&id=O0ZaAAAAMAAJ
 previewLink: http://books.google.com/books?id=O0ZaAAAAMAAJ&q=Margaret+Atwood,+Surfacing&dq=Margaret+Atwood,+Surfacing&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 created: 2023-07-31T20:59
 updated: 2023-12-24T20:54:59+01:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-06
 rating: 8

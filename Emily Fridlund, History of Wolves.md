@@ -14,7 +14,7 @@ isbn10: 802189776
 created: 2023-07-31T20:00:00
 updated: 2024-07-27T21:30:41
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-09
 rating: 7

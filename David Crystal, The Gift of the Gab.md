@@ -13,7 +13,7 @@ previewLink: http://books.google.com/books?id=YGEdDAAAQBAJ&pg=PR4&dq=David+Cryst
 isbn13: 9780300214260
 isbn10: 030021426X
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-06
 rating: 8

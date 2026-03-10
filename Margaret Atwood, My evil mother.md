@@ -8,7 +8,7 @@ link: https://books.google.com/books/about/My_Evil_Mother.html?hl=&id=rmQkzwEACA
 previewLink: http://books.google.com/books?id=rmQkzwEACAAJ&dq=Margaret+Atwood,+My+evil+mother&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 created: 2023-07-30T08:00
 updated: 2023-12-24T21:13:54+01:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-06
 rating: 9

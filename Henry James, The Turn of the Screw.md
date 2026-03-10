@@ -11,7 +11,7 @@ created: 2023-09-01T19:18:56
 updated: 2024-08-03T20:35:31
 read: 2020-05
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 rating: 8
 ---

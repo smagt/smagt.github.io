@@ -12,7 +12,7 @@ previewLink: http://books.google.com/books?id=MepRCwAAQBAJ&printsec=frontcover&d
 isbn13: 9780385537049
 isbn10: 385537042
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2020-06
 rating: 7

@@ -15,7 +15,7 @@ previewLink: http://books.google.nl/books?id=KLPFEAAAQBAJ&printsec=frontcover&dq
 isbn13: 9781785136047
 isbn10: 1785136046
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2024-08-19
 rate: 8

@@ -13,7 +13,7 @@ isbn13: 9781473558502
 isbn10: 1473558506
 created: 2023-07-31T21:37
 updated: 2023-10-21T22:07:07+02:00
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-03
 rating: 6

@@ -14,7 +14,7 @@ isbn10: 1529019303
 created: 2023-07-31T21:03
 updated: 2023-10-21T21:26:01+02:00
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2021-03
 rating: 9

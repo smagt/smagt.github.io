@@ -13,7 +13,7 @@ isbn10: 1783528060
 created: 2023-07-31T21:00:00
 updated: 2024-07-26T06:51:36
 blog: true
-parent: book I've read
+parent: books I've read
 layout: book
 read: 2023-02
 rating: 8
