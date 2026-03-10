@@ -21,6 +21,6 @@ rating: 7
   
 "My name is Selma" is an autobiography of a holocaust survivor. I made the mistake of buying this book in Dutch, only to discover that the Dutch version is a translation of the English original. I tried then to get the original, failed, and plodded on in Dutch. It felt unnatural, despite the fact that the author, an octogenarian, is Dutch.    
   
-If you, like me, are not new to the second world war but have read books like [Anne Frank's diary](anne-frank-het-achterhuis.md), many of the details and topics that Selma describes will not be new, and in one way or the other not totally shocking. That gone, it's a compelling story of how she, a Jewish woman, moved through the war while being in the Netherlands (mostly), and surviving it. Bit of an odd story in parts, therein nice. But also, nothing special – which is, of course, rubbish since the story of a holocaust survivor is definitely special.  
+If you, like me, are not new to the second world war but have read books like [Anne Frank's diary](./Anne%20Frank,%20Het%20Achterhuis.md.md), many of the details and topics that Selma describes will not be new, and in one way or the other not totally shocking. That gone, it's a compelling story of how she, a Jewish woman, moved through the war while being in the Netherlands (mostly), and surviving it. Bit of an odd story in parts, therein nice. But also, nothing special – which is, of course, rubbish since the story of a holocaust survivor is definitely special.  
   
 I didn't mind the book. But it also did not ring to me. Sorry.  
